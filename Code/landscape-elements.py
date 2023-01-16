@@ -1,0 +1,21 @@
+import xml.etree.ElementTree as ET
+
+tree = ET.parse('Data/dataset_landscape.xml')
+root = tree.getroot()
+
+keys = set()
+cats = set()
+types = set()
+
+for i in root:
+  print(i.tag, i.get('nr'), end = ' ')
+  for j in i.iter('landscape'):
+    print(j.attrib, end = ' ')
+    keys.update(j.keys())
+    cats.add(j.get("cat"))
+    types.add(j.get("type"))
+  print()
+
+print(cats)
+print(keys)
+print(types)
