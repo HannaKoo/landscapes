@@ -6,5 +6,5 @@ root = tree.getroot()
 for i in root:
   print(i.tag, i.get('nr'), end = ' ')
   for j in i.iter('issuer'):
-    print(j.tag, end = ' ')
+    print(j.attrib, end = ' ')
   print()
