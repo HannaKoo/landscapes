@@ -4,7 +4,7 @@
 
 <document nr="01" nrDF="649" type="testament" when="1355-07-06" where="NN" link="http://df.narc.fi/document/649">
 
-<regesta editor="Hausen" nrREA="160" xml:lang="sv"><issuer status="ecc" gender="m" onlyone="y">Presbytern Henrik Tempil</issuer> testamenterar till S:t Görans altare i Åbo domkyrka sina gods på Luonto och sin gård i Åbo, förutom andra saker, samt gör en mängd dispositioner åt särskilda personer. 
+<regesta editor="Hausen" nrREA="160" xml:lang="sv"><issuer status="ecclesiastic" gender="m" onlyone="y">Presbytern Henrik Tempil</issuer> testamenterar till S:t Görans altare i Åbo domkyrka sina gods på Luonto och sin gård i Åbo, förutom andra saker, samt gör en mängd dispositioner åt särskilda personer. 
 <folio>Fol. 102 v.</folio>
 </regesta>
 
@@ -12,18 +12,18 @@
 
 <edition editor="Hausen" xml:lang="la">
 <title>Testamentum domini Henrici Tempill de predijs jn Linito (ͻ: Lunto)<note type="editorial" xml:lang="sv">Ehuru såväl här i öfverskriften som på ett ställe i sjelfva testamentet tydligt står Linito (-te), kan man ej tvifla på att detta är en misskrifning för Lunto, emedan testamentet före kommer i Svartboken tillsammans med öfriga der intagna bref rörande Luonto.</note></title> 
-In nomine Domini amen. Cum secundum apostolum omnes quidem homines corporaliter resurgere habent de factis racionem propriis ineuitabiliter reddituri atque secundum meritorum exigenciam remuneracionis stipendia eternaliter adepturi, ob hoc ego Henricus presbiter, antiquus scolasticus Aboensis, de bonis michi a Deo temporaliter concessis per modum qui subsequitur meum condo testamentum. Jn primis lego, in honorem sancti Andree apostoli, altari beati Gregorij <note type="editorial" xml:lang="sv">Tvifvelsutan misskrifning för Georgii.</note>, ante cuius gradus meam eligo sepulturam, bona mea immobilia cum curia jn Luntha situata ac inuentario tali modo confecto, videlicet vj vaccis mulgentibus, duobus bobus domitis in vectigali, vj capris antiquis et totidem ouibus ceterisque vtensilibus curie eiusdem; jnsuper <landscape cat="built" type="house">curiam</landscape> meam in Abo cum suo inuentario, videlicet j majore culcedra, duobus nouis lintheaminibus, j lodice, j tapeto, duobus puluenaribus et j cussino, dicto ørnegat, j mensali, j manitergio, j lauatorio, j pelui, ij caldariis, iij ollis, j craticula, j frixorio, j securi, j vacua lagena ceruisie, duabus dimidiis lagenis, ij amforis stan[n]eis, ij amforis ligneis cum ij doliis et j caldaria de tintinabulo, j mola cum pistrinis instrvmentis; jusuper altari predicto, vt premittitur, imaginem sancti Andree apostoli de triginta marcis, j capellam integram, j breuiarium, emptum pro xiiij marcis, j missale. Jtem prebendatus sepedicti altaris j missam de sancto Andrea et aliam pro fidelibus defunctis qualibet ebdomeda (ͻ: ebdomade) sine diminucione qualibet in vestimento (?)<note type="editorial" xml:lang="sv">Se facsimilet i slutet af boken.</note> sacerdocij plene (ͻ: -no?) dicat, nullatenus omissurus; jtem cuilibet chorali in exequiis funeris mei presencialiter existenti ij (h)oras. Jtem conuentui fratrum predicatorum in Abo iij marchas; jtem domino Magno Alendensi (!) sermones super ewangelia et epistolas per totum annum; jtem fratri Johanni Gladda j calicem viaticum cum lapide altaris consecrato; jtem hospitali j psalterium commune sanctorum et j legendarium cum historiis ab aduentu Dominj vsque ad iiij diem penthecostes; jtem Johanni, dicto Brodherson, vnum librum legis Sudhermannice; jtem colono meo Nicolao j togam duplicatam cum capucio. Jnsuper nouerint vniuersi, quod dilecta soror mea Cristina michi omnimodam prediorum patrimonialium suorum porcionem hereditariam in Linite (ͻ: Luntha) iure perpetuo possidendam et penitus ordinandam resignauit. De me e conuerso <landscape cat="built" type="house">curiam</landscape> meam in Abo, propriis meis sumptibus constrvctam, in qua nunc Elena Bacarris residet, et <landscape cat="built" type="lot"></landscape>fundum, quem Thomas Pernuus <note type="editorial" xml:lang="sv">Kan ock läsas: Permius."</note> pronunc habet, resumpsit. Ceterum Conrado, dicto Paris, genero ipsius, racione dotalicij cum filia sua Katerina, pro sepedictis prediis jn  Luntha xxxv marchas solui, presentibus viris discretis, vt satis constat. Jtem si soror mea hec, que dicta sunt, obseruare quomodo distulerit, michi omnia restituat supradicta cum laboribus et expensis in curia mea memorata Luntha in strvctura domorum inibi tunc consumptis. Ceterem (ͻ: -rum) nouerint vniuersi, quod tempore, quo discretus vir Hennichinus Øslare dilectam sororem meam Cristinam prescriptam in matrimonialem copulam duxit, lx marchas, agrvm Pahimenth, in ornatu vestium, in dotalicio et expensis sibi dedi. Jtem declaro, quod percepcione v marcharum de Luntha deriuandarum et residencia in <landscape cat="built" type="estate">curia</landscape> in Abo, quamdiu vixero, personaliter vti volo, cum eciam approbatum in sacris canonibus euidenter inuenitur, quod testamentum tantum morte confirmatur et post mortem immobile perseuerat. Acta et scripta sunt hec anno Dominj mºcccºlº quinto, jn octaua apostolorum Petri et Paulj, sub sigillis reuerendi dominj, dominj Henrici, prepositi Aboensis, Dethmari Lydhinsket, Conradi pictoris meo proprioque sigillo jn huius rei euidenciam firmiorem. Jtem seniori conuiuij beati Nicolai j mensale pro tabulo suo, quod Conradus pictor exhibebit. Jtem filio eiusdem Conradi v libros decretales cum apparatu et omnibus libris veteris artis cum suis scriptis et glosis.</edition>
+In nomine Domini amen. Cum secundum apostolum omnes quidem homines corporaliter resurgere habent de factis racionem propriis ineuitabiliter reddituri atque secundum meritorum exigenciam remuneracionis stipendia eternaliter adepturi, ob hoc ego Henricus presbiter, antiquus scolasticus Aboensis, de bonis michi a Deo temporaliter concessis per modum qui subsequitur meum condo testamentum. Jn primis lego, in honorem sancti Andree apostoli, altari beati Gregorij <note type="editorial" xml:lang="sv">Tvifvelsutan misskrifning för Georgii.</note>, ante cuius gradus meam eligo sepulturam, bona mea immobilia cum curia jn Luntha situata ac inuentario tali modo confecto, videlicet vj vaccis mulgentibus, duobus bobus domitis in vectigali, vj capris antiquis et totidem ouibus ceterisque vtensilibus curie eiusdem; jnsuper <landscape cat="built" type="house" transaction="object">curiam</landscape> meam in Abo cum suo inuentario, videlicet j majore culcedra, duobus nouis lintheaminibus, j lodice, j tapeto, duobus puluenaribus et j cussino, dicto ørnegat, j mensali, j manitergio, j lauatorio, j pelui, ij caldariis, iij ollis, j craticula, j frixorio, j securi, j vacua lagena ceruisie, duabus dimidiis lagenis, ij amforis stan[n]eis, ij amforis ligneis cum ij doliis et j caldaria de tintinabulo, j mola cum pistrinis instrvmentis; jusuper altari predicto, vt premittitur, imaginem sancti Andree apostoli de triginta marcis, j capellam integram, j breuiarium, emptum pro xiiij marcis, j missale. Jtem prebendatus sepedicti altaris j missam de sancto Andrea et aliam pro fidelibus defunctis qualibet ebdomeda (ͻ: ebdomade) sine diminucione qualibet in vestimento (?)<note type="editorial" xml:lang="sv">Se facsimilet i slutet af boken.</note> sacerdocij plene (ͻ: -no?) dicat, nullatenus omissurus; jtem cuilibet chorali in exequiis funeris mei presencialiter existenti ij (h)oras. Jtem conuentui fratrum predicatorum in Abo iij marchas; jtem domino Magno Alendensi (!) sermones super ewangelia et epistolas per totum annum; jtem fratri Johanni Gladda j calicem viaticum cum lapide altaris consecrato; jtem hospitali j psalterium commune sanctorum et j legendarium cum historiis ab aduentu Dominj vsque ad iiij diem penthecostes; jtem Johanni, dicto Brodherson, vnum librum legis Sudhermannice; jtem colono meo Nicolao j togam duplicatam cum capucio. Jnsuper nouerint vniuersi, quod dilecta soror mea Cristina michi omnimodam prediorum patrimonialium suorum porcionem hereditariam in Linite (ͻ: Luntha) iure perpetuo possidendam et penitus ordinandam resignauit. De me e conuerso <landscape cat="built" type="house">curiam</landscape> meam in Abo, propriis meis sumptibus constrvctam, in qua nunc Elena Bacarris residet, et <landscape cat="built" type="lot"></landscape>fundum, quem Thomas Pernuus <note type="editorial" xml:lang="sv">Kan ock läsas: Permius."</note> pronunc habet, resumpsit. Ceterum Conrado, dicto Paris, genero ipsius, racione dotalicij cum filia sua Katerina, pro sepedictis prediis jn  Luntha xxxv marchas solui, presentibus viris discretis, vt satis constat. Jtem si soror mea hec, que dicta sunt, obseruare quomodo distulerit, michi omnia restituat supradicta cum laboribus et expensis in curia mea memorata Luntha in strvctura domorum inibi tunc consumptis. Ceterem (ͻ: -rum) nouerint vniuersi, quod tempore, quo discretus vir Hennichinus Øslare dilectam sororem meam Cristinam prescriptam in matrimonialem copulam duxit, lx marchas, agrvm Pahimenth, in ornatu vestium, in dotalicio et expensis sibi dedi. Jtem declaro, quod percepcione v marcharum de Luntha deriuandarum et residencia in <landscape cat="built" type="estate">curia</landscape> in Abo, quamdiu vixero, personaliter vti volo, cum eciam approbatum in sacris canonibus euidenter inuenitur, quod testamentum tantum morte confirmatur et post mortem immobile perseuerat. Acta et scripta sunt hec anno Dominj mºcccºlº quinto, jn octaua apostolorum Petri et Paulj, sub sigillis reuerendi dominj, dominj Henrici, prepositi Aboensis, Dethmari Lydhinsket, Conradi pictoris meo proprioque sigillo jn huius rei euidenciam firmiorem. Jtem seniori conuiuij beati Nicolai j mensale pro tabulo suo, quod Conradus pictor exhibebit. Jtem filio eiusdem Conradi v libros decretales cum apparatu et omnibus libris veteris artis cum suis scriptis et glosis.</edition>
 </document>
 
 <document nr="02" nrDF="785" type="testament" when="1370-05-31" link="http://df.narc.fi/document/785">
 
-<regesta editor="Hausen" nrREA="213" xml:lang="sv">Borgaren <issuer status="bourgeois" gender="m" onlyone="n">Hennikin Närfve</issuer> i Åbo och hans hustru <issuer status="" gender="f" onlyone="n">Lucia</issuer> skänka sin gård invid domkyrkan jämte en kålgård till S:t Katharina altare i Åbo domkyrka.
+<regesta editor="Hausen" nrREA="213" xml:lang="sv">Borgaren <issuer status="burgher" gender="m" onlyone="n">Hennikin Närfve</issuer> i Åbo och hans hustru <issuer status="burgher wife" gender="f" onlyone="n">Lucia</issuer> skänka sin gård invid domkyrkan jämte en kålgård till S:t Katharina altare i Åbo domkyrka.
 <folio>Fol. 171.</folio></regesta>
 
 <regesta source="SDHK" nrSDHK="9712" xml:lang="sv">Åboborgaren Henneke Narve och hans hustru Lucia skänker till S:ta Katarinas altare i Åbo domkyrka den gård de nu bor i på östra sidan om domkyrkan, jämte en kålgård, under förutsättning att de under sin livstid får behålla äganderätten och att prebendaten vid altaret anbefaller dem och övriga som givit gåvor i sina böner.</regesta>
 
 <edition editor="Hausen" xml:lang="la">
-<title>Super <landscape cat="built" type="building">fundico</landscape> in quo residet altarista sancte Katherine.</title>
+<title>Super <landscape cat="built" type="building" transaction="object">fundico</landscape> in quo residet altarista sancte Katherine.</title>
     Omnibus presens scriptum cernentibus Hennikinus Nærffwe, ciuis    Aboensis
     , salutem in Domino sempiternam. Nouerint vniuersi, quod ego et Lucia, vxor mea,
    curiam
@@ -34,7 +34,7 @@ In nomine Domini amen. Cum secundum apostolum omnes quidem homines corporaliter 
     <landscape cat="built" type="building">ecclesie</landscape>
     , cum fundo dicto kaalgordh, in honorem Dei et salutem animarum nostrarum damus altari beate Katherine in ecclesia
     Aboensi, tali condicione, quod temporibus vite nostre cedat possessioni, et post mortem nostram cedat altari supradicto. Prebendatus vero ibidem nos, sicut ceteros qui eidem altari elemosinas dederunt, in oracionibus suis habeat commendatos. J[n] huius testimonium sigillum meum vna cum sigillo discreti viri Finke, cuius consensv hec acta sunt, presentibus est appensum. Scriptum
-    ###<place issued="Turku">Abo</place>
+Abo
     anno etc:a mcccºlxx, fferia sexta post octauam ascensionis.
 </edition>
 </document>
@@ -43,7 +43,7 @@ In nomine Domini amen. Cum secundum apostolum omnes quidem homines corporaliter 
 
 <document nr="04" nrDF="1124" type="" when="1379-08-14" link="http://df.narc.fi/document/1124">
 
-<regesta editor="Hausen" nrFMU1="1124" xml:lang="sv">Åbo borgaren <issuer status="bourgeois" gender="m" onlyone="y">Robert</issuer> säljer åt Sune Håkansson sina hus på en Åbo domkyrka tillhörig tomt.
+<regesta editor="Hausen" nrFMU1="1124" xml:lang="sv">Åbo borgaren <issuer status="burgher" gender="m" onlyone="y">Robert</issuer> säljer åt Sune Håkansson sina hus på en Åbo domkyrka tillhörig tomt.
 <folio>Ur ett förmodligen från slutet av 1400-talet härrörande, Uppsala universitetsbibliotek tillhörigt kopiehäfte in 4:o, signerat E 214 samt med titel: "Copiae litterarum altaris sancti Sigffridi", fol. 8 v.</folio>
 </regesta>
         
@@ -54,7 +54,7 @@ Utfärdaren beseglar.
 </regesta>
 
 <edition editor="Hausen" xml:lang="la">
-Omnibus presens scriptum cernentibus Robertus, ciuis Aboensis, salutem in Domino sempiternam. Tenore presencium constare volo omnibus euidenter, me nobili viro Sunonj Hokonson omnes <landscape cat="built" type="building">domos</landscape> vendidisse in <landscape cat="built" type="building">ffundo</landscape> <landscape  cat="built" type="building">curie</landscape> mee tunc edificatos et non ipsum <landscape cat="built"  type="building">fundum</landscape>, quoniam quidem <landscape cat="built" type="building">ffundum</landscape> possidet et ab antiquo possederat <landscape cat="built" type="building">ecclesia chatedralis</landscape>. Scriptum <place issued="Turku">Abo</place> anno Domini m°ccc° lxxix, dominica infra octauas beati Laurencii. In huius testimonium sigillum meum presentibus est appensum.
+Omnibus presens scriptum cernentibus Robertus, ciuis Aboensis, salutem in Domino sempiternam. Tenore presencium constare volo omnibus euidenter, me nobili viro Sunonj Hokonson omnes <landscape cat="built" type="building" transaction="object" >domos</landscape> vendidisse in <landscape cat="built" type="building">ffundo</landscape> <landscape  cat="built" type="building">curie</landscape> mee tunc edificatos et non ipsum <landscape cat="built"  type="building">fundum</landscape>, quoniam quidem <landscape cat="built" type="building">ffundum</landscape> possidet et ab antiquo possederat <landscape cat="built" type="building">ecclesia chatedralis</landscape>. Scriptum <place issued="Turku">Abo</place> anno Domini m°ccc° lxxix, dominica infra octauas beati Laurencii. In huius testimonium sigillum meum presentibus est appensum.
 </edition>
 </document>
 
@@ -63,7 +63,7 @@ Omnibus presens scriptum cernentibus Robertus, ciuis Aboensis, salutem in Domino
  362
 (8 Mars 1416?<note type="editorial">Se biskop Magni den 8 Mars detta år härå gifna konfirmation.</note>)
 
-Ärkedjäknen <scilicet its="archdeacon"/> i Åbo <issuer status="ecc" gender="m" onlyone="y">Johan Anundsson</issuer> skänker under vissa vilkor till det af honom stiftade S:t Johannes altaret i Åbo domkyrka jordagods i Vemo, Masku, Rusko, Pemar och Vesilax socknar äfvensom en gård i Åbo stad och en äng.
+Ärkedjäknen <scilicet its="archdeacon"/> i Åbo <issuer status="ecclesiastic" gender="m" onlyone="y">Johan Anundsson</issuer> skänker under vissa vilkor till det af honom stiftade S:t Johannes altaret i Åbo domkyrka jordagods i Vemo, Masku, Rusko, Pemar och Vesilax socknar äfvensom en gård i Åbo stad och en äng.
 <folio>Fol. 207.</folio>
 </regesta>
 
@@ -80,7 +80,7 @@ Johannes Anundi, ädj i Åbo, stiftar ett altare i Åbo domkyrka till Guds, jung
 Wniuersis et singulis presentes litteras inspecturis Johannes Anundi, archidiaconus Aboensis, salutem in Domino sempiternam. Quia ex testimonio veritatis vnusquisque mortalium villicus Dei fore dinoscitur in hoc mundo, quem de villicacione sua necesse erit tandem reddere racionem, jdcirco ego Johannes Anundi prefatus, tempus id districtum cupiens preuenire, de bonis michi a Deo collatis altare quoddam ad honorem ipsius Dei et beatissime virginis Marie necnon sanctorum Johannis baptiste et Johannis ewangeliste, ob salutem anime mee et aliorum amicorum meorum, de consensv venerabilis patris domini Beronis, bone memorie quondam episcopi Aboensis, jn eadem <landscape cat="built" type="building">ecclesia Aboensi</landscape> feci, institui et fundaui ipsumque altare fundatum de consensu heredum meorum subscripto meo nomine dato (ͻ: doto?) jn primis <note type="editorial" xml:lang="sv">Här synes något vara öfverhoppadt. Jfr följande bref!</note>. Jtaque ad ampliacionem cultus diuini et sustentacionem ministrorum ipsius lego, deputo et dispono altari prefato predium meum Rackamala, parrochia Wemo; jtem in parrochia Masko predium Jwla (ͻ: Juwa ?) et duo predia in Sopola; jtem in parrochia Ruskopredium Hydenwainio et predium meum in villa Mertiælæ; jtem in parrochia Pemare vnum predium dictum Heslebergh, aliud dictum Mayankalma, 3:m predium meum in Marianwari; jtem in parrochia Wæsilagx duo predia, vnum videlicet in villa Lawcko et aliud in Totkyrajerfiuj; et que predia omnia et singula scilicet supradicta cum quibuscunque attinenciis suis hodie a me et ab heredibus meis alienando abdico per presentes dictoque altari ac eius prouisorj cum omni iure perpetuo possidenda approprio et appono, tali condicione adiecta, quod quilibet prebendatus eiusdem altaris, qui pro tempore fuerit, debebit omni ebdomada celebrare aut facere celebrari tres missas in altarj prefato, quarum vna sit pro fidelibus defunctis et specialiter pro fundatore et aliis benefactoribus eiusdem altaris, preteritis, presentibus et futuris, et alie sicut placet. Tenebitur insuper omni anno celebrare aut facere celebrari duas cantatas exequias pro me et parentibus meis ac heredibus nominatim, semel videlicet in vere, in crastino sancti Iohannis ante portam latinam, et semel in autumpno, in crastino decollacionis sancti Johannis baptiste, vtraque vice vespere precedente vigilias cantatas habendo ante altare predictum et in crastino 4:or missas pro defunctis, quarum vnam ante idem altare cantabit, alias autem lectas vbi locus vacauerit faciet celebrarj. Volo preterea et dispono, quod presentacio, prouisio, collacio seu queuis alia ordinacio dicti beneficij post mortem meam ad nullum alium quam ad ordinarium loci debeat pertinere, eo quod predia illa sunt pro maxima parte intuitu ecclesie acquisita; quare ab heredibus meis omne jus patronatus, si quod in dicto beneficio videntur habere, aufero per presentes et episcopo Aboensi, qui pro tempore fuerit, pleno jure committo, reseruata tamen michi quoad vixero libera facultate de beneficio prelibato et omnibus rebus ad ipsum pertinentibus secundum meum libitum ordinandi et in fine vite mee vnicam tantum personam, que ipsum beneficium possideat, presentandj. J[n] cuius rei etc:a.
 </p>
 <p>
-Jtem vnam <landscape cat="built" type="house">curiam</landscape> in Abo sitam ex opposito <landscape cat="built" type="lot" >fundi</landscape> sancti Siffridi <direction>in angulo</direction> et <landscape cat="built" type="garden">ortum oleris</landscape> vltra <landscape cat="river">ampnem</landscape> cum <landscape cat="built" type="FIXME">granario</landscape> ibidem. Jtem pratum  vnum in Teriranta de xx plaustris feni, etc:a.
+Jtem vnam <landscape cat="built" type="house" transaction="object">curiam</landscape> in Abo sitam ex opposito <landscape cat="built" type="lot" >fundi</landscape> sancti Siffridi <direction>in angulo</direction> et <landscape cat="built" type="garden">ortum oleris</landscape> vltra <landscape cat="river">ampnem</landscape> cum <landscape cat="built" type="FIXME">granario</landscape> ibidem. Jtem pratum  vnum in Teriranta de xx plaustris feni, etc:a.
 </p>
 </edition>
 </document>
@@ -105,17 +105,17 @@ Martinus Lesken, notary public, certifies upon the request of Nikolaus Mulle, St
 </regesta>
 
 <edition editor="Hausen" xml:lang="la">
-<title>Instrvmentum publicum super <landscape> FIXME "MUDGRAVE" Leergraffuan </landscape>.</title>
+<title>Instrvmentum publicum super <landscape cat="natural" type="mud pits">Leergraffuan</landscape>.</title>
 In nomine Dominj amen. Anno a natiuitate Eiusdem millesimo quadringentesimo quinquagesimo quarto, jndiccione septimo, pontificatu sanctissimi in Christo patris et dominj nostri dominj Felicis, diuina prouidencia pape quintj, anno eius quarto, die vero duodecima mensis Maij, in summo choro ecclesie Aboensis, hora ante meridiem nona uel quasi, jn mei notarii publici subscripti testiumque infrascriptorum ad hoc specialiter vocatorum et rogatorum presencia constitutus honorabilis vir dominus Nicolaus Mulle yconomus necnon canonicus ecclesie Aboensis, litteras quasdam papireas sigilloque de cera viridis coloris dorsotenus impressas, jn cuius quidem sigillj inferiori parte clipeus triangularis, in clipeo vero 3:s trabes lucide cernebantur, supra clipeum quoque galea quedam et super galeam duo cornua erecta clare apparebant, littere vero circumferenciales eiusdem sigilli legentibus patenter elucebant: Sigillum Claus Flæmingh militis, saluas, sanas et integras, non viciatas nec in aliqua sui parte suspectas, sed omni prorsus vicio et suspicione carentes, produxit et ipsas per me notarium publicum subscriptum coram testibus fide dignis legi ac publicari postulauit, quas ego notarius publicus cum ea qua decuit reuerencia de manibus eius suscipiens publice legi, quarum tenor de verbo ad verbum in sweco ydeomate sequitur et est talis: ### <language FIXME="Swedish"/> For allom thetta breff høra eller sæ kennis jac Clauus Flæmingh (etc. Se n. 407). Post quarum quidem litterarum produccionem, leccionem et diligentem examinacionem prefatus dominus Nicolaus Mulle, dicte ecclesie Aboensis yconomus, me notarium publicum subscriptum debita cum instancia requisiuit quatenus ipsas litteras copiando sibi ex eis vnum uel plura publicum sev publica conficerem instrvmentum siue instrumenta et quot fuerint necessaria et oportuna. Acta sunt hec anno jndiccione, pontificatu, mense, die, hora et loco quibus supra, presentibus ibidem honorabilibus et discretis viris dominis Johanne Jasparis, Henrico Akthi et Olauo Henrici, presbiteris, Gerlaco Fridagh et Lamberto Jonisson, ciuibus Aboensis dyocesis testibus ad premissa vocatis specialiter et rogatis.
-Et ego ###<issuer status="ecc">Martinus Lesken</issuer>, clericus Wladislauiensis dyocesis, publicus imperialj auctoritate notarius, quia huiusmodi litterarum produccioni, leccioni et diligenti examinacioni aliisque omnibus et singulis dum sic vt premittitur fierent et agerentur vna cum prenominatis testibus presens interfui, eaque sic fieri vidi et audiui, jdeoque inserendo hic prefatas litteras de verbo ad verbum nichil addendo uel minuendo ex eis hoc presens publicum instrumentum, manu mea propria scriptum confeci signoque et nomine meis solitis et consuetis consignaui, rogatus et requisitus in fidem et testimonium omnium et singulorum premissorum. <note type="editorial">Härunder är tecknadt: Super lærgraffuen.</note>
+Et ego <issuer status="ecclesiastical">Martinus Lesken</issuer>, clericus Wladislauiensis dyocesis, publicus imperialj auctoritate notarius, quia huiusmodi litterarum produccioni, leccioni et diligenti examinacioni aliisque omnibus et singulis dum sic vt premittitur fierent et agerentur vna cum prenominatis testibus presens interfui, eaque sic fieri vidi et audiui, jdeoque inserendo hic prefatas litteras de verbo ad verbum nichil addendo uel minuendo ex eis hoc presens publicum instrumentum, manu mea propria scriptum confeci signoque et nomine meis solitis et consuetis consignaui, rogatus et requisitus in fidem et testimonium omnium et singulorum premissorum. <note type="editorial">Härunder är tecknadt: Super lærgraffuen.</note>
 </edition>
 
-407
+<note type="addition">407
 27 Oktober 1423
 Åbo
 Lagman Klas Fleming gifver till känna, att de synemän han jämte riddarne Nils Gustafsson och Krister Nilsson utsett i en tvist mellan Åbo stad och domkyrkan derstädes beträffande de s. k. domkyrkans lergrafvar, stannat vid olika åsigt, i det ena hälften yttrat sig till förmån för kyrkan och den andra för staden.
 Fol. 41. — Öfverskrift: Super Mæthejerffwj. — Brefvet ingår ock, utan anmärkningsvärda varianter, i en af notar. publ. Martin Lesken den 12 Maj 1454 utfärdad vidimation, som i Svartboken (fol. 40—40v.) bär öfverskriften: Instrvmentum publicum super Lergraffuan.
-For allom thom thetta breff høra eller see kennis jac Clauus Flæming, riddare oc lagman j Østerlandin, myk haffua hordh the sama synemæn, som ærlika men her Niclis Gotzstaffson oc her Cristiern Niclisson, riddare, mins herra raadh, oc jak met them dømdom met samnadho radhe mellan domkirkionne j Abo ok radhet ther sama standz vpa ena mark, som kallas domkirkionne lergraffuar oc stadhen sik eghna vil, hwilke sinemæn sigh atskilde oc ey offuer ena drogho, vtan tessa siex, Suno Sunoson, Benth Lydekason, Jonis Torkilson, Olaff Kirwis, Michel Joanson oc Henric Haloson, sagde domkirkionne til fra domproastins sudra akergardz hørne oc swa nidher met gropænna som fra Kupiza loper oc til Hinza Knaps sudra akergardz hørne, ok swa nidher moth stadhen vidh Mariavores gaardh oc fram met the gordana epter gambla bigningena til Gærwins Cristine gardh, som henne kolgaardh forre war, oc fra sama gardzins osternorra horne til proastins akirhorne, ther hans rie forre stodh, vtan the løthona offuan gropenæ ligger vnder Galghaberghit, fra Diegna kældona oc til domprouastins offra akerz horne, sagde the ingen til eller sinte; oc tessa for:de siæx vediade vnder ena rætta ransakan epter laghen fore myn herre konungin eller hans radh, at theras ordh oc syn scal sannare finnas epter the beuisning, vithnom oc skelom, som the horde pa bade syder oc sago, en theras siæx som stadenom til sagdho helfthena aff the forscripna markinnæ. Ok tesse tre, Laurens Roware, Haquon Skitte oc Jonis Jngonen kastade theras vædzfæ amothe thom, vtan the andra tre, Jonis Michelson, Adam ok Olaff Slattare, the vilde ey vediæ. Til thes mera visso oc aminnilse trikker jak mith incigle vpa ryggen tesso breffue. Scriptum Abo anno Domini mcdxxiij, jn vigilia gloriosorum Symonis et Iude apostolorum.
+For allom thom thetta breff høra eller see kennis jac Clauus Flæming, riddare oc lagman j Østerlandin, myk haffua hordh the sama synemæn, som ærlika men her Niclis Gotzstaffson oc her Cristiern Niclisson, riddare, mins herra raadh, oc jak met them dømdom met samnadho radhe mellan domkirkionne j Abo ok radhet ther sama standz vpa ena mark, som kallas domkirkionne lergraffuar oc stadhen sik eghna vil, hwilke sinemæn sigh atskilde oc ey offuer ena drogho, vtan tessa siex, Suno Sunoson, Benth Lydekason, Jonis Torkilson, Olaff Kirwis, Michel Joanson oc Henric Haloson, sagde domkirkionne til fra domproastins sudra akergardz hørne oc swa nidher met gropænna som fra Kupiza loper oc til Hinza Knaps sudra akergardz hørne, ok swa nidher moth stadhen vidh Mariavores gaardh oc fram met the gordana epter gambla bigningena til Gærwins Cristine gardh, som henne kolgaardh forre war, oc fra sama gardzins osternorra horne til proastins akirhorne, ther hans rie forre stodh, vtan the løthona offuan gropenæ ligger vnder Galghaberghit, fra Diegna kældona oc til domprouastins offra akerz horne, sagde the ingen til eller sinte; oc tessa for:de siæx vediade vnder ena rætta ransakan epter laghen fore myn herre konungin eller hans radh, at theras ordh oc syn scal sannare finnas epter the beuisning, vithnom oc skelom, som the horde pa bade syder oc sago, en theras siæx som stadenom til sagdho helfthena aff the forscripna markinnæ. Ok tesse tre, Laurens Roware, Haquon Skitte oc Jonis Jngonen kastade theras vædzfæ amothe thom, vtan the andra tre, Jonis Michelson, Adam ok Olaff Slattare, the vilde ey vediæ. Til thes mera visso oc aminnilse trikker jak mith incigle vpa ryggen tesso breffue. Scriptum Abo anno Domini mcdxxiij, jn vigilia gloriosorum Symonis et Iude apostolorum.</note>
 
 
 </document>
@@ -136,7 +136,7 @@ Divers notes concerning the purchase for Abo Cathedral of lots, fields, meadow-l
 </regesta>
 
 <edition editor="Hausen" xml:lang="la">
-Anno 55º dominus Petrus Henrici, condam ychonomus ecclesie Aboensis, emit a Johanne Swarte in Helga, parrochie Berna , quendam fundiculum promtuarij, situm iuxta promptuaria <scilicet its="prōmptuārium n (genitive prōmptuāriī or prōmptuārī)"/> sancti Henricj <landscape>vltra ampnem</landscape> <landscape type="bridge">versus pontem</landscape> , <landscape>inter ortum prebende</landscape> sancti Iohannis et granaria <scilicet its="grānārium n (genitive grānāriī or grānārī); second declension (chiefly in the plural) granary/viljavarasto"/> sancti Henricj, pro xj marcis denariorum, in quem <landscape cat="built" type="FIXME">fundiculum</landscape> ego Petrus Petri transtulj quandam opellam de Awas, pro qua dedit sancto Henrico dominus Nicolaus Nicolaj iij marcas vj oras ad dies vite sue; post mortem suam redibit ad ychonomiam.
+Anno 55º dominus <issuer status="ecclesiastic">Petrus Henrici</issuer>, condam ychonomus ecclesie Aboensis, emit a Johanne Swarte in Helga, parrochie Berna , quendam fundiculum promtuarij, situm iuxta promptuaria <scilicet its="prōmptuārium n (genitive prōmptuāriī or prōmptuārī)"/> sancti Henricj vltra <landscape cat="built" type="river">ampnem</landscape> versus <landscape cat="built" type="bridge">pontem</landscape>, inter <landscape cat="built" type="garden">ortum</landscape> prebende sancti Iohannis et <landscape cat="built" type="granary">granaria</landscape> <scilicet its="grānārium n (genitive grānāriī or grānārī); second declension (chiefly in the plural) granary/viljavarasto"/> sancti Henricj, pro xj marcis denariorum, in quem <landscape cat="built" type="FIXME">fundiculum</landscape> ego Petrus Petri transtulj quandam opellam de Awas, pro qua dedit sancto Henrico dominus Nicolaus Nicolaj iij marcas vj oras ad dies vite sue; post mortem suam redibit ad ychonomiam.
 
 
 
@@ -180,7 +180,7 @@ Anteckning om herr Ragvald Rengonpoikas till förmån för Reso och Rusko kyrkor
 <regesta editor="Kokkonen" xml:lang="en">Note on the provisions of Master Ragvald Rengonpoika's will with bequests to the churches of Raisio and Rusko, the Altar of Our Lady in Abo Cathedral and to the Provost of Abo Cathedral. The provisions apply to meadow-land and a lot owned by the testator.</regesta>
 
 <edition editor="Hausen" xml:lang="la">
-<title>Testamentum domini Ragualdi Rengonpoyca de Reso.</title>
+<title>Testamentum domini <issuer status="ecclesiastic">Ragualdi Rengonpoyca</issuer> de Reso.</title>
 <p>Primo legauit ecclesie Reso Pywhaialla Latonytty. Si heredes volunt redimere, redimant pro xx marcis.</p>
 <p>Jtem ecclesie Rusko Høstelahte lato ibidem, altari beate virginis in ecclesia Aboensi partem prati ibidem de v plaustris, in perpetuam possessionem. Jtem si heredes volunt redimere pratum de Rusko, redimant pro xij marcis. Jtem pars altaris beate virginis maneat ej in perpetuam possessionem.</p>
 <p>Jtem domino preposito fundum, quem legifer detinet vltra ampnem.</p>
@@ -191,7 +191,7 @@ Anteckning om herr Ragvald Rengonpoikas till förmån för Reso och Rusko kyrkor
 
 <regesta editor="Hausen" nrREA="618" xml:lang="sv">
 (Omkring 1470<note type="editorial">En magister Håkan Andersson, kanik i Åbo, nämnes sista gången 1472.</note>)
-Magister <issuer status="ecc" gender="m" onlyone="y">Håkan</issuer> testamenterar till S:t Katarinas altare i Åbo domkyrka åtta skedar, en tomt med derå varande byggnader, en ängsholme och ett par å Kairis höjd belägna förrådshus, samt vidare åt sina arfvingar Erland, Margareta och Katarina till inbördes delning allt sitt husgeråd i Kairis lilla förrådshus.
+Magister <issuer status="ecclesiastic" gender="m" onlyone="y">Håkan</issuer> testamenterar till S:t Katarinas altare i Åbo domkyrka åtta skedar, en tomt med derå varande byggnader, en ängsholme och ett par å Kairis höjd belägna förrådshus, samt vidare åt sina arfvingar Erland, Margareta och Katarina till inbördes delning allt sitt husgeråd i Kairis lilla förrådshus.
 <folio>Fol. 196.</folio>
 </regesta>
 
@@ -225,7 +225,7 @@ Domprosten i Åbo Magnus Nicolai (Nilsson) grundar med samtycke av biskop Konrad
 </regesta>
 
 <regesta editor="Kokkonen" xml:lang="en">
-Provost ###issuer on todellakin FIXME Magnus Nicolai of Abo establishes, with the con­sent of Bishop Konrad Bidz and the Diocesan Chapter the so-called High Altar of the Chapel of All Saints and insti­tutes a mass. Placed as sustenance to said chapel are a number of properties in Abo, landed property in the parishes of Vehmaa, Mynämäki, Lemu, Nousiainen, Raisio, Nummi, Lieto, Paimio and Sauvo, and an estate in Parainen Parish donated by Master Anders Dives to said altar.
+Provost  <issuer status="ecclesiastic">Magnus Nicolai</issuer> of Abo establishes, with the con­sent of Bishop Konrad Bidz and the Diocesan Chapter the so-called High Altar of the Chapel of All Saints and insti­tutes a mass. Placed as sustenance to said chapel are a number of properties in Abo, landed property in the parishes of Vehmaa, Mynämäki, Lemu, Nousiainen, Raisio, Nummi, Lieto, Paimio and Sauvo, and an estate in Parainen Parish donated by Master Anders Dives to said altar.
 </regesta>
 
 <edition editor="Hausen" xml:lang="la">
@@ -237,7 +237,7 @@ Provost ###issuer on todellakin FIXME Magnus Nicolai of Abo establishes, with th
 
 <document nr="11" nrDF="1296" type="" when="1409-05-06" link="http://df.narc.fi/document/1296">
 <regesta editor="Hausen" nrREA="322" xml:lang="sv">
-<issuer status="bourgeois" gender="m" onlyone="y">Jöns Henriksson</issuer>, borgare i Åbo, säljer med fullmakt af bröderna Jop Jönsson, skolmästare i Viborg, Heming och Olof Jönsson för 26 mark, som han qvitterar, en dem tillhörig, vid gropen i Åbo belägen tomt åt Jop Dordenbusc med vilkor att densamma efter dennes död tillfaller helge lekamens altaret i Åbo domkyrka.
+<issuer status="burgher" gender="m" onlyone="y">Jöns Henriksson</issuer>, borgare i Åbo, säljer med fullmakt af bröderna Jop Jönsson, skolmästare i Viborg, Heming och Olof Jönsson för 26 mark, som han qvitterar, en dem tillhörig, vid gropen i Åbo belägen tomt åt Jop Dordenbusc med vilkor att densamma efter dennes död tillfaller helge lekamens altaret i Åbo domkyrka.
 <folio>Fol. 246.</folio>
 </regesta>
 
@@ -271,13 +271,13 @@ Sale by one Valborg, widow of Olof Huilonen, of a meadow at Lietsala in Raisio t
 
 <edition editor="Hausen" xml:lang="sv-x-old">
 <title xml:lang="la">Öfverskrift (senare tillagd): Super prato Tammistanala in Leedzala, parrochia Reso.</title>
-Vitherlikit wari thet allom dandemannom ath jach <issuer status="?" gender="f" onlyone="y">Walborg</issuer>, Olaffs Hvyloysens ænkia, haffuer salth ena mina aflings ængh, ligghiandes i Letzæla, aff vi lassom, som kallas Tammistanalla, ii trøm stykkom, met godhom wilia oc for mina tarffwa skuldh, met mina arffwa fultbøørt, som æru Pitkæ Heyki oc Oti Lucicista, mina magha, fore x marc suænzka peninga, hederlikom mannom Kaliamatti oc Nisse Lovke, borgarom j Abo, vndan mic oc minom arffwm til æwerdelika ægo, huilka ængh wi, for:de borgare, haffwom skiffth i ena <landscape cat="built" type="lot">tomt</landscape> owar <landscape cat="natural" type="river">ana</landscape>, som twa <landscape cat="built" type="shed" >fælbodher</landscape> vppa staa, met sancti Sigfridz altare, vndhan oss ok warom arffwm til æwerdelika ægho, met her Andris Ærlandzson, som thee prebendan hafdhe. Taa wi thetta køøp oc skipth giordhum ware owær dandemæn Simon Groøp, Michel Hermannus[son] Magher, och Henric Skyttæ, borghara j Abo, Micael Holikolaynen j Kærsamæki oc Magnus j Halis, bøndher j Warfrv sokn. Scrifuat i <place issued="Turku">Abo</place> mºcdxiiiiº aar æpte wars Herre børd, vm sancti Tomas dag de Aquino. Til mero wisso oc bewaren bedhoms wi Simons Grop, Michel Hermannussons Maghe oc Henrix Skyttæ incigle hænga for thetta breff.
+Vitherlikit wari thet allom dandemannom ath jach <issuer status="peasant woman" gender="f" onlyone="y">Walborg</issuer>, Olaffs Hvyloysens ænkia, haffuer salth ena mina aflings ængh, ligghiandes i Letzæla, aff vi lassom, som kallas Tammistanalla, ii trøm stykkom, met godhom wilia oc for mina tarffwa skuldh, met mina arffwa fultbøørt, som æru Pitkæ Heyki oc Oti Lucicista, mina magha, fore x marc suænzka peninga, hederlikom mannom Kaliamatti oc Nisse Lovke, borgarom j Abo, vndan mic oc minom arffwm til æwerdelika ægo, huilka ængh wi, for:de borgare, haffwom skiffth i ena <landscape cat="built" type="lot">tomt</landscape> owar <landscape cat="natural" type="river">ana</landscape>, som twa <landscape cat="built" type="shed" >fælbodher</landscape> vppa staa, met sancti Sigfridz altare, vndhan oss ok warom arffwm til æwerdelika ægho, met her Andris Ærlandzson, som thee prebendan hafdhe. Taa wi thetta køøp oc skipth giordhum ware owær dandemæn Simon Groøp, Michel Hermannus[son] Magher, och Henric Skyttæ, borghara j Abo, Micael Holikolaynen j Kærsamæki oc Magnus j Halis, bøndher j Warfrv sokn. Scrifuat i <place issued="Turku">Abo</place> mºcdxiiiiº aar æpte wars Herre børd, vm sancti Tomas dag de Aquino. Til mero wisso oc bewaren bedhoms wi Simons Grop, Michel Hermannussons Maghe oc Henrix Skyttæ incigle hænga for thetta breff.
 </edition>
 </document>
 
 <document nr="14" nrDF="1435" type="" when="1414-03-24" link="http://df.narc.fi/document/1435">
 <regesta editor="Hausen" nrREA="347" xml:lang="sv">
-<issuer status="bourgeois" gender="m" onlyone="y">Hinza Knap</issuer> gifver den ena af sina vid torget i Åbo belägna bodar åt S:t Petri altare i Åbo domkyrka och den andra åt sin hustru Greta, med bestämning att den senare boden efter hennes död skall tillfalla Henrik van den Berges barn.
+<issuer status="burgher" gender="m" onlyone="y">Hinza Knap</issuer> gifver den ena af sina vid torget i Åbo belägna bodar åt S:t Petri altare i Åbo domkyrka och den andra åt sin hustru Greta, med bestämning att den senare boden efter hennes död skall tillfalla Henrik van den Berges barn.
 <folio>Fol. 175.</folio>
 </regesta>
 
@@ -299,7 +299,7 @@ Viterligit warj allom them som thetta breff see eller høra læsas thet jach Hin
 
 <document nr="16" nrDF="1473" type="" when="1416-03-08" link="http://df.narc.fi/document/1473">
 <regesta editor="Hausen" nrREA="364" xml:lang="sv">
-<issuer status="bourgeois" gender="f" onlyone="y">Gertrud Lokanäs</issuer> (Luokkinais?), Thorer Långs dotter, borgerska i Åbo, skänker under vissa vilkor till S:t Andreas altare i Åbo domkyrka sin vid klostret i Åbo belägna gård, som hon köpt af Peder Finne, äfvensom 100 mark reda pennigar, för hvilka biskopen och domkapitlet skola köpa ett fast gods under nämnda altare.
+<issuer status="burgher woman" gender="f" onlyone="y">Gertrud Lokanäs</issuer> (Luokkinais?), Thorer Långs dotter, borgerska i Åbo, skänker under vissa vilkor till S:t Andreas altare i Åbo domkyrka sin vid klostret i Åbo belägna gård, som hon köpt af Peder Finne, äfvensom 100 mark reda pennigar, för hvilka biskopen och domkapitlet skola köpa ett fast gods under nämnda altare.
 <folio>Fol. 177.</folio>
 </regesta>
 
@@ -336,7 +336,7 @@ Receipt by Bishop Magnus of Abo of the above-mentioned donation by Gertrud Lokan
 
 <edition editor="Hausen" xml:lang="sv-x-old">
 <title xml:lang="la">Confirmacio donacionis super prediis Lokanæs.</title>
-Alle the dande men thetta breff see eller høre læsa helsum wj Magnus, met Gudz nad biscop j Abo, æuerdeliga met Gud. Wy kenno[m]ps thet oc withnom openbarlica met tesso wore opne breffue, ath epter thet then hederlige quinna, hustrv Gertrud Lockanæs, met syna winj samtyckio hauer wnt ok giffuit j Gudz heder oc sancti Andris, for syna siæl och syns kæra bondas siæl, Hennicka Lokænæs, Gud hans siæl nodhe, en <landscape cat="built" type="house">gordh</landscape > j Abo næst <landscape cat="built" type="convent">clostreno</landscape>, och ther tiil c mark redhe peninge, ther man skal køpa nogot fast godz wndi sancte Andrise altare j Abo domkirkio oc vndi clericken, som ther scal gudztiænist vppe holda, met swadana forordhom, ath then sama clæricken som altarit hauer, en epter then andra, scal huario wiku haffua eller lothe haffua j messo vpa for:de altarit j Gudz heder oc sancta (!) Andrisa, oc j allom synom messom skal [han] bæggias the[ra] siæl haffua j synom bønholdom vider nampn oc eth synnom om aarith, næst sykne dagh epter sancta Andrisa dagh, huart aar holda begengilse fore thera siæl oc alla crisna siæla met siwngande vigilias om afftonen tilforende for for:de altarit, oc met siwngande siæla messo dagen ther epter oc fore sama altareno. Oc mædhan wj kwnnom her engte annat vtj prøffua oc merkia vtan Gudz heder oc the helge kirkio oc thera eighit siæla gagn, som thet stiktat haffua, tho anamom wi the sama gipthena aa Gudz oc the helga kirkj wægna oc stadfæstom them ather j Gudz nampn the forsagdo forordhum och vilkor at holla sculandis aff the helga kirkio tiil æuerdelig thyma. Tiil thes mera wisso tho latom wj hengia wort jncigle ffore thetta breff, etc:a.
+Alle the dande men thetta breff see eller høre læsa helsum wj Magnus, met Gudz nad biscop j Abo, æuerdeliga met Gud. Wy kenno[m]ps thet oc withnom openbarlica met tesso wore opne breffue, ath epter thet then hederlige quinna, hustrv <issuer status="burgher wife" gender="f" onlyone="y">Gertrud Lockanæs</issuer>, met syna winj samtyckio hauer wnt ok giffuit j Gudz heder oc sancti Andris, for syna siæl och syns kæra bondas siæl, Hennicka Lokænæs, Gud hans siæl nodhe, en <landscape cat="built" type="house">gordh</landscape > j Abo næst <landscape cat="built" type="convent">clostreno</landscape>, och ther tiil c mark redhe peninge, ther man skal køpa nogot fast godz wndi sancte Andrise altare j Abo domkirkio oc vndi clericken, som ther scal gudztiænist vppe holda, met swadana forordhom, ath then sama clæricken som altarit hauer, en epter then andra, scal huario wiku haffua eller lothe haffua j messo vpa for:de altarit j Gudz heder oc sancta (!) Andrisa, oc j allom synom messom skal [han] bæggias the[ra] siæl haffua j synom bønholdom vider nampn oc eth synnom om aarith, næst sykne dagh epter sancta Andrisa dagh, huart aar holda begengilse fore thera siæl oc alla crisna siæla met siwngande vigilias om afftonen tilforende for for:de altarit, oc met siwngande siæla messo dagen ther epter oc fore sama altareno. Oc mædhan wj kwnnom her engte annat vtj prøffua oc merkia vtan Gudz heder oc the helge kirkio oc thera eighit siæla gagn, som thet stiktat haffua, tho anamom wi the sama gipthena aa Gudz oc the helga kirkj wægna oc stadfæstom them ather j Gudz nampn the forsagdo forordhum och vilkor at holla sculandis aff the helga kirkio tiil æuerdelig thyma. Tiil thes mera wisso tho latom wj hengia wort jncigle ffore thetta breff, etc:a.
 </edition>
 </document>
 
@@ -355,19 +355,19 @@ Fredrik Freseka confirms and appends, on behalf of him­self and his brother Jak
 </regesta>
 
 <edition editor="Hausen" xml:lang="sv-x-old">
-<title xml:lang="la">Super 3:a parte in Frisikyla seu Rouwas et ###aitan tontti fundico granarij vltra ###ampnem; jtem super Anyngos et Ventila. — Öfverstreckadt läses brefvet ock å fol. 290.</title>
-For allom thom thetta breff høre eller see kenness iak Ffredrik Freseca met myno nerwarande opne breffue mik haffua stadfæst ok fulbordat met godom wilia ok beradne modhe, af myns broders Jacobs ok myne wegna, alt thet testament, som war fader[s] sytzlinge, herre Helwik, fordom kirkeprester j Tøffuesalo,¹ Gud hanss siel nadhe, giorde ok inciglade vm løst ok fast, enkannelige vm en tridiungh j Rawass godz vpa Hyrwisalo, som han gaff vnder sancti Yrienss altare j swa mattho, at then som godzet j wærio haffuer, skal aarlige giffue altareno fyra² swenska marker pæninge, ok³ ena <landscape cat="built" type="shed">bood</landscape> offuer <landscape cat="natural" type="river">aana</landscape>, som han gaff samo altare, jtem eth godz j Aninghess,⁴ som han gaff vnder sancte Pedhers altare, ok ena <landscape cat="built" type="lot">tompt</landscape> j <landscape cat="direction" type="west bank of the river">nyastadhen</landscape> vnder sama altare; jtem thet godzet j Wentiala,⁵ som han for marghom arom gaff ok vplat domkirkionne j Abo, wil iak skøta vnder sama domkirkio swa som han mik sielffuer befelte. All thenne forscreffne stykke loffuar iak a myns broders Jacobs ok myne wegna fast och stadugt holla vtan alt argt. Til huilkis mere wisso ok witnisbyrd bidher iak beskedelighen man Larens Watmal, borgare j Abo, sit incigle hengia met myno jncigle⁶ for thetta breff, huilket som Screffuit ær j <place issued="Turku">Abo</place> anno Domini mcdxix, ipso die beate Dorothee virginis.
+<title xml:lang="la">Super 3:a parte in Frisikyla seu Rouwas et <landscape cat="built" type="lot">fundico</landscape> <landscape cat="built" type="granary">granarij</landscape> vltra <landscape cat="built" type="river">ampnem</landscape>; jtem super Anyngos et Ventila. — Öfverstreckadt läses brefvet ock å fol. 290.</title>
+For allom thom thetta breff høre eller see kenness iak Ffredrik Freseca met myno nerwarande opne breffue mik haffua stadfæst ok fulbordat met godom wilia ok beradne modhe, af myns broders Jacobs ok myne wegna, alt thet testament, som war fader[s] sytzlinge, herre Helwik, fordom kirkeprester j Tøffuesalo,¹ Gud hanss siel nadhe, giorde ok inciglade vm løst ok fast, enkannelige vm en tridiungh j Rawass godz vpa Hyrwisalo, som han gaff vnder sancti Yrienss altare j swa mattho, at then som godzet j wærio haffuer, skal aarlige giffue altareno fyra² swenska marker pæninge, ok³ ena <landscape cat="built" type="granary">bood</landscape> offuer <landscape cat="natural" type="river">aana</landscape>, som han gaff samo altare, jtem eth godz j Aninghess,⁴ som han gaff vnder sancte Pedhers altare, ok ena <landscape cat="built" type="lot">tompt</landscape> j <landscape cat="direction" type="west bank of the river">nyastadhen</landscape> vnder sama altare; jtem thet godzet j Wentiala,⁵ som han for marghom arom gaff ok vplat domkirkionne j Abo, wil iak skøta vnder sama domkirkio swa som han mik sielffuer befelte. All thenne forscreffne stykke loffuar iak a myns broders Jacobs ok myne wegna fast och stadugt holla vtan alt argt. Til huilkis mere wisso ok witnisbyrd bidher iak beskedelighen man Larens Watmal, borgare j Abo, sit incigle hengia met myno jncigle⁶ for thetta breff, huilket som Screffuit ær j <place issued="Turku">Abo</place> anno Domini mcdxix, ipso die beate Dorothee virginis.
 
-###FIXME:
+<note type="alternative">
 
-Varianter i Svartboken fol. 250; Öfverskrift: Super 3:a parte in Friskylæ siue Rawas et fundico granarij vltra ampnem; jtem super Anyngos et vno <landscape cat="built" type="lot">fundico</landscape> ex opposito ###<landscape cat="built" type="house">curie</landscape> beate virginis et super Ventila. — ¹Tøuesala ²iiij ³om(!) ⁴Anynghos ⁵Ventiælæ ⁶eghno
+Varianter i Svartboken fol. 250; Öfverskrift: Super 3:a parte in Friskylæ siue Rawas et <landscape cat="built" type="lot">fundico</landscape> <landscape cat="built" type="granary">granarij</landscape> vltra <landscpae cat="natural" type="river">ampnem</landscpae>; jtem super Anyngos et vno <landscape cat="built" type="lot">fundico</landscape> ex opposito <landscape cat="built" type="house">curie</landscape> beate virginis et super Ventila.</note> — ¹Tøuesala ²iiij ³om(!) ⁴Anynghos ⁵Ventiælæ ⁶eghno
 </edition>
 </document>
 
 <document nr="19" nrDF="1635" type="" when="1420-07-01" link="http://df.narc.fi/document/1635">
 
 <regesta editor="Hausen" nrFMU2="1635" xml:lang="sv">
-Räfsteherrarne <issuer status="knight" gender="m" onlyone="n">Karl Öra</issuer>, <issuer status="knight" gender="m" onlyone="n">Knut Uddsson</issuer> m. fl. tilldöma S:t Sigfrids altare i Åbo domkyrka en vid bron i Åbo belägen tomt, som staden velat afhända nämnda altare.
+Räfsteherrarne Karl Öra, Knut Uddsson m. fl. tilldöma S:t Sigfrids altare i Åbo domkyrka en vid bron i Åbo belägen tomt, som staden velat afhända nämnda altare.
 Ur ett från slutet av 1400-talet härrörande, Uppsala universitetsbibliotek tillhörigt kopiehäfte in 4°, signerat "E 214" samt med titel: "Copiæ litterarum altaris S:ti Sigfridi", 
 <folio>fol. 6.</folio>
 </regesta>
@@ -375,8 +375,8 @@ Ur ett från slutet av 1400-talet härrörande, Uppsala universitetsbibliotek ti
 ###annotoimatta
 
 <edition editor="Hausen" xml:lang="sv-x-old">
-<title xml:lang="la">Super quodam ffundico ad plagam borealem ampnis Aboensis circa pedem pontis et balneatorium.</title>
-Wij Karll Öra, Knut Wdzsson, <issuer status="knight" gender="m" onlyone="n">Niclis Götzstaffson</issuer> oc <issuer status="knight" gender="m" onlyone="n">Niclis Äringislässon</issuer>, riddara, konungsdom haffuande j thetta sin, bekennomps met tesso waro opna breffue, at then tiid wij räpsta tingh huldom j Abo vppa rådstuffuunne aff wars nadugs her konungs Erics wägna areno epter Gudz byrd m°cd°xx° areno, wppa wårffru apton visitationis, j erlike mandz näruaru, såsom är Claus Dieken, fogote vppa Abo, oc fflere goda manna näruaru, thå kärde fför oss å satte tinge hederligen man her Anders Erlandsson, S:ti Sigffridz altara capellan, till borgmästerna oc till allan ganszcha stadin j Abo vm ena tompt, liggiande vppa andra sidona åån wider brooendhen mällan Niclisa badhstoffuu oc brona, som han beuisa kunde att hon aff allder haffde ligath till S:ti Sigffridz altare, oc the hona waldadho fför:da her Anders aff oc fförmeenthe honom thet at han matte the fför:da [tompt] styra eller råda som honom borde. Oc epter thy att fförscreffne her Anders haffde ther sin wittne oc tyge ffore, som witnade oc sworo met honum, såsom äru her Brun, caniker j Abo, oc Hinza Nagil, thå dömdom wij fför:da her Anders, S:ti Sigffridz altara capellan, the fför:da tompt till at råda oc styra ffrij oc obeuårna som hon aff aldher warit haffuer, oc förbiudom wij huariom manna amote thessom wår dom optanempda her Anders optermer hindra eller quælia, wider sina xl marc ffor konungs dom. Till tess mera wisså oc wittnäsbyrd thå hengiom wij wår incigle ffor thetta breff, huilkit scruffuit är aar och dagh som fför är sacth.
+<title xml:lang="la">Super quodam ###ffundico ad plagam borealem ampnis Aboensis circa pedem pontis et balneatorium.</title>
+Wij <issuer status="nobleman" gender="m" onlyone="n">Karll Öra</issuer>, <issuer status="nobleman" gender="m" onlyone="n">Knut Wdzsson</issuer>, <issuer status="nobleman" gender="m" onlyone="n">Niclis Götzstaffson</issuer> oc <issuer status="nobleman" gender="m" onlyone="n">Niclis Äringislässon</issuer>, riddara, konungsdom haffuande j thetta sin, bekennomps met tesso waro opna breffue, at then tiid wij räpsta tingh huldom j Abo vppa rådstuffuunne aff wars nadugs her konungs Erics wägna areno epter Gudz byrd m°cd°xx° areno, wppa wårffru apton visitationis, j erlike mandz näruaru, såsom är Claus Dieken, fogote vppa Abo, oc fflere goda manna näruaru, thå kärde fför oss å satte tinge hederligen man her Anders Erlandsson, S:ti Sigffridz altara capellan, till borgmästerna oc till allan ganszcha stadin j Abo vm ena tompt, liggiande vppa andra sidona åån wider brooendhen mällan Niclisa badhstoffuu oc brona, som han beuisa kunde att hon aff allder haffde ligath till S:ti Sigffridz altare, oc the hona waldadho fför:da her Anders aff oc fförmeenthe honom thet at han matte the fför:da [tompt] styra eller råda som honom borde. Oc epter thy att fförscreffne her Anders haffde ther sin wittne oc tyge ffore, som witnade oc sworo met honum, såsom äru her Brun, caniker j Abo, oc Hinza Nagil, thå dömdom wij fför:da her Anders, S:ti Sigffridz altara capellan, the fför:da tompt till at råda oc styra ffrij oc obeuårna som hon aff aldher warit haffuer, oc förbiudom wij huariom manna amote thessom wår dom optanempda her Anders optermer hindra eller quælia, wider sina xl marc ffor konungs dom. Till tess mera wisså oc wittnäsbyrd thå hengiom wij wår incigle ffor thetta breff, huilkit scruffuit är aar och dagh som fför är sacth.
 </edition>
 </document>
 
@@ -404,7 +404,7 @@ Thet skal allom mannom witerligit wara som thetta breff høra eller see, at jak 
 
 <document nr="23" nrDF="1804" type="" when="1426-05-01" link="http://df.narc.fi/document/1804">
 <regesta editor="Hausen" nrREA="420" xml:lang="sv">
-<issuer status="?" gender="f" onlyone="n">Elseby Niklisdotter</issuer>, enka efter Inge Marianvuori, och dennes son <issuer status="?" gender="m" onlyone="n">Anders Ingessson</issuer> upplåta åt domkyrkan i Åbo äfvensom Sastamala kyrka en sin gård vid Tavastgatan i Åbo i stället för delar i godset Ekkois uti Sastamala, som Jusse Foss testamenterat till nämnda kyrkor, men hvilka bemälde Inge det oaktadt försålt.
+<issuer status="burgher woman" gender="f" onlyone="n">Elseby Niklisdotter</issuer>, enka efter Inge Marianvuori, och dennes son <issuer status="burgher" gender="m" onlyone="n">Anders Ingessson</issuer> upplåta åt domkyrkan i Åbo äfvensom Sastamala kyrka en sin gård vid Tavastgatan i Åbo i stället för delar i godset Ekkois uti Sastamala, som Jusse Foss testamenterat till nämnda kyrkor, men hvilka bemälde Inge det oaktadt försålt.
 <folio>Fol. 42—42 v.</folio>
 </regesta>
 
@@ -428,7 +428,7 @@ Allom thøm thetta breff høra eller see kungørom vi Elseby Niclissadotter, enk
 
 <document nr="24" nrDF="1813" type="" when="1426-07-01" link="http://df.narc.fi/document/1813">
 <regesta editor="Hausen" nrREA="421" xml:lang="sv">
-Åbo borgaren <issuer status="bourgeois" gender="m" onlyone="n">Laurens Vadmal</issuer> säljer med sin hustrus, <issuer status="" gender="f" onlyone="n">Katarina Klasdotters</issuer>, samtycke till domkyrkan i Åbo en sin gård vid ån derstädes äfvensom en gatubod för 200 engelska nobler och 130 mark Åbo mynt
+Åbo borgaren <issuer status="burgher" gender="m" onlyone="n">Laurens Vadmal</issuer> säljer med sin hustrus, <issuer status="burgher woman" gender="f" onlyone="n">Katarina Klasdotters</issuer>, samtycke till domkyrkan i Åbo en sin gård vid ån derstädes äfvensom en gatubod för 200 engelska nobler och 130 mark Åbo mynt
 <folio>Fol. 186.</folio>
 </regesta>
 
@@ -450,7 +450,7 @@ Allom them thetta breff hora eller see kungor jak Laurens Wammal, borgare i Abo,
 
 <document nr="25" nrDF="1814" type="" when="1426-07-06" link="http://df.narc.fi/document/1814">
 <regesta editor="Hausen" nrREA="422" xml:lang="sv">
-Åbo borgaren <issuer status="bourgeois" gender="m" onlyone="y">Laurens Vadmal</issuer> pantsätter för 100 engelska noblar till Peder Japsson, prebendat vid Vårfru altaret i Åbo domkyrka, sju sina gatubodar på torget, med vilkor att om desamma ej inom viss tid återlösas, de då skola tillfalla nämnda prebendat och hans arfvingar.
+Åbo borgaren <issuer status="burgher" gender="m" onlyone="y">Laurens Vadmal</issuer> pantsätter för 100 engelska noblar till Peder Japsson, prebendat vid Vårfru altaret i Åbo domkyrka, sju sina gatubodar på torget, med vilkor att om desamma ej inom viss tid återlösas, de då skola tillfalla nämnda prebendat och hans arfvingar.
 <folio>Fol. 190 v—191.</folio>
 </regesta>
 
@@ -473,7 +473,7 @@ Allom them thetta breff høra eller see kungør jak Larens Wammal,¹ borgare j A
 
 <document nr="26" nrDF="1862" type="" when="1428-05-18" link="http://df.narc.fi/document/1862">
 <regesta editor="Hausen" nrREA="426" xml:lang="sv">
-<fixme whos="4 borgare"/> Rådmannen i Åbo <issuer status="bourgeois" gender="m" onlyone="n">Anders Dolle</issuer> äfvensom borgarene derstädes <issuer status="bourgeois" gender="m" onlyone="n">Bränneka Hansson</issuer> samt <issuer status="bourgeois" gender="m" onlyone="n">Henrik Dolle</issuer>, samtlige närmaste arfvingar till hustru Kristina Vapperska och dennes son, erkebiskop Henrik i Upsala, stadfästa dessas gåfva till S:t Bartholomei altare i Åbo domkyrka af Salvela gods i Piikis socken äfvensom en gård i Åbo, hvilka lägenheter Laurens Röfvare med orätt afhändt domkyrkan, men som sedan af berörde arfvingar blifvit återvunna.
+<fixme whos="4 borgare"/> Rådmannen i Åbo <issuer status="burgher" gender="m" onlyone="n">Anders Dolle</issuer> äfvensom borgarene derstädes <issuer status="burgher" gender="m" onlyone="n">Bränneka Hansson</issuer> samt <issuer status="burgher" gender="m" onlyone="n">Henrik Dolle</issuer>, samtlige närmaste arfvingar till hustru Kristina Vapperska och dennes son, erkebiskop Henrik i Upsala, stadfästa dessas gåfva till S:t Bartholomei altare i Åbo domkyrka af Salvela gods i Piikis socken äfvensom en gård i Åbo, hvilka lägenheter Laurens Röfvare med orätt afhändt domkyrkan, men som sedan af berörde arfvingar blifvit återvunna.
 <folio>Fol. 242—242v.</folio>
 </regesta>
 
@@ -494,7 +494,7 @@ For allom thøm thetta breff hora eller see kennoms wi Anders Dolle, radman j Ab
 
 <document nr="27" nrDF="2013" type="" when="1431-07-06" link="http://df.narc.fi/document/2013">
 <regesta editor="Hausen" nrREA="436" xml:lang="sv">
-<issuer status="ecc" gender="m" onlyone="y">Remar Gislasson</issuer>, kanik i Åbo, intyger att han jämte biskop Björn i Åbo och många andra å Gråbrödraholm i Stockholm närvarit då ärkebiskop Henrik stadfäst sin moders, hustru Kristina Vapperskas, testamente hvarmedels hon till S:t Bartholomei altare i Åbo domkyrka gifvit Salvela gods i Piikis samt en gård och tomt i Åbo, äfvensom att nämnda ärkebiskop vid samma tillfälle presenterat en herr Ödvid till föreståndare för sagda altare, och att denne såsom sådan innehaft ifrågavarande gård och gods väl 6 år i ärkebiskopens lifstid och 5 år efter hans död.
+<issuer status="ecclesiastic" gender="m" onlyone="y">Remar Gislasson</issuer>, kanik i Åbo, intyger att han jämte biskop Björn i Åbo och många andra å Gråbrödraholm i Stockholm närvarit då ärkebiskop Henrik stadfäst sin moders, hustru Kristina Vapperskas, testamente hvarmedels hon till S:t Bartholomei altare i Åbo domkyrka gifvit Salvela gods i Piikis samt en gård och tomt i Åbo, äfvensom att nämnda ärkebiskop vid samma tillfälle presenterat en herr Ödvid till föreståndare för sagda altare, och att denne såsom sådan innehaft ifrågavarande gård och gods väl 6 år i ärkebiskopens lifstid och 5 år efter hans död.
 <folio>Fol. 243—243 v., der brefvet jämte Strengnäs domprosten Björn Anderssons intyg af 17 Maj 1413 om samma sak (n. 340) finnes vidimeradt af notarius publ. Petrus Olavi den 20 Juni 1434.</folio>
 </regesta>
 
@@ -513,7 +513,7 @@ Alla the dande mæn thetta breff læsa eller hora lesas helsar iak Remar Gisloso
 
 <document nr="28" nrDF="2055" type="" when="1432-10-05" link="http://df.narc.fi/document/2055">
 <regesta editor="Hausen" nrREA="441" xml:lang="sv">
-<issuer status="ecc" gender="m" onlyone="y">Peder Jopsson</issuer>, kyrkoherde uti Salo i Österbotten, gifver till Helga lekamens altare i Åbo domkyrka två bodtomter i Åbo, hvilka han fått af framlidna Lars Vadmall.
+<issuer status="ecclesiastic" gender="m" onlyone="y">Peder Jopsson</issuer>, kyrkoherde uti Salo i Österbotten, gifver till Helga lekamens altare i Åbo domkyrka två bodtomter i Åbo, hvilka han fått af framlidna Lars Vadmall.
 <folio>Fol. 211—211 v.</folio>
 </regesta>
 
@@ -534,7 +534,7 @@ Witerlikith see thet allom them thetta breff høra eller see at iach Pæder Jops
 
 <document nr="29" nrDF="2240" type="" when="1437" link="http://df.narc.fi/document/2240">
 <regesta editor="Hausen" nrREA="451" xml:lang="sv">
-Berättelse om huru ärkebiskop <issuer status="ecc" gender="m" onlyone="">Henrik</issuer> i Upsala och hans moder, Kristina Vapperska, till S:t Bartholomei altare i Åbo domkyrka testamenterat en gård i Åbo samt Salvela gods i Piikis och huru dessa lägenheter sedan vid flere ting blifvit nämnda altare tilldömda.
+Berättelse om huru ärkebiskop <issuer status="ecclesiastic" gender="m" onlyone="">Henrik</issuer> i Upsala och hans moder, Kristina Vapperska, till S:t Bartholomei altare i Åbo domkyrka testamenterat en gård i Åbo samt Salvela gods i Piikis och huru dessa lägenheter sedan vid flere ting blifvit nämnda altare tilldömda.
 <folio>Fol. 243—244, der det förekommer omedelbart efter förenämnda notariatsintyg (n. 450).</folio>
 </regesta>
 
@@ -561,7 +561,7 @@ Account relating how Archbishop Henrik of Uppsala and his mother Kristina Vapper
 
 <document nr="30" nrDF="2120" type="" when="1435-01-22" link="http://df.narc.fi/document/2120">
 <regesta editor="Hausen" nrREA="453" xml:lang="sv">
-Väpnaren <issuer status="squire" gender="m" onlyone="y">Klas Lydiksson</issuer> stiftar trenne messor att hvarje vecka sjungas i Vårfru- eller Klerkekoret i Åbo domkyrka samt gifver till desammas uppehållande en gård och en gatubod i Åbo, Huukais gods i Lemo samt 100 engelska nobler, de sistnämnda att derför köpa ett fast ingäld.
+Väpnaren <issuer status="nobleman" gender="m" onlyone="y">Klas Lydiksson</issuer> stiftar trenne messor att hvarje vecka sjungas i Vårfru- eller Klerkekoret i Åbo domkyrka samt gifver till desammas uppehållande en gård och en gatubod i Åbo, Huukais gods i Lemo samt 100 engelska nobler, de sistnämnda att derför köpa ett fast ingäld.
 <folio>Fol. 183.</folio>
 </regesta>
 
@@ -588,7 +588,7 @@ Vitherlikith see allom thøm thetta breff hora eller see ath jac Claus Lydikeson
 
 <document nr="31" nrDF="2204" type="" when="1437-03-07" link="http://df.narc.fi/document/2204">
 <regesta editor="Hausen" nrREA="464" xml:lang="sv">
-<issuer  status="bonde?" gender="m" onlyone="">Olof Andersson Tolk</issuer> upplåter åt Bengt Lydikesson och Henrik Klasson å Vårfru altarets vägnar sitt gods uti Krootila i Kumo socken mot en gård i Åbo, den Klas Lydikesson gifvit till nämnda altare, och en äng om 10 lass samt 400 mark penningar.
+<issuer  status="peasant" gender="m" onlyone="">Olof Andersson Tolk</issuer> upplåter åt Bengt Lydikesson och Henrik Klasson å Vårfru altarets vägnar sitt gods uti Krootila i Kumo socken mot en gård i Åbo, den Klas Lydikesson gifvit till nämnda altare, och en äng om 10 lass samt 400 mark penningar.
 <folio>Fol. 185 v.</folio>
 </regesta>
 
@@ -608,7 +608,7 @@ Fore allom them thetta breff hora eller see kennis jak Olaff Andrisson Tolk met 
 
 <document nr="32" nrDF="2507" type="" when="1443-03-10" link="http://df.narc.fi/document/2507">
 <regesta editor="Hausen" nrREA="515" xml:lang="sv">
-Predikarebrodern i Åbo kloster <issuer status="ecc" gender="m" onlyone="n">Henrik Jordansson</issuer> säljer med sin moders, hustru <issuer status="" gender="f" onlyone="n">Kristinas</issuer>, samtycke åt Åbo borgaren Sven guldsmed för 100 mark, som han qvitterar, en sin fäderneärfda tomt belägen vid Kyrkogatan i nämnda stad.
+Predikarebrodern i Åbo kloster <issuer status="ecclesiastic" gender="m" onlyone="n">Henrik Jordansson</issuer> säljer med sin moders, hustru <issuer status="burgher woman" gender="f" onlyone="n">Kristinas</issuer>, samtycke åt Åbo borgaren Sven guldsmed för 100 mark, som han qvitterar, en sin fäderneärfda tomt belägen vid Kyrkogatan i nämnda stad.
 <folio>Fol. 153 v.</folio>
 </regesta>
         
@@ -624,7 +624,7 @@ Kænnis jak brodher Henrik Jordhansson j prædicara brødra liffuat j Abo kloste
 
 <document nr="33" nrDF="2594" type="" when="1444-09-29" link="http://df.narc.fi/document/2594">
 <regesta editor="Hausen" nrFMU3="2594" xml:lang="sv">
-Ombud för <issuer status="ecc" gender="m(sannoligt), systrar oc brödher" onlyone="n">Nådendals kloster</issuer> bekräfta det nyss skedda jordabytet med Peder Ingonen.
+Ombud för <issuer status="ecclesiastic" gender="m?" onlyone="n">Nådendals kloster</issuer> bekräfta det nyss skedda jordabytet med Peder Ingonen.
 Gammal avskrift bland pappersdiplom i svenska riksarkivet. Arwidssons Handlingar VI n:o 6.
 </regesta>
 
@@ -661,7 +661,7 @@ För allom them, som thetta breff höra æller see, kænnomps wy systrar oc brö
 
 <document nr="34" nrDF="2629" type="" when="1445-07-29" link="http://df.narc.fi/document/2629">
 <regesta editor="Hausen" nrFMU3="2629" xml:lang="sv">
-<issuer status="bourgeois" gender="f" onlyone="y">Katarina Olofsdotter</issuer>, änka efter Jönis Sakko, förklarar sig vilja ingå i Nådendals kloster, hvarför hon dit ingifver som provent för sig sin hälft i en gård i Åbo äfvensom en fälbod därsammastädes.
+<issuer status="burgher woman" gender="f" onlyone="y">Katarina Olofsdotter</issuer>, änka efter Jönis Sakko, förklarar sig vilja ingå i Nådendals kloster, hvarför hon dit ingifver som provent för sig sin hälft i en gård i Åbo äfvensom en fälbod därsammastädes.
 Original på pergament, med de båda vittnenas signet. (FMS n:o 318 och 320), svenska riksarkivet. Arwidssons Handlingar III n:o 40. I nämnda arkiv finns också ett annat exemplar, likaledes på pergament, vilket på grund av åtskilliga skrivfel ej blivit försett med signet.
 </regesta>
 
@@ -678,7 +678,7 @@ Alla the thetta breff höra ællir see helsar jac Katerina Olafssdottir, fordhom
 <document nr="35" nrDF="2700" type="" when="1447-05-29" link="http://df.narc.fi/document/2700">
 <regesta editor="Hausen" nrFMU3="2700" xml:lang="sv">
 2700    Nådendal 29 maj 1447.
-<issuer status="bourgeois i kloster" gender="f" onlyone="y">Katarina Olofsdotter</issuer>, änka efter Niklis Andersson, lämnar inför tillkallade män utredning huru hon, före det hon gaf sig in i Nådendals kloster, mellan sina två döttrar fördelat deras fädernearf och en del af sin egen tillhörighet samt huruledes Voivala gods i S:t Karins socken såsom provent för den ena dottern kommit till nämnda kloster.
+<issuer status="ecclesiastic" gender="f" onlyone="y">Katarina Olofsdotter</issuer>, änka efter Niklis Andersson, lämnar inför tillkallade män utredning huru hon, före det hon gaf sig in i Nådendals kloster, mellan sina två döttrar fördelat deras fädernearf och en del af sin egen tillhörighet samt huruledes Voivala gods i S:t Karins socken såsom provent för den ena dottern kommit till nämnda kloster.
 <folio>Original på pergament, med signeten, utom det andra, välbehållna (FMS n:o 174, 155 och 318), svenska riksarkivet. Arwidssons Handlingar III n:o 55.</folio>
 </regesta>
 
@@ -699,7 +699,7 @@ Jtem sidhan myn dotter M[argareta] war j sængh komen til myn [magh] Andirs, ant
 
 <document nr="36" type="" when="1448" link="">
 <regesta editor="Hausen" nrREA="714" xml:lang="sv">
-    <issuer whos="väkee on kun pipoo"/>
+    <issuer status="nobleman"/>
 Förteckning å Helga tre konungars altare i Åbo domkyrka underlydande hemman äfvensom deras 
 inventarier samt uppgift å dem som till bemälda altare gifvit samma gods.
 <folio>Fol 191 v—192 v.</folio>
@@ -806,7 +806,7 @@ jtem ɉ modii fabarum, ɉ modii pisorum.
 
 <document nr="37" nrDF="2746" type="" when="1448-04-27" link="http://df.narc.fi/document/2746">
 <regesta editor="Hausen" nrREA="538" xml:lang="sv">
-Åbo borgaren <issuer status="bourgeois" gender="m" onlyone="n">Bengt Pedersson</issuer> och hans hustru <issuer status="" gender="f" onlyone="n">Apollonia Pedersdotter</issuer> gifva under Vårfru eller Socknealtaret i Åbo domkyrka sin gård i Åbo med vilkor att efter deras död öfver dem i evig tid skall hvarje vecka hållas två vigilier och två själamessor samt att de i sin lifstid få bebo gården.
+Åbo borgaren <issuer status="burgher" gender="m" onlyone="n">Bengt Pedersson</issuer> och hans hustru <issuer status="burgher woman" gender="f" onlyone="n">Apollonia Pedersdotter</issuer> gifva under Vårfru eller Socknealtaret i Åbo domkyrka sin gård i Åbo med vilkor att efter deras död öfver dem i evig tid skall hvarje vecka hållas två vigilier och två själamessor samt att de i sin lifstid få bebo gården.
 <folio>Fol. 246 v—247.</folio>
 </regesta>
 
@@ -822,7 +822,7 @@ Ffore alle the[m] thetta breff høre eller see kennomps och kwngørom wi Bengt P
 
 <document nr="38" nrDF="2747" type="" when="1448-04-27" link="http://df.narc.fi/document/2747">
 <regesta editor="Hausen" nrREA="539" xml:lang="sv">
-Biskop <issuer status="ecc" gender="m" onlyone="n">Magnus</issuer> och <issuer status="ecc" gender="m" onlyone="n">kapitlet</issuer> i Åbo mottaga Bengt Pederssons och hans hustrus gåfva af deras gård i Åbo till Vårfru eller Sockne altaret i domkyrkan derstädes och förbinda sig att i allo hålla de vid gåfvan fästade vilkor.
+Biskop <issuer status="ecclesiastic" gender="m" onlyone="n">Magnus</issuer> och <issuer status="ecclesiastic" gender="m" onlyone="n">kapitlet</issuer> i Åbo mottaga Bengt Pederssons och hans hustrus gåfva af deras gård i Åbo till Vårfru eller Sockne altaret i domkyrkan derstädes och förbinda sig att i allo hålla de vid gåfvan fästade vilkor.
 <folio>Fol. 246—246 v.</folio>
 </regesta>
 
@@ -839,7 +839,7 @@ Wij Magnus, met Gudz nadh biscop, Olaff Magni domproast, Jons Magni ærchedegn o
 <document nr="39" nrDF="2748" type="" when="1448-05-01" link="http://df.narc.fi/document/2748">
 <regesta editor="Hausen" nrFMU3="2748" xml:lang="sv">
 2748    Åbo 1 maj 1448.
-<issuer status="bourgeois" gender="f" onlyone="y">Elseby Nilsdotter</issuer>, Åboborgmästaren Henrik Buskmans hustru, gifver sin dotterson Henrik Finka Metsäkylä gods i Räntämäki socken äfvensom en gatubod vid torget i Åbo med bestämning att, om bemälde Finke, såsom hans afsigt vore, inginge som munk i Nådendal, förenämnda gods och bod skulle vara hans ingift och provent.
+<issuer status="burgher woman" gender="f" onlyone="y">Elseby Nilsdotter</issuer>, Åboborgmästaren Henrik Buskmans hustru, gifver sin dotterson Henrik Finka Metsäkylä gods i Räntämäki socken äfvensom en gatubod vid torget i Åbo med bestämning att, om bemälde Finke, såsom hans afsigt vore, inginge som munk i Nådendal, förenämnda gods och bod skulle vara hans ingift och provent.
 <folio>Original på pergament, med de beseglandes signet (FMS n:o 318, 155 och 319) välbehållna, svenska riksarkivet. Arwidssons Handlingar III n:o 65.</folio>
 </regesta>
 
@@ -855,7 +855,7 @@ Alla the, som thetta breff höra ællir see, hylsar jak Elseby Nighlisa dottir, 
 
 <document nr="40" nrDF="2753" type="" when="1448-05-18" link="http://df.narc.fi/document/2753">
 <regesta editor="Hausen" nrREA="542" xml:lang="sv">
-<issuer status="frälseman/bourgeois" gender="m" onlyone="n">Bengt Lydiksson</issuer> och hans hustru <issuer status="" gender="f" onlyone="n">Valborg Jönsdotter</issuer> gifva för sin salighet till Helga tre konungars altare i Åbo domkyrka en tomt med källare och kålgård, 100 mark penningar, ett sitt aflingegods Haatila i Nousis socken äfvensom någon boskap.
+<issuer status="nobleman" gender="m" onlyone="n">Bengt Lydiksson</issuer> och hans hustru <issuer status="noblewoman" gender="f" onlyone="n">Valborg Jönsdotter</issuer> gifva för sin salighet till Helga tre konungars altare i Åbo domkyrka en tomt med källare och kålgård, 100 mark penningar, ett sitt aflingegods Haatila i Nousis socken äfvensom någon boskap.
 <folio>Fol. 191 v.</folio>
 </regesta>
 
@@ -876,7 +876,7 @@ Ffore allom thøm thetta breff kan fore koma kennomps wj hær epterscreffne Bent
 <document nr="41" nrDF="2766" type="" when="1448-08-10" link="http://df.narc.fi/document/2766">
 <regesta editor="Hausen" nrFMU3="2766" xml:lang="sv">
 2766    Åbo 10 augusti 1448.
-Åboborgaren <issuer status="bourgeois" gender="m" onlyone="n">Jönis Friis</issuer> och hans hustru, <issuer status="" gender="f" onlyone="n">Margit</issuer>, tillbyta Nådendals kloster sin andel i en tomt i Åbo mot en klostret tillhörig fälbod dersammastädes äfvensom 50 mark i penningar och värdören.
+Åboborgaren <issuer status="burgher" gender="m" onlyone="n">Jönis Friis</issuer> och hans hustru, <issuer status="burgher woman" gender="f" onlyone="n">Margit</issuer>, tillbyta Nådendals kloster sin andel i en tomt i Åbo mot en klostret tillhörig fälbod dersammastädes äfvensom 50 mark i penningar och värdören.
 <folio>Original på pergament, med Jönis Friis' än kvarhängande signet (FMS n:o 323; de andra bortfallna), svenska riksarkivet. Arwidssons Handlingar III n:o 68.</folio>
 </regesta>
 
@@ -889,7 +889,7 @@ Thet scall allom mannom vithirlighit wara, som thetta breff höra ællir see, th
 <document nr="42" nrDF="2774" type="" when="1448-11-02" link="http://df.narc.fi/document/2774">
 <regesta editor="Hausen" nrFMU3="2774" xml:lang="sv">
 2774    Åbo 2 november 1448.
-Åboborgaren <issuer status="bourgeois" gender="m" onlyone="n">Niklis Olofsson</issuer> och hans hustru, <issuer status="" gender="f" onlyone="n">Gertrud</issuer>, tillbyta Nådendals kloster en sin äng, belägen på Lietsala näs i Reso, mot en klostret tillhörig fälbod i Åbo äfvensom en engelsk nobel.
+Åboborgaren <issuer status="burgher" gender="m" onlyone="n">Niklis Olofsson</issuer> och hans hustru, <issuer status="burgher woman" gender="f" onlyone="n">Gertrud</issuer>, tillbyta Nådendals kloster en sin äng, belägen på Lietsala näs i Reso, mot en klostret tillhörig fälbod i Åbo äfvensom en engelsk nobel.
 <folio>Original på pergament, med de beseglandes signet (FMS n:o 325, 326 och 324), svenska riksarkivet. Arwidssons Handlingar III n:o 72.</folio>
 </regesta>
 
@@ -907,7 +907,7 @@ Thet scal allom mannom witerligit wara, som thetta breff höra eller see, thet j
 <regesta editor="Hausen" nrREA="553" xml:lang="sv">
 3 Maj 1449—1458<note type="editorial">Denna tidbegränsning erhålles af sigillvittnet Henrik Klasson, hvars här nämnda lagmanskap inföll mellan dessa år.</note>
 Åbo
-<issuer status="?" gender="m" onlyone="n">Lasse Jönsson</issuer> och <issuer status="?" gender="f" onlyone="n">Katarina Ulfsdotter</issuer> upplåta åt biskop Magni officialis och helgalekamens altares föreståndare, herr Håkan, Härmala gods i Vemo mot en gård i Åbo, värd 160 mark, och en tomt med kålgård, värda 45 mark, samt 145 mark i penningar jämte något kläde.
+<issuer status="burgher" gender="m" onlyone="n">Lasse Jönsson</issuer> och <issuer status="burgher woman" gender="f" onlyone="n">Katarina Ulfsdotter</issuer> upplåta åt biskop Magni officialis och helgalekamens altares föreståndare, herr Håkan, Härmala gods i Vemo mot en gård i Åbo, värd 160 mark, och en tomt med kålgård, värda 45 mark, samt 145 mark i penningar jämte något kläde.
 <folio>Fol. 223 v—224.</folio>
 </regesta>
 
@@ -931,7 +931,7 @@ Alle the thetta breff høra eller see helsom wj Lasse Jønisson ok Kaderin Wlffs
 <regesta editor="Hausen" nrREA="547" xml:lang="sv">
 8 Juli 1449
 Åbo
-<issuer status="?" gender="m" onlyone="y">Laurens Jönsson</issuer> gifver för sina föräldrars salighet till Vårfru eller Klärke altaret i Åbo domkyrka en fjärndel af en kålgård belägen vestan om ån och nordan vid S:t Sigfrids tomt.
+<issuer status="burgher" gender="m" onlyone="y">Laurens Jönsson</issuer> gifver för sina föräldrars salighet till Vårfru eller Klärke altaret i Åbo domkyrka en fjärndel af en kålgård belägen vestan om ån och nordan vid S:t Sigfrids tomt.
 <folio>Fol. 185.</folio>
 </regesta>
 
@@ -949,12 +949,12 @@ Vitherligith vari thet allom them thetta breff høra eller see ath jac Laurens J
 <regesta editor="Hausen" nrREA="551" xml:lang="sv">
 29 November 1449
 Åbo
-<issuer status="bourgeois" gender="f" onlyone="y">Karin Olofsdotter</issuer>, Peder Bussas enka, säljer för 100 mark, som hon qvitterar åt Åbo borgaren Sven Guldsmed en henne tillhörig, bredvid bemälde borgares gård belägen tomt, som hon fått af herr Henrik Bidz.
+<issuer status="burgher woman" gender="f" onlyone="y">Karin Olofsdotter</issuer>, Peder Bussas enka, säljer för 100 mark, som hon qvitterar åt Åbo borgaren Sven Guldsmed en henne tillhörig, bredvid bemälde borgares gård belägen tomt, som hon fått af herr Henrik Bidz.
 <folio>Fol. 153.</folio>
 </regesta>
 
 <regesta editor="Kokkonen" xml:lang="en">
-Sale by Karin Olofsdotter, widow of Peder Bussa, of a lot in Abo to Sven Guldsmed, burgher of Abo, for 100 marks du­ly received. The lot, acquired by Karin Olofsdotter from Knight Henrik Bidz, is situated next to the property of Sven Guldsmed.
+Sale by Karin Olofsdotter, widow of Peder Bussa, of a lot in Abo to Sven Guldsmed, burgher of Abo, for 100 marks du­ly received. The lot, acquired by Karin Olofsdotter from <editorial note="Marko Lamberg" status="nobleman">Knight</editorial>  Henrik Bidz, is situated next to the property of Sven Guldsmed.
 </regesta>
 
 <edition editor="Hausen" xml:lang="sv-x-old">
@@ -968,7 +968,7 @@ Allom thom thetta breff kan fore koma kungor jak Kadrin Olaffdotter, Pedhars Bus
 <document nr="46" nrDF="2908" type="" when="1452-05-08" link="http://df.narc.fi/document/2908">
 <regesta editor="Hausen" nrFMU4="2908" xml:lang="sv">
 2908    Åbo 8 maj 1452.
-Riddaren <issuer status="knight" gender="m" onlyone="y">Henrik Klasson</issuer> (Djäken) uppgör sitt (andra) testamente.
+Riddaren <issuer status="nobleman" gender="m" onlyone="y">Henrik Klasson</issuer> (Djäken) uppgör sitt (andra) testamente.
 <folio>Originalkoncept(?) bland medeltidshandlingar på papper i svenska riksarkivet. Arwidssons Handlingar VI n:o 16. I samma arkiv bevaras också sista tredjedelen av själva originalet, ävenledes på papper, med fragment av två signet i grönt vax under texten.</folio>
 </regesta>
 
@@ -990,7 +990,7 @@ Jtem bidher jac ærlige oc wælborna mæn, the jac fulkomlige troo til sæther, 
 <document nr="47" nrDF="2918" type="" when="1453-03-01" link="http://df.narc.fi/document/2918">
 <regesta editor="Hausen" nrFMU4="2918" xml:lang="sv">
 Kaskis i Mietois 1 mars 1453.
-<issuer status="knight" gender="m" onlyone="y">Henrik Klasson</issuer> (Djäkn) uppgör sitt tredje testamente.
+<issuer status="nobleman" gender="m" onlyone="y">Henrik Klasson</issuer> (Djäkn) uppgör sitt tredje testamente.
 <folio>Original på papper, med spår efter tvänne signet, svenska riksarkivet. Arwidssons Handlingar VI n:o 17.</folio>
 </regesta>
 
@@ -1011,7 +1011,7 @@ Jtem bider iak ærlige ok wælborna mæn, the iak fulkomlika thro til sæther, m
 <document nr="48" nrDF="2944" type="" when="1454-05-06" link="http://df.narc.fi/document/2944">
 <regesta editor="Hausen" nrREA="567" xml:lang="sv">
 6 Maj 1454
-<issuer status="?" gender="m" onlyone="y">Hans Basse</issuer> upplåter inför rådet i Åbo åt innehafvaren af Helge lekamens altaret i Åbo domkyrka herr Jöns Tavast sin (vid Åbo torg belägna) gård, hvilken herr Håkan tillförene köpt under samma altare för 330 mark, dem Basse erkänner sig nu till fullo hafva bekommit.
+<issuer status="burgher" gender="m" onlyone="y">Hans Basse</issuer> upplåter inför rådet i Åbo åt innehafvaren af Helge lekamens altaret i Åbo domkyrka herr Jöns Tavast sin (vid Åbo torg belägna) gård, hvilken herr Håkan tillförene köpt under samma altare för 330 mark, dem Basse erkänner sig nu till fullo hafva bekommit.
 <folio>Fol. 212.</folio>
 </regesta>
 
@@ -1033,7 +1033,7 @@ Anno Domini mcdliiijº vppa sancti Johannis ante portam latinam dag, som fiøll 
 <regesta editor="Hausen" nrREA="569" xml:lang="sv">
 16 Juni 1454
 Åbo
-Väpnaren <issuer status="frälseman/borgare" gender="m" onlyone="y">Bengt Lydiksson</issuer> testamenterar till S:t Petri altare i Åbo domkyrka alla sina byggnader han uppfört på S:t Peters åkerteg.
+Väpnaren <issuer status="nobleman" gender="m" onlyone="y">Bengt Lydiksson</issuer> testamenterar till S:t Petri altare i Åbo domkyrka alla sina byggnader han uppfört på S:t Peters åkerteg.
 <folio>Fol. 175.</folio>
 </regesta>
 
@@ -1054,7 +1054,7 @@ For alla the thetta breff høra eller lesa kennis jak Benkt Lydikson a vapen mic
 <document nr="50" nrDF="2964" type="" when="1455-03-12" link="http://df.narc.fi/document/2964">
 <regesta editor="Hausen" nrREA="570" xml:lang="sv">
 12 Mars 1455 Åbo kloster
-<issuer status="ecc" gender="m" onlyone="y">Olof Gregersson</issuer>, prior i Åbo kloster, och hela konventet derstädes upptaga i sitt brödraskap Anders Kairis och hans hustru Margreta Jönsdotter, hvilka mot åtnjutande till döde dagar af fri kost och vård gifva till klostret sin gård vid Tavastgatan äfvensom något lösöre, allt till ett värde af 200 mark.
+<issuer status="ecclesiastic" gender="m" onlyone="y">Olof Gregersson</issuer>, prior i Åbo kloster, och hela konventet derstädes upptaga i sitt brödraskap Anders Kairis och hans hustru Margreta Jönsdotter, hvilka mot åtnjutande till döde dagar af fri kost och vård gifva till klostret sin gård vid Tavastgatan äfvensom något lösöre, allt till ett värde af 200 mark.
 <folio>Fol. 182.</folio>
 </regesta>
 
@@ -1075,7 +1075,7 @@ Allom them thetta breff kan forekoma kungør jac broder Olaff Gregersson, prior 
 <document nr="51" nrDF="2967" type="" when="1455-04-23" link="http://df.narc.fi/document/2967">
 <regesta editor="Hausen" nrREA="572" xml:lang="sv">
 23 April 1455 Åbo
-Åbo borgaren <issuer status="bourgeois" gender="m" onlyone="n">Sven</issuer> guldsmed pantsätter med sin <issuer status="" gender="f" onlyone="n">hustrus</issuer> samtycke till Åbo domkyrka för 20 lödig mark silfver en sin gård under vilkor att om lånet ej inom viss tid återbetalas, domkyrkan skall få behålla gården. — Efter brefvet en uppräkning af samtliga denne borgares skulder.
+Åbo borgaren <issuer status="burgher" gender="m" onlyone="n">Sven</issuer> guldsmed pantsätter med sin <issuer status="burgher woman" gender="f" onlyone="n">hustrus</issuer> samtycke till Åbo domkyrka för 20 lödig mark silfver en sin gård under vilkor att om lånet ej inom viss tid återbetalas, domkyrkan skall få behålla gården. — Efter brefvet en uppräkning af samtliga denne borgares skulder.
 <folio>Fol. 154.</folio>
 </regesta>
 
@@ -1116,7 +1116,7 @@ Summa vᶜ marce, xij marce, j ora.
 <document nr="52" nrDF="2989" type="" when="1455-12-16" link="http://df.narc.fi/document/2989">
 <regesta editor="Hausen" nrREA="575" xml:lang="sv">
 16 December 1455 Åbo
-Åbo borgaren <issuer status="bourgeois" gender="m" onlyone="y">Matts Sylte</issuer> frisäger sin farbroders enka Katarina Olofsdotter och Åbo kaniken samt Helge lekamens prebendaten Jöns Tavast för allt tilltal rörande sitt fäderne Petäsmäki i Reso samt en gård i staden.
+Åbo borgaren <issuer status="burgher" gender="m" onlyone="y">Matts Sylte</issuer> frisäger sin farbroders enka Katarina Olofsdotter och Åbo kaniken samt Helge lekamens prebendaten Jöns Tavast för allt tilltal rörande sitt fäderne Petäsmäki i Reso samt en gård i staden.
 <folio>Fol. 216-216 v.</folio>
 </regesta>
 
@@ -1178,7 +1178,7 @@ wt <fixme ocr="ssä oli y">vppa</fixme> som laghen wtwisa. [s. 194].
 <document nr="54" nrDF="3005" type="" when="1456-03-12" link="http://df.narc.fi/document/3005">
 <regesta editor="Hausen" nrFMU4="3005" xml:lang="sv">
 Åbo 12 mars 1456.
-<issuer status="bourgeois" gender="m" onlyone="n, fixme wheres + hustru">Ragvald Suurpää</issuer>, borgare i Åbo, tillbyter Nådendals kloster ett hus i Åbo samt Puotila gods i Haliko socken mot ett stenhus i Stockholm.
+<issuer status="burgher" gender="m" onlyone="n, fixme wheres + hustru">Ragvald Suurpää</issuer>, borgare i Åbo, tillbyter Nådendals kloster ett hus i Åbo samt Puotila gods i Haliko socken mot ett stenhus i Stockholm.
 <folio>Original på pergament, med fem välbehållna signet (FMS n:o 338, 319, 337, 335 o. 336), svenska riksarkivet. Arwidssons Handlingar IV n:o 28.</folio>
 </regesta>
 
@@ -1198,7 +1198,7 @@ Alla the, som thetta breff höra æller see hælsar iak Ragwaldh Surepæ, borgar
 <document nr="55" nrDF="3064" type="" when="1458-07-03" link="http://df.narc.fi/document/3064">
 <regesta editor="Hausen" nrREA="585" xml:lang="sv">
 585    3 Juli 1458  Åbo
-Domprosten i Vesterås <issuer status="ecc" gender="m" onlyone="y">Olof Jönsson</issuer> gifver för sina föräldrars salighet till Vårfru altaret eller s. k. Klerke koret i Åbo domkyrka en efter föräldrarne ärfd kålgård, belägen vestan om ån och nordan vid S:t Sigfrids gård.
+Domprosten i Vesterås <issuer status="ecclesiastic" gender="m" onlyone="y">Olof Jönsson</issuer> gifver för sina föräldrars salighet till Vårfru altaret eller s. k. Klerke koret i Åbo domkyrka en efter föräldrarne ärfd kålgård, belägen vestan om ån och nordan vid S:t Sigfrids gård.
 <folio>Fol. 185 v.</folio>
 </regesta>
 
@@ -1220,7 +1220,7 @@ Vitherligit ware thet allom them thetta breff see eller hora ath jak Olaff Jonis
     <regesta editor="Hausen" nrREA="587" xml:lang="sv">
         587. 17 Oktober 1458.  Kastelholm.
 
-        <issuer status="frälseman" gender="m" onlyone="y">Magnus Frille</issuer> upplåter åt sin syster Margit sin del i en tomt uti Åbo.
+        <issuer status="nobleman" gender="m" onlyone="y">Magnus Frille</issuer> upplåter åt sin syster Margit sin del i en tomt uti Åbo.
     <folio>Fol. 195.</folio>
     </regesta>
     
@@ -1253,7 +1253,7 @@ Anteckning om en öfverenskommelse med biskopslandbönderna i Kumo, m. m. — se
 <document nr="57" nrDF="3265" type="" when="1465-08-07" link="http://df.narc.fi/document/3265">
 <regesta editor="Hausen" nrFMU4="3265" xml:lang="sv">
 Åbo 7 augusti 1465.
-<issuer status="bourgeois" gender="m" onlyone="y">Ravald Suurpää</issuer>, som åt Henrik Finkenberg för 200 mark sålt Taipale gods å Hirvensalo i S:t Marie socken, men af denne för 60 mark köpt en gård i Åbo, upplåter åt Brand Lampa, åt hvilken Finkenberg öfverfört förstnämnda köp, ifrågavarande Taipale gods.
+<issuer status="burgher" gender="m" onlyone="y">Ravald Suurpää</issuer>, som åt Henrik Finkenberg för 200 mark sålt Taipale gods å Hirvensalo i S:t Marie socken, men af denne för 60 mark köpt en gård i Åbo, upplåter åt Brand Lampa, åt hvilken Finkenberg öfverfört förstnämnda köp, ifrågavarande Taipale gods.
 <folio>Original på pergament, med välbehållna signet (FMS n:o 338, 330, 345 och 344), svenska riksarkivet. Arwidssons Handlingar V n:o 15.</folio>
 </regesta>
 
@@ -1270,7 +1270,7 @@ For allom them thetta breff fore koma kan kennes jak Ravall Swripæ met thette m
 <document nr="58" nrDF="3282" type="" when="1465" link="http://df.narc.fi/document/3282">
 <regesta editor="Hausen" nrREA="604" xml:lang="sv">
 604 1465    Åbo
-Väpnaren <issuer status="squire" gender="m" onlyone="n">Henrik Tavast</issuer> och hans hustru <issuer status="" gender="f" onlyone="n">Johanna Bengtsdotter</issuer> tillbyta sig af kaniken i Åbo och Helge lekamens altares prebendat Magnus Nicolai Kulju gods i Birkkala<note type="editorial">Se noten å sid. 472.</note> mot makarne tillhörigt gods uti Hallis by i Räntämäki, Maksiala äng i Reso och deras största äng i Suonpohia i Nummis äfvensom en deras kålgård i Åbo.
+Väpnaren <issuer status="nobleman" gender="m" onlyone="n">Henrik Tavast</issuer> och hans hustru <issuer status="noblewoman" gender="f" onlyone="n">Johanna Bengtsdotter</issuer> tillbyta sig af kaniken i Åbo och Helge lekamens altares prebendat Magnus Nicolai Kulju gods i Birkkala<note type="editorial">Se noten å sid. 472.</note> mot makarne tillhörigt gods uti Hallis by i Räntämäki, Maksiala äng i Reso och deras största äng i Suonpohia i Nummis äfvensom en deras kålgård i Åbo.
 <folio>Fol. 238v—239.</folio>
 </regesta>
 
@@ -1289,7 +1289,7 @@ Thet wari allom witerligit som thetta breff høra eller see at jach Henric Tawas
  607
 11 Maj 1467
 Åbo
-Åbo borgaren <issuer status="bourgeois" gender="m" onlyone="n">Sven</issuer> guldsmed säljer med samtycke af sin hustru, <issuer status="bourgeoishustru" gender="f" onlyone="n">Birgitta Eskilsdotter</issuer>, och sin dotter <issuer status="fixme onko?">Thola</issuer> för 470 mark, som han qvitterar, åt Åbo domkyrka sin vid Gropen framför S:t Bartholomei gård belägna gård och förnöjer nämnda sin dotter för afhändandet af detta hennes mödernearf med en annan sin gård samt 100 mark penningar.
+Åbo borgaren <issuer status="burgher" gender="m" onlyone="n">Sven</issuer> guldsmed säljer med samtycke af sin hustru, <issuer status="burgher woman" gender="f" onlyone="n">Birgitta Eskilsdotter</issuer>, och sin dotter <issuer status="burgher woman">Thola</issuer> för 470 mark, som han qvitterar, åt Åbo domkyrka sin vid Gropen framför S:t Bartholomei gård belägna gård och förnöjer nämnda sin dotter för afhändandet af detta hennes mödernearf med en annan sin gård samt 100 mark penningar.
 
 <folio>Fol. 153 v—154.</folio>
 </regesta>
@@ -1312,7 +1312,7 @@ Ffor allom them thetta breff hora eller see kænnis ok kongor jak Swen gulsmidh,
 <regesta editor="Hausen" nrREA="" xml:lang="sv">
  621
 (Omkring 1470)
-[Borgaren <issuer status="bourgeois" gender="m" onlyone="n">Anders Witte</issuer> i Åbo säljer med samtycke af sin hustru <issuer status="bourgeoishustru" gender="f" onlyone="n">Valborg</issuer> åt domprosten Magnus i Åbo för 33 mark svenska penningar en bod med tillhörande tomt äfvensom en kålgård nordan ån dersammastädes.
+[Borgaren <issuer status="burgher" gender="m" onlyone="n">Anders Witte</issuer> i Åbo säljer med samtycke af sin hustru <issuer status="burgher woman" gender="f" onlyone="n">Valborg</issuer> åt domprosten Magnus i Åbo för 33 mark svenska penningar en bod med tillhörande tomt äfvensom en kålgård nordan ån dersammastädes.
 
 <folio>Skoklosters Codex Aboensis fol. 122.</folio>
 </regesta>
@@ -1338,7 +1338,7 @@ Fore allom thøm thetta breff kan fore koma kennis jach Anders Hwitte, borgare j
  634
 30 Juli 1472
 Åbo
-<issuer status="frälseman" gender="m" onlyone="y">Magnus Frille</issuer> gifver åt sin systerson Åbo kaniken mäster Håkan all sin arfvedel uti en tomt i Åbo, belägen vid stranden mellan domprostens gård och stenbadstugan.
+<issuer status="nobleman" gender="m" onlyone="y">Magnus Frille</issuer> gifver åt sin systerson Åbo kaniken mäster Håkan all sin arfvedel uti en tomt i Åbo, belägen vid stranden mellan domprostens gård och stenbadstugan.
 
 <folio>Fol. 195 v.</folio>
 </regesta>
@@ -1365,7 +1365,7 @@ Ffore allom mannom thetta myt opne breff koma kan kennis oc kungør jac Magnus F
  635
 1 Augusti 1472
 Åbo
-<issuer status="frälsekvinna" gender="f" onlyone="y">Elin Magnusdotter</issuer>, Kristiern Frilles enka, upplåter åt kaniken Håkan i Åbo all sin och sina barns andel i förenämnda tomt i Åbo
+<issuer status="noblewoman" gender="f" onlyone="y">Elin Magnusdotter</issuer>, Kristiern Frilles enka, upplåter åt kaniken Håkan i Åbo all sin och sina barns andel i förenämnda tomt i Åbo
 
 <folio>Fol. 195.</folio>
 </regesta>
@@ -1392,7 +1392,7 @@ Ffore allom them thetta mith nærwarande opne breff koma kan bekennis oc kungør
  636
 1 Augusti 1472
 Åbo
-Peder Svärds enka, <issuer status="frälsekvinna" gender="f" onlyone="y">Katarina Håkansdotter</issuer>, upplåter åt Åbo kaniken mäster Håkan Andersson all sin arfvedel i förenämnda tomt i Åbo.
+Peder Svärds enka, <issuer status="noblewoman" gender="f" onlyone="y">Katarina Håkansdotter</issuer>, upplåter åt Åbo kaniken mäster Håkan Andersson all sin arfvedel i förenämnda tomt i Åbo.
 
 <folio>Fol. 195 v.</folio>
 </regesta>
@@ -1419,7 +1419,7 @@ Ffore allom them thetta nærwarandis breff koma kan kennis oc kungør jach Kader
  640
 14 September 1472
 Åbo
-[<issuer status="bourgeois" gender="m" onlyone="y">Anders Hvitte</issuer> pantsätter för två tunnor smör åt domprosten Magnus i Åbo en sin tomt, Aensborg (ͻ: Åborg?) kallad, med der bakom liggande kålgård.
+[<issuer status="burgher" gender="m" onlyone="y">Anders Hvitte</issuer> pantsätter för två tunnor smör åt domprosten Magnus i Åbo en sin tomt, Aensborg (ͻ: Åborg?) kallad, med der bakom liggande kålgård.
 
 <folio>Skoklosters Codex Aboensis fol. 122.</folio>
 </regesta>
@@ -1443,7 +1443,7 @@ Fore allom thøm som thetta breff forekoma kan kennes jach Anders Hwitte met the
  644
 2 Mars 1474
 Åbo
-[<issuer status="ecc" gender="m" onlyone="y">Gottskalk Witte</issuer>, kanik i Åbo och kyrkoherde i Euraåminne, säljer för 20 mark, som han qvitterar, åt Abo domprosten Magnus Nilsson äfvensom herr Peder Andersson, för att läggas under Alla helgons kapell, en kålgård, belägen öfver ån och närmast intill Hans van Askens kålgård, äfvensom ett stall och stallrum der tvärt öfver gatan.
+[<issuer status="ecclesiastic" gender="m" onlyone="y">Gottskalk Witte</issuer>, kanik i Åbo och kyrkoherde i Euraåminne, säljer för 20 mark, som han qvitterar, åt Abo domprosten Magnus Nilsson äfvensom herr Peder Andersson, för att läggas under Alla helgons kapell, en kålgård, belägen öfver ån och närmast intill Hans van Askens kålgård, äfvensom ett stall och stallrum der tvärt öfver gatan.
 
 <folio>Skoklosters Codex Aboensis fol. 122 v.</folio>
 </regesta>
@@ -1467,7 +1467,7 @@ For allom them thetta breff høre eller see kennis och kungør jach Godzskalch W
  647
 12 Augusti 1475
 Åbo
-[<issuer status="borgerska" gender="f" onlyone="y">Birgitta</issuer>, Jakob Freses dotter och hustru till Vilhelm van der Welde, säljer åt domprosten Magnus Nilsson i Åbo för 10 mark penningar och ett pund råg en sin på andra sidan ån belägna kålgård, som hon ärft efter herr Knut Benedikini, samt gifver till Alla helgons altare i domkyrkan allt det som nämnda kålgård i värde kunde öfvergå angifna summa.
+[<issuer status="burgher woman" gender="f" onlyone="y">Birgitta</issuer>, Jakob Freses dotter och hustru till Vilhelm van der Welde, säljer åt domprosten Magnus Nilsson i Åbo för 10 mark penningar och ett pund råg en sin på andra sidan ån belägna kålgård, som hon ärft efter herr Knut Benedikini, samt gifver till Alla helgons altare i domkyrkan allt det som nämnda kålgård i värde kunde öfvergå angifna summa.
 
 <folio>Skoklosters Codex Aboensis fol. 122v.</folio>
 </regesta>
@@ -1491,7 +1491,7 @@ Jak Birgitta Jacob Wrese dotter kennis och kunnoth gør at jach met godhan wilia
  662
 (25 Augusti?<note type="editorial">Se följande bref!</note>) 1477
 Åbo
-[<issuer status="bourgeois" gender="m" onlyone="n">Nils Henriksson</issuer> och <issuer status="bourgeois" gender="m" onlyone="n">Hans Halftunna</issuer> intyga med anledning af en tvist mellan Anders Hvitte och Peder Herre i Mustasaari om en kålgård hvad trenne Åbo stads äldsta qvinnor berättat om samma kålgård.
+[<issuer status="burgher" gender="m" onlyone="n">Nils Henriksson</issuer> och <issuer status="burgher" gender="m" onlyone="n">Hans Halftunna</issuer> intyga med anledning af en tvist mellan Anders Hvitte och Peder Herre i Mustasaari om en kålgård hvad trenne Åbo stads äldsta qvinnor berättat om samma kålgård.
 
 <folio>Skoklosters Codex Aboensis fol. 123.</folio>
 </regesta>
@@ -1528,7 +1528,7 @@ Fore allom them thetta breff kan fore koma kennomps wj epterscriffne Niles Henri
 </regesta>
 
 <regesta source="SDHK" nrSDHK="44170" xml:lang="sv">
-<issuer status="FIXMEvaionko">Rådet</issuer> i Åbo tilldömer borgaren Anders Hvitte en kålgård i Åbo, som han tvistat med en Peder Herre i Muustasaari om.
+<issuer status="burgher">Rådet</issuer> i Åbo tilldömer borgaren Anders Hvitte en kålgård i Åbo, som han tvistat med en Peder Herre i Muustasaari om.
 
 Litteratur och kommentar
 Jfr SDHK nr 44169.
@@ -1548,7 +1548,7 @@ Fore allom them som thetta breff kan fore koma kennomps wj borgmestare oc rodh j
 <regesta editor="Hausen" nrFMU4="3783" xml:lang="sv">
  3783
 Nådendal 9 maj 1479.
-Väpnaren <issuer status="frälseman/borgare" gender="m" onlyone="y">Bengt Jönsson</issuer>, borgare i Åbo, tillbyter med sin hustrus och sina svärföräldrars samtycke Nådendals kloster godset Puotunen i Nousis socken mot ett stenhus i Åbo.
+Väpnaren <issuer status="nobleman" gender="m" onlyone="y">Bengt Jönsson</issuer>, borgare i Åbo, tillbyter med sin hustrus och sina svärföräldrars samtycke Nådendals kloster godset Puotunen i Nousis socken mot ett stenhus i Åbo.
 
 <folio>Original på pergament, med välbehållna signet (FMS n:o 229, 188 och 230), svenska riksarkivet. Arwidssons Handlingar, V n:o 46.</folio>
 </regesta>
@@ -1569,7 +1569,7 @@ For alle dandemen thetta breff kan koma kennes jach Bencth Jönsson a wapn, borg
  683
 1 Mars 1486
 Åbo
-Biskop <issuer status="ecc" gender="m" onlyone="n">Konrad</issuer>, och <issuer status="ecc" gender="m" onlyone="n">domkapitlet</issuer> i Åbo tillägga S:t Eriks altare i Åbo domkyrka, i stället för den bod- och tomtränta, utgörande 5 mark, det egde i Stockholm, en vid Tavastgatan i Åbo belägen gård, som, för 30 år sedan inköpts från Åbo kloster för 150 mark.
+Biskop <issuer status="ecclesiastic" gender="m" onlyone="n">Konrad</issuer>, och <issuer status="ecclesiastic" gender="m" onlyone="n">domkapitlet</issuer> i Åbo tillägga S:t Eriks altare i Åbo domkyrka, i stället för den bod- och tomtränta, utgörande 5 mark, det egde i Stockholm, en vid Tavastgatan i Åbo belägen gård, som, för 30 år sedan inköpts från Åbo kloster för 150 mark.
 
 <folio>Fol. 182 v.</folio>
 </regesta>
@@ -1593,7 +1593,7 @@ Wy Kort, met Gudz nadh biscop j Abo, oc capitulum ther sama stadz gørom vitherl
  684
 12 Mars 1486
 Åbo
-<issuer status="frälseman" gender="m" onlyone="n">Erland Andersson</issuer> och <issuer status="frälseman" gender="m" onlyone="n">Lasse Frans</issuer> godkänna sin aflidne broders, mäster Håkans, gåfva af en gård i Åbo till S:t Katarina altare uti domkyrkan dersammastädes.
+<issuer status="nobleman" gender="m" onlyone="n">Erland Andersson</issuer> och <issuer status="nobleman" gender="m" onlyone="n">Lasse Frans</issuer> godkänna sin aflidne broders, mäster Håkans, gåfva af en gård i Åbo till S:t Katarina altare uti domkyrkan dersammastädes.
 
 <folio>Fol. 195 v.</folio>
 </regesta>
@@ -1617,7 +1617,7 @@ Ffore alle the dande men thetta breff hender fore koma kennomps wi epter:ne Erla
  688
 1 April 1488
 Åbo
-Biskop <issuer status="ecc" gender="m" onlyone="n">Konrad</issuer> och <issuer status="ecc" gender="m" onlyone="n">domkapitlet</issuer> i Åbo ingå och stadfästa ett gårds- och tomtbyte hvarigenom Hans guldsmed i Åbo andfått S:t Eriks tomt i hörnet vid hans gamla tomt, men till Alla helgons altare afstått en tomt belägen mellan hans gård och Alla Guds helgons stenhus, hvarvid S:t Eriks altare behåller Alla Guds helgons gård, som hustru Elin i Särkilaks och hennes arfvingar hade gifvit under Alla helgons altare.
+Biskop <issuer status="ecclesiastic" gender="m" onlyone="n">Konrad</issuer> och <issuer status="ecclesiastic" gender="m" onlyone="n">domkapitlet</issuer> i Åbo ingå och stadfästa ett gårds- och tomtbyte hvarigenom Hans guldsmed i Åbo andfått S:t Eriks tomt i hörnet vid hans gamla tomt, men till Alla helgons altare afstått en tomt belägen mellan hans gård och Alla Guds helgons stenhus, hvarvid S:t Eriks altare behåller Alla Guds helgons gård, som hustru Elin i Särkilaks och hennes arfvingar hade gifvit under Alla helgons altare.
 
 <folio>Fol. 182 v.</folio>
 </regesta>
@@ -1642,7 +1642,7 @@ Vij Kort, met Gudz [nadh biskop i Abo,] oc capitulum ther sama stadz kennomps oc
 <![CDATA[https://books.google.fi/books?id=UQBLAAAAYAAJ&hl=fi&pg=RA1-PA120#v=onepage&q&f=false]]>
 
 <regesta editor="Hausen" nrFMU5="4183" xml:lang="sv">
-<issuer status="köpsven" gender="m" onlyone="y">Clemet Knutsson</issuer>, köpsven i Stockholm, upplåter inför rådet där 1488, den 12 juli (lördagen, S:ta Margarete afton), åt Hans Olsson, köpsven i Vesteraars, en tomt liggande i Aabo stad i Findlandh med en källare på Kyrkogatan, vid Gropen, för 64 mark Stockholmska, hvilken gård Clemet sade sig hafva ärft efter sin kära fader och moder.
+<issuer status="burgher" gender="m" onlyone="y">Clemet Knutsson</issuer>, köpsven i Stockholm, upplåter inför rådet där 1488, den 12 juli (lördagen, S:ta Margarete afton), åt Hans Olsson, köpsven i Vesteraars, en tomt liggande i Aabo stad i Findlandh med en källare på Kyrkogatan, vid Gropen, för 64 mark Stockholmska, hvilken gård Clemet sade sig hafva ärft efter sin kära fader och moder.
 <folio>Stockholms jordebok 1474–1498 n:o 1045. Även i Stockholms orig. tänkebok 1484–88, sid. 499, svenska riksbiblioteket.</folio>
 </regesta>
 
@@ -1683,7 +1683,7 @@ Absentes: Staffan Westgöte, Anders Suensson.
 
 <regesta editor="Hausen" nrFMU5="4187" xml:lang="sv">
  4187
-<issuer status="bourgeois" gender="m" onlyone="y">Laurens</issuer> svärdslipare, borgare i Åbo, upplåter inför Stockholms råd 1488, den 13 augusti (onsdagen näst efter Laurentii), åt Benct Laurensson, "borgere ibidem, en gardh met tompten j Abo, liggiandes hart wiidh clostredh, som for:ne Benct Laurensson nu besitter och for:de Laurens swerdsliper tilforen besitet hade, huilken gardh han honom salt hade for xlviij march". Af denna summa hade han bekommit xxviij; "the andre xx march, som igen stande, skal for:ne Benct giffue hans hustrv i Aaboo medan han nw [pa] sin resa är til S:te Jacob. Thet loffuede och for:ne Bencthe at han och gerne göre wille".
+<issuer status="burgher" gender="m" onlyone="y">Laurens</issuer> svärdslipare, borgare i Åbo, upplåter inför Stockholms råd 1488, den 13 augusti (onsdagen näst efter Laurentii), åt Benct Laurensson, "borgere ibidem, en gardh met tompten j Abo, liggiandes hart wiidh clostredh, som for:ne Benct Laurensson nu besitter och for:de Laurens swerdsliper tilforen besitet hade, huilken gardh han honom salt hade for xlviij march". Af denna summa hade han bekommit xxviij; "the andre xx march, som igen stande, skal for:ne Benct giffue hans hustrv i Aaboo medan han nw [pa] sin resa är til S:te Jacob. Thet loffuede och for:ne Bencthe at han och gerne göre wille".
 
 <folio>Stockholms orig. tänkebok 1484–88, sid. 511, svenska riksbiblioteket.</folio>
 </regesta>
@@ -1718,7 +1718,7 @@ manne.</p>
 <regesta editor="Hausen" nrFMU5="4381" xml:lang="sv">
  4381
 Åbo 28 augusti 1491.
-<issuer status="bourgeois" gender="m" onlyone="n">Staffan Koute</issuer> och <issuer status="bourgeoishustru" gender="f" onlyone="n">Margit Olofsdotter</issuer> erkänna sig hafva gifvit sin måg Sigfrid Kurin och sin dotter Katarina, Kurins hustru, en viss gård och en tomt i Åbo med villkor att därifrån årligen skulle utgå 2 mark penningar till en mässa alla tisdagar vid S:t Annas altare i Åbo domkyrka, till hvilket altare de för samma mässas hållande föröfrigt gifvit två stenbodar med källare, hvarjämte de förordna att två andra deras bodar i nämnda stad skola tillfalla Nådendals kloster.
+<issuer status="burgher" gender="m" onlyone="n">Staffan Koute</issuer> och <issuer status="burgher woman" gender="f" onlyone="n">Margit Olofsdotter</issuer> erkänna sig hafva gifvit sin måg Sigfrid Kurin och sin dotter Katarina, Kurins hustru, en viss gård och en tomt i Åbo med villkor att därifrån årligen skulle utgå 2 mark penningar till en mässa alla tisdagar vid S:t Annas altare i Åbo domkyrka, till hvilket altare de för samma mässas hållande föröfrigt gifvit två stenbodar med källare, hvarjämte de förordna att två andra deras bodar i nämnda stad skola tillfalla Nådendals kloster.
 
 <folio>Gammal avskrift på papper i svenska riksarkivet. Arwidssons Handlingar VI n:o 39.</folio>
 </regesta>
@@ -1737,7 +1737,7 @@ Ffor allom them, som thetta breff kan fore koma, kennoms ok kungörom wij epters
 <regesta editor="Hausen" nrFMU6="5028" xml:lang="sv">
  5028
 Stockholm 15 juni 1504.
-Ärkebiskop <issuer status="ecc" gender="m" onlyone="n">Jakob Ulfsson</issuer>, herr <issuer status="" gender="m" onlyone="n">Svante Nilsson</issuer> och lagmannen i Uppland <issuer status="" gender="m" onlyone="n">Knut Eskilsson</issuer> intyga hvad fordom kyrkoherden i Vändil socken Henrik Fris gifvit till Åbo domkyrka, Nådendals kloster och Töfsala kyrka, enligt hans bevittnade testamente.
+Ärkebiskop <issuer status="ecclesiastic" gender="m" onlyone="n">Jakob Ulfsson</issuer>, herr <issuer status="nobleman" gender="m" onlyone="n">Svante Nilsson</issuer> och lagmannen i Uppland <issuer status="nobleman" gender="m" onlyone="n">Knut Eskilsson</issuer> intyga hvad fordom kyrkoherden i Vändil socken Henrik Fris gifvit till Åbo domkyrka, Nådendals kloster och Töfsala kyrka, enligt hans bevittnade testamente.
 
 <folio>Avskrift av Örnhielm i "Åbo stifts predikarebrödra klosters och Nådendals klosters samt Jämtlands brev", sid. 1555, i vha akademien. Avskriften bär anteckningen: "Coll. med orig. papperscop. vidim", och anger plats för tre signet. Finnes refererad i förteckningen över Nådendals klosterbrev. Arwidssons Handlingar VII, sid. 41.</folio>
 </regesta>
@@ -1757,7 +1757,7 @@ Wij Jacob, medh Guds nade erchiebiskop etc., Swante Niehlisson, Sweriges rijkes 
  693
 27 Juli 1504
 Åbo
-Riksföreståndaren <issuer status="knight" gender="m" onlyone="y">Svante Sture</issuer> dömer i en tvist mellan prebendaten i Åbo Hans Dyrhake och borgaren derstädes Hans guldsmed angående en i samma stad belägen gård, hvarpå den senare såsom arfwinge till hustru Thola Svensdotter gjort anspråk, att nämnde prebendat skall innehafva gården till dess hans vederdeloman betalar honom de 160 mark för hvilka bemälde hustru Tola i tiden lemnat honom ifrågavarande gård till pant.
+Riksföreståndaren <issuer status="nobleman" gender="m" onlyone="y">Svante Sture</issuer> dömer i en tvist mellan prebendaten i Åbo Hans Dyrhake och borgaren derstädes Hans guldsmed angående en i samma stad belägen gård, hvarpå den senare såsom arfwinge till hustru Thola Svensdotter gjort anspråk, att nämnde prebendat skall innehafva gården till dess hans vederdeloman betalar honom de 160 mark för hvilka bemälde hustru Tola i tiden lemnat honom ifrågavarande gård till pant.
 
 <folio>Fol. 268 v—269.</folio>
 </regesta>
@@ -1795,7 +1795,7 @@ Notes on the assessment of the so-called Thola lot in Abo.
 
 <edition editor="Hausen" xml:lang="sv-x-old">
 <title xml:lang="la"></title>
-Anno Domini mdviij, toorsdaghen nest før palmesondagh, tha skattadhe thenne eptherscriffne dandemen Toles tompt for iijᶜ marker, som ære, etc. <issuer status="bourgeois" gender="m" onlyone="n">Michel Lappelan, Pedher offuerskærare, Nielss scriffware, Oleff Swarth, Biorn Magnesson, Parghass Oleff</issuer>.
+Anno Domini mdviij, toorsdaghen nest før palmesondagh, tha skattadhe thenne eptherscriffne dandemen Toles tompt for iijᶜ marker, som ære, etc. <issuer status="burgher" gender="m" onlyone="n">Michel Lappelan, Pedher offuerskærare, Nielss scriffware, Oleff Swarth, Biorn Magnesson, Parghass Oleff</issuer>.
 </edition>
 </document>
 
@@ -1804,7 +1804,7 @@ Anno Domini mdviij, toorsdaghen nest før palmesondagh, tha skattadhe thenne ept
  697
 26 Juni 1508
 Stockholms slott
-Riksföreståndaren <issuer status="knight" gender="m" onlyone="y">Svante Sture</issuer> gifver åt Åbo borgaren Sven Myre sin andel uti en gård i Åbo den herr Johan Dyrhake nu besatt, hvilken andel som danaarf efter en Thomas Tyske tillfallit riksföreståndaren,
+Riksföreståndaren <issuer status="nobleman" gender="m" onlyone="y">Svante Sture</issuer> gifver åt Åbo borgaren Sven Myre sin andel uti en gård i Åbo den herr Johan Dyrhake nu besatt, hvilken andel som danaarf efter en Thomas Tyske tillfallit riksföreståndaren,
 
 <folio>Fol. 269 v.</folio>
 </regesta>
@@ -1839,7 +1839,7 @@ Notification of an exchange of land carried out in the pres­ence of a number of
 
 <edition editor="Hausen" xml:lang="sv-x-old">
 <title xml:lang="la">Super permutacione curie et fundici Menarth etc:a cum ecclesia facta.</title>
-Aarum epther Herrens byrdh mdix, torsdagen nest epter sancti Gregorij dagh, wore tæsse eptherscrifne gode men offuer een forlikan oc eeth bythe j mellen domkircken pa then eno oc j mellen Menarth glasmesther oc hans dotthror Margareta oc Kaderin pa then annan sidho om nogre tompther, hwss oc gordher, som the bytthe oc skiffte sigh j mellen, som ære <issuer status="rådmän" gender="m" onlyone="n">Nielss scriffuare, Nielss Mwraynen, Michel Lappalaynen, Peder offuerskærare</issuer>, radmen her j Abo, oc <issuer status="bourgeois" gender="m" onlyone="n">Sigfridh Swartis oc Marcus Andersson</issuer>, borgare ther same stadz. Først skattadhe the tompthen ther Menart bodde wid commvne met steenhwss oc kellare etc:a ffør ccxxx marker oc een lithen tompt ther strax nær, som hørdde hustrw Margareta enkannelige til oc war løst fron sancte Vrsule, then skattadhe the for lx marker. Jtem ther aa mooth skattadhe the ij kirkiones tompther met steenhwss oc kellare etc:a, først litzle Worefrwgarden, som kirkin fik aff Knwt Posze, liggendis ginmooth Gertrud Karwotaske paa Aagathan<note type="editorial">Härtill ändradt från Fagatan (ͻ: Fægatan).</note>, før cxl marker, huilken tompt oc gardh anamedh før:de Menart oc hans dotter Kaderin før theris andell oc xxxiij marker denarer ther til, huilke the finge j gode redho, førthy them borde før theris deell clxxiij marker. Item swa skattadhe the før:de gode men een tompt met steenhws oc kellare etc:a pa Tawestgathwn, som kircken fik aff hustrw Kaderin Grottens, for cxxx marker. Then gardhen anamedh hustrw Margarita før hennes deell met hennes husbondis Henrikx jaa oc samtycke, oc honom eller henne bør giffwa sancte Henrik j moet xiij marker. Theris deell j bade for:de theris tomther løper cxvij marker; swa at her epter scall kircken eller preste commune friith oc qwith beholda til ewigh tiidt the før:de twa tompther som Menart met hans dottror aatthe, oc forscr:ne Menart met syne dotthror oc theris erffuinge scule beholle the forscr:ne kirckens tompther oc til ewiigh tiid. Thenne førscr:ne wenlige bythe oc forliiken forkynnedhe for:de gode men Nielss scriffware etc:a førsthe radzstwghw dagh ther epter oc lathe kome j stadzens tænckebook met badhe parthernis samtycke oc jaa, huilke ta nærwore aa kirkens wegna, hedherligen herre mester Henrik Wenne, domprowest j Abo, oc Menarth glasmesther aa syne oc syns barns wegna met syn maagh Henrik. Acta sunt hec die et loco quibus supra.
+Aarum epther Herrens byrdh mdix, torsdagen nest epter sancti Gregorij dagh, wore tæsse eptherscrifne gode men offuer een forlikan oc eeth bythe j mellen domkircken pa then eno oc j mellen Menarth glasmesther oc hans dotthror Margareta oc Kaderin pa then annan sidho om nogre tompther, hwss oc gordher, som the bytthe oc skiffte sigh j mellen, som ære <issuer status="burgher" gender="m" onlyone="n">Nielss scriffuare, Nielss Mwraynen, Michel Lappalaynen, Peder offuerskærare</issuer>, radmen her j Abo, oc <issuer status="burgher" gender="m" onlyone="n">Sigfridh Swartis oc Marcus Andersson</issuer>, borgare ther same stadz. Først skattadhe the tompthen ther Menart bodde wid commvne met steenhwss oc kellare etc:a ffør ccxxx marker oc een lithen tompt ther strax nær, som hørdde hustrw Margareta enkannelige til oc war løst fron sancte Vrsule, then skattadhe the for lx marker. Jtem ther aa mooth skattadhe the ij kirkiones tompther met steenhwss oc kellare etc:a, først litzle Worefrwgarden, som kirkin fik aff Knwt Posze, liggendis ginmooth Gertrud Karwotaske paa Aagathan<note type="editorial">Härtill ändradt från Fagatan (ͻ: Fægatan).</note>, før cxl marker, huilken tompt oc gardh anamedh før:de Menart oc hans dotter Kaderin før theris andell oc xxxiij marker denarer ther til, huilke the finge j gode redho, førthy them borde før theris deell clxxiij marker. Item swa skattadhe the før:de gode men een tompt met steenhws oc kellare etc:a pa Tawestgathwn, som kircken fik aff hustrw Kaderin Grottens, for cxxx marker. Then gardhen anamedh hustrw Margarita før hennes deell met hennes husbondis Henrikx jaa oc samtycke, oc honom eller henne bør giffwa sancte Henrik j moet xiij marker. Theris deell j bade for:de theris tomther løper cxvij marker; swa at her epter scall kircken eller preste commune friith oc qwith beholda til ewigh tiidt the før:de twa tompther som Menart met hans dottror aatthe, oc forscr:ne Menart met syne dotthror oc theris erffuinge scule beholle the forscr:ne kirckens tompther oc til ewiigh tiid. Thenne førscr:ne wenlige bythe oc forliiken forkynnedhe for:de gode men Nielss scriffware etc:a førsthe radzstwghw dagh ther epter oc lathe kome j stadzens tænckebook met badhe parthernis samtycke oc jaa, huilke ta nærwore aa kirkens wegna, hedherligen herre mester Henrik Wenne, domprowest j Abo, oc Menarth glasmesther aa syne oc syns barns wegna met syn maagh Henrik. Acta sunt hec die et loco quibus supra.
 Iste processus de verbo ad verbum habetur jn libro judiciorum consulatus, dicto stadz tenckebook.
 </edition>
 </document>
@@ -1849,7 +1849,7 @@ Iste processus de verbo ad verbum habetur jn libro judiciorum consulatus, dicto 
  699
 17 Mars 1509
 Åbo
-<issuer status="bourgeois" gender="f" onlyone="y">Karin Knutsdotter</issuer>, borgerska i Åbo, säljer åt Åbo domkyrka för 70 mark, som hon qvitterar, den andel hon ärft efter hustru Tola uti en i Åbo vid Fägatan belägen gård.
+<issuer status="burgher woman" gender="f" onlyone="y">Karin Knutsdotter</issuer>, borgerska i Åbo, säljer åt Åbo domkyrka för 70 mark, som hon qvitterar, den andel hon ärft efter hustru Tola uti en i Åbo vid Fägatan belägen gård.
 
 <folio>Fol. 270.</folio>
 </regesta>
@@ -1868,7 +1868,7 @@ Jach Kaderin Knwtzdotther, borgerske j Abo, bekennes oc kwngør oc met thetta mi
 <regesta editor="Hausen" nrREA="700" xml:lang="sv">
  700
 21 Mars 1509
-Åbo borgaren <issuer status="bourgeois" gender="m" onlyone="y">Sven Myre</issuer> säljer till Åbo domkyrka för 70 mark penningar, som han qvitterar, den af riksföreståndaren Svante Sture honom gifna delen i hustru Tholas gård i Åbo.
+Åbo borgaren <issuer status="burgher" gender="m" onlyone="y">Sven Myre</issuer> säljer till Åbo domkyrka för 70 mark penningar, som han qvitterar, den af riksföreståndaren Svante Sture honom gifna delen i hustru Tholas gård i Åbo.
 
 <folio>Fol. 269 v.</folio>
 </regesta>
@@ -1887,7 +1887,7 @@ Jac Swen Myre, borgare j Abo, bekennes oc kwngør oc met thetta mit nærwarandes
 <regesta editor="Hausen" nrREA="701" xml:lang="sv">
  701
 21 Mars 1509
-Anteckning om att <issuer status="prebendat + äkta par" gender="m" onlyone="n">Hans Dyrhake</issuer>, <issuer status="" gender="m" onlyone="n">Sven Myre</issuer> och <issuer status="" gender="f" onlyone="n">Katarina Knutsdotter</issuer> inför rådet i Åbo erkänt sig till Åbo domkyrka hafva försålt sina andelar i hustru Tholas vid Fägatan belägna gård, hvars storlek äfven angifves.
+Anteckning om att <issuer status="ecclesiastic" gender="m" onlyone="n">Hans Dyrhake</issuer>, <issuer status="burgher" gender="m" onlyone="n">Sven Myre</issuer> och <issuer status="burgher woman" gender="f" onlyone="n">Katarina Knutsdotter</issuer> inför rådet i Åbo erkänt sig till Åbo domkyrka hafva försålt sina andelar i hustru Tholas vid Fägatan belägna gård, hvars storlek äfven angifves.
 
 <folio>Fol. 268 v.</folio>
 </regesta>
@@ -1906,7 +1906,7 @@ Anno domini mdix, odensdagen næst fore woreffrw dagh j fasten tha kome for siti
     <regesta editor="Hausen" nrREA="" xml:lang="sv">
         720.
 
-        <issuer status="ecc" gender="m" onlyone="n"/>
+        <issuer status="ecclesiastic" gender="m" onlyone="n"/>
 
         Förteckning på S:t Görans altares i Åbo domkyrka egendom.
     <folio>Fol. 206 v.</folio>
@@ -1950,7 +1950,7 @@ Jtem i pellis vrsina.
 <document nr="85" type="" when="" link="REA723">
 <regesta editor="Hausen" nrREA="723" xml:lang="sv">
 
-    <issuer status="ecc" gender="m" onlyone="n"/>
+    <issuer status="ecclesiastic" gender="m" onlyone="n"/>
 
     Inventarium vid S:t Laurentii altare i Åbo domkyrka äfvensom vid den dertill hörande gården.
     <folio>Fol. 252.</folio>
