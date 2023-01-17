@@ -85,40 +85,6 @@ Jtem vnam <landscape cat="built" type="house" transaction="object">curiam</lands
 </edition>
 </document>
 
-###POIS <document nr="06" nrDF="2945" type="" when="1454-05-12" link="http://df.narc.fi/document/2945">
-
-<regesta editor="Hausen" nrREA="568" xml:lang="sv">
-568
-12 Maj 1454
-Åbo domkyrka
-
-Notarius publicus Martinus Lesken vidimerar på begäran af ekonomen och kaniken vid Abo domkyrka Nikolaus Mulle lagman Klas Flemings den 27 Oktober 1423 gifna intyg rörande en mellan domkyrkan och staden försiggången syn beträffande de så kallade domkyrkans lergrafvar.
-<folio>Fol. 40—40 v.</folio>
-</regesta>
-
-<regesta source="SDHK" nrSDHK="43915" xml:lang="sv">
-Notarius publicus Martinus Lesken vidimerar på begäran av ekonomen och kaniken vid domkyrkan, Nikolaus Mulle, lagman Klas Flemings intyg av 14231027 rörande en mellan domkyrkan och staden gjord syn om domkyrkans s.k. lergravar.
-</regesta>
-
-<regesta editor="Kokkonen" xml:lang="en">
-Martinus Lesken, notary public, certifies upon the request of Nikolaus Mulle, Steward and Canon of Abo Cathedral, an attestation issued by Lagman ###Klas Fleming of 27 October 1423 of an inspection concerning the Cathedral and the town of Abo and the latter's so-called ###clay pits.
-</regesta>
-
-<edition editor="Hausen" xml:lang="la">
-<title>Instrvmentum publicum super <landscape cat="natural" type="mud pits">Leergraffuan</landscape>.</title>
-In nomine Dominj amen. Anno a natiuitate Eiusdem millesimo quadringentesimo quinquagesimo quarto, jndiccione septimo, pontificatu sanctissimi in Christo patris et dominj nostri dominj Felicis, diuina prouidencia pape quintj, anno eius quarto, die vero duodecima mensis Maij, in summo choro ecclesie Aboensis, hora ante meridiem nona uel quasi, jn mei notarii publici subscripti testiumque infrascriptorum ad hoc specialiter vocatorum et rogatorum presencia constitutus honorabilis vir dominus Nicolaus Mulle yconomus necnon canonicus ecclesie Aboensis, litteras quasdam papireas sigilloque de cera viridis coloris dorsotenus impressas, jn cuius quidem sigillj inferiori parte clipeus triangularis, in clipeo vero 3:s trabes lucide cernebantur, supra clipeum quoque galea quedam et super galeam duo cornua erecta clare apparebant, littere vero circumferenciales eiusdem sigilli legentibus patenter elucebant: Sigillum Claus Flæmingh militis, saluas, sanas et integras, non viciatas nec in aliqua sui parte suspectas, sed omni prorsus vicio et suspicione carentes, produxit et ipsas per me notarium publicum subscriptum coram testibus fide dignis legi ac publicari postulauit, quas ego notarius publicus cum ea qua decuit reuerencia de manibus eius suscipiens publice legi, quarum tenor de verbo ad verbum in sweco ydeomate sequitur et est talis: ### <language FIXME="Swedish"/> For allom thetta breff høra eller sæ kennis jac Clauus Flæmingh (etc. Se n. 407). Post quarum quidem litterarum produccionem, leccionem et diligentem examinacionem prefatus dominus Nicolaus Mulle, dicte ecclesie Aboensis yconomus, me notarium publicum subscriptum debita cum instancia requisiuit quatenus ipsas litteras copiando sibi ex eis vnum uel plura publicum sev publica conficerem instrvmentum siue instrumenta et quot fuerint necessaria et oportuna. Acta sunt hec anno jndiccione, pontificatu, mense, die, hora et loco quibus supra, presentibus ibidem honorabilibus et discretis viris dominis Johanne Jasparis, Henrico Akthi et Olauo Henrici, presbiteris, Gerlaco Fridagh et Lamberto Jonisson, ciuibus Aboensis dyocesis testibus ad premissa vocatis specialiter et rogatis.
-Et ego <issuer status="ecclesiastical">Martinus Lesken</issuer>, clericus Wladislauiensis dyocesis, publicus imperialj auctoritate notarius, quia huiusmodi litterarum produccioni, leccioni et diligenti examinacioni aliisque omnibus et singulis dum sic vt premittitur fierent et agerentur vna cum prenominatis testibus presens interfui, eaque sic fieri vidi et audiui, jdeoque inserendo hic prefatas litteras de verbo ad verbum nichil addendo uel minuendo ex eis hoc presens publicum instrumentum, manu mea propria scriptum confeci signoque et nomine meis solitis et consuetis consignaui, rogatus et requisitus in fidem et testimonium omnium et singulorum premissorum. <note type="editorial">Härunder är tecknadt: Super lærgraffuen.</note>
-</edition>
-
-<note type="addition">407
-27 Oktober 1423
-Åbo
-Lagman Klas Fleming gifver till känna, att de synemän han jämte riddarne Nils Gustafsson och Krister Nilsson utsett i en tvist mellan Åbo stad och domkyrkan derstädes beträffande de s. k. domkyrkans lergrafvar, stannat vid olika åsigt, i det ena hälften yttrat sig till förmån för kyrkan och den andra för staden.
-Fol. 41. — Öfverskrift: Super Mæthejerffwj. — Brefvet ingår ock, utan anmärkningsvärda varianter, i en af notar. publ. Martin Lesken den 12 Maj 1454 utfärdad vidimation, som i Svartboken (fol. 40—40v.) bär öfverskriften: Instrvmentum publicum super Lergraffuan.
-For allom thom thetta breff høra eller see kennis jac Clauus Flæming, riddare oc lagman j Østerlandin, myk haffua hordh the sama synemæn, som ærlika men her Niclis Gotzstaffson oc her Cristiern Niclisson, riddare, mins herra raadh, oc jak met them dømdom met samnadho radhe mellan domkirkionne j Abo ok radhet ther sama standz vpa ena mark, som kallas domkirkionne lergraffuar oc stadhen sik eghna vil, hwilke sinemæn sigh atskilde oc ey offuer ena drogho, vtan tessa siex, Suno Sunoson, Benth Lydekason, Jonis Torkilson, Olaff Kirwis, Michel Joanson oc Henric Haloson, sagde domkirkionne til fra domproastins sudra akergardz hørne oc swa nidher met gropænna som fra Kupiza loper oc til Hinza Knaps sudra akergardz hørne, ok swa nidher moth stadhen vidh Mariavores gaardh oc fram met the gordana epter gambla bigningena til Gærwins Cristine gardh, som henne kolgaardh forre war, oc fra sama gardzins osternorra horne til proastins akirhorne, ther hans rie forre stodh, vtan the løthona offuan gropenæ ligger vnder Galghaberghit, fra Diegna kældona oc til domprouastins offra akerz horne, sagde the ingen til eller sinte; oc tessa for:de siæx vediade vnder ena rætta ransakan epter laghen fore myn herre konungin eller hans radh, at theras ordh oc syn scal sannare finnas epter the beuisning, vithnom oc skelom, som the horde pa bade syder oc sago, en theras siæx som stadenom til sagdho helfthena aff the forscripna markinnæ. Ok tesse tre, Laurens Roware, Haquon Skitte oc Jonis Jngonen kastade theras vædzfæ amothe thom, vtan the andra tre, Jonis Michelson, Adam ok Olaff Slattare, the vilde ey vediæ. Til thes mera visso oc aminnilse trikker jak mith incigle vpa ryggen tesso breffue. Scriptum Abo anno Domini mcdxxiij, jn vigilia gloriosorum Symonis et Iude apostolorum.</note>
-
-
-</document>
 
 <document nr="07" nrDF="2997" type="" when="1455 etc" link="http://df.narc.fi/document/2997">
 
