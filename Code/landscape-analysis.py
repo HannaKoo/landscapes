@@ -52,6 +52,7 @@ for doc in root:
     # m,f -> both
     # f,m -> both
     # Does undefined something when gender != None/'f'/'m'/'both'
+    # eg. 'm'+'m?' == 'both'
 
   for j in doc.iter('landscape'):
     data[-1]['landscapes'] += 1
