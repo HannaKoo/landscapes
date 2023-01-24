@@ -35,7 +35,9 @@ tai list of dicts
 data = []
 
 for doc in root:
+  
   data.append({'nr': doc.get('nr'), 'iss_gen': None, 'landscapes': 0})
+  
   for j in doc.iter('issuer'):
     old = data[-1]['iss_gen']
     if old == None:
@@ -51,8 +53,9 @@ for doc in root:
     # f,f -> f
     # m,f -> both
     # f,m -> both
-    # Does undefined something when gender != None/'f'/'m'/'both'
-    # eg. 'm'+'m?' == 'both'
+    # Does undefined something when:
+    #   gender != None/'f'/'m'/'both'
+    # eg. 'm','m?' -> 'both'
 
   for j in doc.iter('landscape'):
     data[-1]['landscapes'] += 1
