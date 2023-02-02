@@ -12,6 +12,7 @@
                                 <xs:complexType mixed="true">
                                     <xs:sequence minOccurs="0">
                                         <xs:choice maxOccurs="unbounded">
+                                            <!-- ota pois: -->
                                             <xs:element name="editorial" minOccurs="0">
                                                 <xs:complexType>
                                                     <xs:simpleContent>
@@ -32,12 +33,14 @@
                                                     </xs:simpleContent>
                                                 </xs:complexType>
                                             </xs:element>
+                                            <!-- pois myöhemmin: -->
                                             <xs:element name="scilicet" minOccurs="0">
                                                 <xs:complexType>
                                                     <xs:attribute name="its" type="xs:string" use="optional" />
                                                 </xs:complexType>
                                             </xs:element>
                                             <xs:element name="location" type="xs:string" minOccurs="0" />
+                                            <!-- status, gender ja onlyone enum: -->
                                             <xs:element name="issuer" minOccurs="0" maxOccurs="unbounded">
                                                 <xs:complexType>
                                                     <xs:simpleContent>
@@ -53,6 +56,7 @@
                                         </xs:choice>
                                     </xs:sequence>
                                     <xs:attribute name="editor" type="xs:string" use="optional" />
+                                    <!-- nr:t numeroita? -->
                                     <xs:attribute name="nrREA" type="xs:string" use="optional" />
                                     <xs:attribute ref="xml:lang" use="optional" />
                                     <xs:attribute name="source" type="xs:string" use="optional" />
@@ -74,6 +78,7 @@
                                             <xs:element name="title" minOccurs="0">
                                                 <xs:complexType mixed="true">
                                                     <xs:sequence minOccurs="0">
+                                                        <!-- issuer ja landscape ja note ja p ja place Typeksi: -->
                                                         <xs:element name="issuer" minOccurs="0">
                                                             <xs:complexType>
                                                                 <xs:simpleContent>
@@ -215,6 +220,7 @@
                                                     </xs:simpleContent>
                                                 </xs:complexType>
                                             </xs:element>
+                                            <!-- pois: -->
                                             <xs:element name="g" type="xs:string" minOccurs="0" />
                                             <xs:element name="kuuluneeseuraavaan" type="xs:string" minOccurs="0" />
                                             <xs:element name="person" minOccurs="0">
