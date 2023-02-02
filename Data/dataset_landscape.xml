@@ -4,7 +4,6 @@
 <landscapes>
 
 
-
 <document nr="02" nrDF="785" type="testament" when="1370-05-31" where="Turku" link="http://df.narc.fi/document/785">
 
 <regesta editor="Hausen" nrREA="213" xml:lang="sv">Borgaren <issuer status="burgher" gender="m" onlyone="n">Hennikin Närfve</issuer> i Åbo och hans hustru <issuer status="burgher wife" gender="f" onlyone="n">Lucia</issuer> skänka sin gård invid domkyrkan jämte en kålgård till S:t Katharina altare i Åbo domkyrka.
@@ -829,7 +828,7 @@ Thet scal allom mannom witerligit wara, som thetta breff höra eller see, thet j
 </regesta>
 
 <regesta editor="Hausen" nrFMU3="2795" xml:lang="sv">
-2795   Åbo 3 maj (1449–1450). <FIXME>FMU antaa tiukemman välin kuin muut.</FIXME>
+2795   Åbo 3 maj (1449–1450). <note type="FIXME">FMU antaa tiukemman välin kuin muut.</note>
 Lasse Jönsson och Katharina Ulfsdotter vpplåta åt biskop Magni officialis och Helge lekamens altares föreståndare herr Håkan Hermala gods i Vemo socken mot en gård i Åbo, värd 160 mark, och en tomt med kålgård, värd 45 mark, samt 145 mark i penningar jämte något kläde. Dat. die inventionis sanctæ crucis.
 Avskrift i Registr. eccles. Aboens. Svartboken n:o 553. Urkunden saknar årtal, men bör vara från ovan angivna tid, begränsad av året, då Henrik Klasson först nämns såsom lagman och biskop Magnus' frånträde av sitt ämbete.
 </regesta>
@@ -984,7 +983,7 @@ Prior Olof Gregersson and the convent at Abo extend their fraternity to Anders K
 </regesta>
 
 <edition editor="Hausen" xml:lang="sv-x-old">
-<title xml:lang="la">Super curia beati Erici in vico Tauastie.<FIXME> — Jfr originalet tryckt i Arwidssons Handlingar IV, sid. 42.</FIXME></title>
+<title xml:lang="la">Super curia beati Erici in vico Tauastie.<note type="FIXME"> — Jfr originalet tryckt i Arwidssons Handlingar IV, sid. 42.</note></title>
 Allom them thetta breff kan forekoma kungør jac broder Olaff Gregersson, prior j Abo closter, mik met berodno modhe oc stadughom godwilia met myn conuentz oc brødra samtickio oc endrækteligo tilloth och fulbordh oss alla haffua giort en fastan stadga oc sæmya met tessom breffwisarom Anders Kayris oc hans ælskelige hustrv Margretta Jønis dotter j swa motto at wi alle anamom them tiil wort brødherskap, andelikt oc likamlikt, fryhet och hægn tiil thera dødz thima met swa skeel och forordh at thee sculw haffua theres fryan kost oc fødha lika met prestebrødrom; oc tho Gudi teckis them krænkia meth soot eller a[n]dhro merkelige hynder, tho skal conuentet skicka them fødha oc prouento som androm prestebrødrom j thera krankdom tiil thera maak oc skulu haffua mellan mole en iiij penningx kanno conuentz øøl, tho the tess skelligha widertørffua, ffor huilkit forscriffuit brøderskap och fryhet the haffua giffuit conuenteno ijᶜ marc eptir peningetaal, som først ær thera gord met tompth och hws vpa Tauaste gathunne lighiandis hær j Abo fore iɉ hundradhe mark och ther tiil giordan messingh fore xx marc, oc en wægia bonath for xxx marc tiil fulla othnøya fore forscreffne peninge summa. Oc epter thera dødh skulu jnga thera arffwa nogot epter thøm ærffua, thet the meth sigh haffua hær in tiil clostret ført som och thera eigit breff lydher ther the haffua conuenteno giffuit vpa thera jngong och medgifft. Och tiil tessens breff mere skeel oc bætre forwarning lather jac for:de broder Oleff Gregersson, prior, myt æmbitz jncigle her vnder hængia met conuentzins jncigle epter conuentzens bøøn och godwilia. Scriptum in conuentu nostro Aboensi die beatj Gregorij pape anno Domini millesimo quadringentesimo quinquagesimo quinto, etc:a.
 </edition>
 </document>
@@ -1085,7 +1084,7 @@ vtan alt hinder til æwighen tijdh. Melis men her Martin lindorm
 her Lambert wæstfal borgamestara Laurenz i Gammelby Anders 
 dobbin Anders fiskare och Per olsson borgara i førnempda Stochholm 
 ok gaff førnempde Ragwall torgilsson sin fridskylling her 
-wt <fixme ocr="ssä oli y">vppa</fixme> som laghen wtwisa. [s. 194].
+wt <note type="FIXME ocrssä oli y">vppa</note> som laghen wtwisa. [s. 194].
 
 <kuuluneeseuraavaan>Quitancia domini Gudmundi ad sanctum spiritum.</kuuluneeseuraavaan>
 
@@ -1850,7 +1849,7 @@ Jtem due capse pro reliquiis et vna capsa pro oblatis.
 Jtem iij corporalia, iiij paria vestium misse, jtem i casula.
 Jtem ij tapeta, jtem vna ymago argentj sancti Georgij.
 Jtem ij tabule, et vnum pauimentale.
-Jtem vna curia in Kersemækj, quam dominus Iohannes Vddonis, bone me. <FIXME/>
+Jtem vna curia in Kersemækj, quam dominus Iohannes Vddonis, bone me. <note type="FIXME" />
 morie, legauit altari.
 Jtem vna curia in Leuco, quam dominus Hinzelinus legauit.
 Jtem vna curia Hamarke, quam Arnaldus Fresykinj legauit.
