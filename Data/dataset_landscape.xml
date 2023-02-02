@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
+<!-- <?xml-model href="dataset_landscape.xsd"?> -->
 <landscapes>
 
 
@@ -315,7 +316,7 @@ For allom thom thetta breff høre eller see kenness iak Ffredrik Freseca met myn
 
 <note type="alternative">
 
-Varianter i Svartboken fol. 250; Öfverskrift: Super 3:a parte in Friskylæ siue Rawas et <landscape cat="built" type="lot">fundico</landscape> <landscape cat="built" type="granary">granarij</landscape> vltra <landscpae cat="natural" type="river">ampnem</landscpae>; jtem super Anyngos et vno <landscape cat="built" type="lot">fundico</landscape> ex opposito <landscape cat="built" type="house">curie</landscape> beate virginis et super Ventila.</note> — ¹Tøuesala ²iiij ³om(!) ⁴Anynghos ⁵Ventiælæ ⁶eghno
+Varianter i Svartboken fol. 250; Öfverskrift: Super 3:a parte in Friskylæ siue Rawas et <landscape cat="built" type="lot">fundico</landscape> <landscape cat="built" type="granary">granarij</landscape> vltra <landscape cat="natural" type="river">ampnem</landscape>; jtem super Anyngos et vno <landscape cat="built" type="lot">fundico</landscape> ex opposito <landscape cat="built" type="house">curie</landscape> beate virginis et super Ventila.</note> — ¹Tøuesala ²iiij ³om(!) ⁴Anynghos ⁵Ventiælæ ⁶eghno
 </edition>
 </document>
 
