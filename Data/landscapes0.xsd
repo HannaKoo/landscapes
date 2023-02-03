@@ -12,7 +12,7 @@
                                 <xs:complexType mixed="true">
                                     <xs:sequence minOccurs="0">
                                         <xs:choice maxOccurs="unbounded">
-                                            <!-- ota pois: -->
+                                            <!-- ota pois: vain yhdessä Markon(?) kommentissa -->
                                             <xs:element name="editorial" minOccurs="0">
                                                 <xs:complexType>
                                                     <xs:simpleContent>
