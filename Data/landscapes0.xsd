@@ -40,7 +40,6 @@
                                                 </xs:complexType>
                                             </xs:element>
                                             <xs:element name="location" type="xs:string" minOccurs="0" />
-                                            <!-- status, gender ja onlyone enum: -->
                                             <xs:element name="issuer" minOccurs="0" maxOccurs="unbounded">
                                                 <xs:complexType>
                                                     <xs:simpleContent>
@@ -48,10 +47,14 @@
                                                             <xs:attribute name="status" use="optional">
                                                                 <xs:simpleType>
                                                                     <xs:restriction base="xs:string">
-                                                                        <xs:pattern value="ecclesiastic.*"/>
-                                                                        <xs:pattern value="noble.*"/>
-                                                                        <xs:pattern value="burgher.*"/>
-                                                                        <xs:pattern value="peasant.*"/>
+                                                                        <xs:enumeration value="ecclesiastic"/>
+                                                                        <xs:enumeration value="nobleman"/>
+                                                                        <xs:enumeration value="noblewoman"/>
+                                                                        <xs:enumeration value="burgher"/>
+                                                                        <xs:enumeration value="burgher wife"/>
+                                                                        <xs:enumeration value="burgher woman"/>
+                                                                        <xs:enumeration value="peasant"/>
+                                                                        <xs:enumeration value="peasant woman"/>
                                                                     </xs:restriction>
                                                                 </xs:simpleType>
                                                             </xs:attribute>
@@ -67,9 +70,12 @@
                                                             <xs:attribute name="onlyone" use="optional">
                                                                 <xs:simpleType>
                                                                     <xs:restriction base="xs:string">
-                                                                        <xs:pattern value="y.*"/>
-                                                                        <xs:pattern value="n.*"/>
-                                                                        <xs:pattern value=""/>
+                                                                        <xs:enumeration value="y"/>
+                                                                        <xs:enumeration value="y?"/>
+                                                                        <xs:enumeration value="n"/>
+                                                                        <!-- pois: -->
+                                                                        <xs:enumeration value="n, fixme wheres + hustru"/>
+                                                                        <xs:enumeration value=""/>
                                                                     </xs:restriction>
                                                                 </xs:simpleType>
                                                             </xs:attribute>
@@ -111,10 +117,14 @@
                                                                         <xs:attribute name="status" use="optional">
                                                                             <xs:simpleType>
                                                                                 <xs:restriction base="xs:string">
-                                                                                    <xs:pattern value="ecclesiastic.*"/>
-                                                                                    <xs:pattern value="noble.*"/>
-                                                                                    <xs:pattern value="burgher.*"/>
-                                                                                    <xs:pattern value="peasant.*"/>
+                                                                                    <xs:enumeration value="ecclesiastic"/>
+                                                                                    <xs:enumeration value="nobleman"/>
+                                                                                    <xs:enumeration value="noblewoman"/>
+                                                                                    <xs:enumeration value="burgher"/>
+                                                                                    <xs:enumeration value="burgher wife"/>
+                                                                                    <xs:enumeration value="burgher woman"/>
+                                                                                    <xs:enumeration value="peasant"/>
+                                                                                    <xs:enumeration value="peasant woman"/>
                                                                                 </xs:restriction>
                                                                             </xs:simpleType>
                                                                         </xs:attribute>
@@ -130,9 +140,10 @@
                                                                         <xs:attribute name="onlyone" use="optional">
                                                                             <xs:simpleType>
                                                                                 <xs:restriction base="xs:string">
-                                                                                    <xs:pattern value="y.*"/>
-                                                                                    <xs:pattern value="n.*"/>
-                                                                                    <xs:pattern value=""/>
+                                                                                    <xs:enumeration value="y"/>
+                                                                                    <xs:enumeration value="y?"/>
+                                                                                    <xs:enumeration value="n"/>
+                                                                                    <xs:enumeration value=""/>
                                                                                 </xs:restriction>
                                                                             </xs:simpleType>
                                                                         </xs:attribute>
@@ -254,10 +265,14 @@
                                                             <xs:attribute name="status" use="optional">
                                                                 <xs:simpleType>
                                                                     <xs:restriction base="xs:string">
-                                                                        <xs:pattern value="ecclesiastic.*"/>
-                                                                        <xs:pattern value="noble.*"/>
-                                                                        <xs:pattern value="burgher.*"/>
-                                                                        <xs:pattern value="peasant.*"/>
+                                                                        <xs:enumeration value="ecclesiastic"/>
+                                                                        <xs:enumeration value="nobleman"/>
+                                                                        <xs:enumeration value="noblewoman"/>
+                                                                        <xs:enumeration value="burgher"/>
+                                                                        <xs:enumeration value="burgher wife"/>
+                                                                        <xs:enumeration value="burgher woman"/>
+                                                                        <xs:enumeration value="peasant"/>
+                                                                        <xs:enumeration value="peasant woman"/>
                                                                     </xs:restriction>
                                                                 </xs:simpleType>
                                                             </xs:attribute>
@@ -273,9 +288,10 @@
                                                             <xs:attribute name="onlyone" use="optional">
                                                                 <xs:simpleType>
                                                                     <xs:restriction base="xs:string">
-                                                                        <xs:pattern value="y.*"/>
-                                                                        <xs:pattern value="n.*"/>
-                                                                        <xs:pattern value=""/>
+                                                                        <xs:enumeration value="y"/>
+                                                                        <xs:enumeration value="y?"/>
+                                                                        <xs:enumeration value="n"/>
+                                                                        <xs:enumeration value=""/>
                                                                     </xs:restriction>
                                                                 </xs:simpleType>
                                                             </xs:attribute>
