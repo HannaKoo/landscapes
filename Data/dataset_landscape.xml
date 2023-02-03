@@ -135,7 +135,7 @@ Anteckning om herr Ragvald Rengonpoikas till förmån för Reso och Rusko kyrkor
 <regesta editor="Kokkonen" xml:lang="en">Note on the provisions of Master Ragvald Rengonpoika's will with bequests to the churches of Raisio and Rusko, the Altar of Our Lady in Abo Cathedral and to the Provost of Abo Cathedral. The provisions apply to meadow-land and a lot owned by the testator.</regesta>
 
 <edition editor="Hausen" xml:lang="la">
-<title>Testamentum domini <issuer status="ecclesiastic">Ragualdi Rengonpoyca</issuer> de Reso.</title>
+<title>Testamentum domini <issuer status="ecclesiastic" gender="m" onlyone="y?">Ragualdi Rengonpoyca</issuer> de Reso.</title>
 <p>Primo legauit ecclesie Reso Pywhaialla Latonytty. Si heredes volunt redimere, redimant pro xx marcis.</p>
 <p>Jtem ecclesie Rusko Høstelahte lato ibidem, altari beate virginis in ecclesia Aboensi partem prati ibidem de v plaustris, in perpetuam possessionem. Jtem si heredes volunt redimere pratum de Rusko, redimant pro xij marcis. Jtem pars altaris beate virginis maneat ej in perpetuam possessionem.</p>
 <p>Jtem domino preposito fundum, quem legifer detinet vltra ampnem.</p>
