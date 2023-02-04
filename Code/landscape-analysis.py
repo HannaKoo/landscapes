@@ -60,5 +60,17 @@ for doc in root:
   for j in doc.iter('landscape'):
     data[-1]['landscapes'] += 1
   
+
 for i in data:
   print(i)
+
+print()
+print("Landscapes by gender:")
+
+sums = {}
+for i in data:
+  if i.get('iss_gen') in sums:
+    sums[i.get('iss_gen')] += i.get('landscapes')
+  else:
+    sums[i.get('iss_gen')] = i.get('landscapes')
+print(sums)
