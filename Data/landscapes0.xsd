@@ -167,6 +167,15 @@
                                                                 </xs:simpleContent>
                                                             </xs:complexType>
                                                         </xs:element>
+                                                        <xs:element name="transaction" minOccurs="0" maxOccurs="unbounded">
+                                                            <xs:complexType>
+                                                                <xs:simpleContent>
+                                                                    <xs:extension base="xs:string">
+                                                                        <xs:attribute name="type" type="xs:string" use="optional" />
+                                                                    </xs:extension>
+                                                                </xs:simpleContent>
+                                                            </xs:complexType>
+                                                        </xs:element>
                                                         <xs:element name="note" minOccurs="0" maxOccurs="unbounded">
                                                             <xs:complexType mixed="true">
                                                                 <xs:sequence minOccurs="0">
@@ -180,6 +189,15 @@
                                                                             </xs:simpleContent>
                                                                         </xs:complexType>
                                                                     </xs:element>
+                                                                    <xs:element name="transaction" minOccurs="0" maxOccurs="unbounded">
+                                                                    <xs:complexType>
+                                                                        <xs:simpleContent>
+                                                                            <xs:extension base="xs:string">
+                                                                                <xs:attribute name="type" type="xs:string" use="optional" />
+                                                                            </xs:extension>
+                                                                        </xs:simpleContent>
+                                                                    </xs:complexType>
+                                                                </xs:element>
                                                                 </xs:sequence>
                                                                 <xs:attribute name="type" type="xs:string" use="optional" />
                                                                 <xs:attribute ref="xml:lang" use="optional" />
@@ -202,6 +220,15 @@
                                                                 </xs:simpleContent>
                                                             </xs:complexType>
                                                         </xs:element>
+                                                        <xs:element name="transaction" minOccurs="0" maxOccurs="unbounded">
+                                                            <xs:complexType>
+                                                                <xs:simpleContent>
+                                                                    <xs:extension base="xs:string">
+                                                                        <xs:attribute name="type" type="xs:string" use="optional" />
+                                                                    </xs:extension>
+                                                                </xs:simpleContent>
+                                                            </xs:complexType>
+                                                        </xs:element>
                                                     </xs:sequence>
                                                     <xs:attribute name="type" type="xs:string" use="optional" />
                                                     <xs:attribute ref="xml:lang" use="optional" />
@@ -215,6 +242,15 @@
                                                             <xs:attribute name="cat" type="xs:string" use="optional" />
                                                             <xs:attribute name="type" type="xs:string" use="optional" />
                                                             <xs:attribute name="transaction" type="xs:string" use="optional" />
+                                                        </xs:extension>
+                                                    </xs:simpleContent>
+                                                </xs:complexType>
+                                            </xs:element>
+                                            <xs:element name="transaction" minOccurs="0" maxOccurs="unbounded">
+                                                <xs:complexType>
+                                                    <xs:simpleContent>
+                                                        <xs:extension base="xs:string">
+                                                            <xs:attribute name="type" type="xs:string" use="optional" />
                                                         </xs:extension>
                                                     </xs:simpleContent>
                                                 </xs:complexType>
@@ -239,6 +275,15 @@
                                                                             <xs:attribute name="cat" type="xs:string" use="optional" />
                                                                             <xs:attribute name="type" type="xs:string" use="optional" />
                                                                             <xs:attribute name="transaction" type="xs:string" use="optional" />
+                                                                        </xs:extension>
+                                                                    </xs:simpleContent>
+                                                                </xs:complexType>
+                                                            </xs:element>
+                                                            <xs:element name="transaction" minOccurs="0" maxOccurs="unbounded">
+                                                                <xs:complexType>
+                                                                    <xs:simpleContent>
+                                                                        <xs:extension base="xs:string">
+                                                                            <xs:attribute name="type" type="xs:string" use="optional" />
                                                                         </xs:extension>
                                                                     </xs:simpleContent>
                                                                 </xs:complexType>
