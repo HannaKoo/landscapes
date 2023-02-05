@@ -162,6 +162,7 @@
                                                                     <xs:extension base="xs:string">
                                                                         <xs:attribute name="cat" type="xs:string" use="optional" />
                                                                         <xs:attribute name="type" type="xs:string" use="optional" />
+                                                                        <!-- poista nämä: -->
                                                                         <xs:attribute name="transaction" type="xs:string" use="optional" />
                                                                     </xs:extension>
                                                                 </xs:simpleContent>
