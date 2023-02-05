@@ -109,6 +109,7 @@
                                             <xs:element name="title" minOccurs="0">
                                                 <xs:complexType mixed="true">
                                                     <xs:sequence minOccurs="0">
+                                                        <xs:choice maxOccurs="unbounded">
                                                         <!-- issuer ja landscape ja note ja p ja place Typeksi: -->
                                                         <xs:element name="issuer" minOccurs="0">
                                                             <xs:complexType>
@@ -204,6 +205,7 @@
                                                                 <xs:attribute ref="xml:lang" use="optional" />
                                                             </xs:complexType>
                                                         </xs:element>
+                                                        </xs:choice>
                                                     </xs:sequence>
                                                     <xs:attribute ref="xml:lang" use="optional" />
                                                 </xs:complexType>
