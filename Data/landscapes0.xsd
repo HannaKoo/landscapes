@@ -161,7 +161,14 @@
                               <xs:complexType>
                                 <xs:simpleContent>
                                   <xs:extension base="xs:string">
-                                    <xs:attribute name="cat" type="xs:string" use="optional" />
+                                    <xs:attribute name="cat" use="optional">
+                                      <xs:simpleType>
+                                        <xs:restriction base="xs:string">
+                                          <xs:enumeration value="natural"/>
+                                          <xs:enumeration value="built"/>
+                                        </xs:restriction>
+                                      </xs:simpleType>
+                                    </xs:attribute>
                                     <xs:attribute name="type" type="xs:string" use="optional" />
                                     <!-- poista nämä: -->
                                     <xs:attribute name="transaction" type="xs:string" use="optional" />
@@ -185,7 +192,14 @@
                                     <xs:complexType>
                                       <xs:simpleContent>
                                         <xs:extension base="xs:string">
-                                          <xs:attribute name="cat" type="xs:string" use="optional" />
+                                          <xs:attribute name="cat" use="optional">
+                                            <xs:simpleType>
+                                              <xs:restriction base="xs:string">
+                                                <xs:enumeration value="natural"/>
+                                                <xs:enumeration value="built"/>
+                                              </xs:restriction>
+                                            </xs:simpleType>
+                                          </xs:attribute>
                                           <xs:attribute name="type" type="xs:string" use="optional" />
                                         </xs:extension>
                                       </xs:simpleContent>
@@ -217,7 +231,14 @@
                               <xs:complexType>
                                 <xs:simpleContent>
                                   <xs:extension base="xs:string">
-                                    <xs:attribute name="cat" type="xs:string" use="optional" />
+                                    <xs:attribute name="cat" use="optional">
+                                      <xs:simpleType>
+                                        <xs:restriction base="xs:string">
+                                          <xs:enumeration value="natural"/>
+                                          <xs:enumeration value="built"/>
+                                        </xs:restriction>
+                                      </xs:simpleType>
+                                    </xs:attribute>
                                     <xs:attribute name="type" type="xs:string" use="optional" />
                                   </xs:extension>
                                 </xs:simpleContent>
@@ -242,7 +263,17 @@
                         <xs:complexType>
                           <xs:simpleContent>
                             <xs:extension base="xs:string">
-                              <xs:attribute name="cat" type="xs:string" use="optional" />
+                              <xs:attribute name="cat" use="optional">
+                                <xs:simpleType>
+                                  <xs:restriction base="xs:string">
+                                    <xs:enumeration value="natural"/>
+                                    <xs:enumeration value="built"/>
+                                    <!-- poista direction attribuutti tai tagi: -->
+                                    <xs:enumeration value="direction"/>
+                                    <xs:enumeration value=""/> <!-- pois? -->
+                                  </xs:restriction>
+                                </xs:simpleType>
+                              </xs:attribute>
                               <xs:attribute name="type" type="xs:string" use="optional" />
                               <xs:attribute name="transaction" type="xs:string" use="optional" />
                             </xs:extension>
@@ -275,7 +306,14 @@
                                 <xs:complexType>
                                   <xs:simpleContent>
                                     <xs:extension base="xs:string">
-                                      <xs:attribute name="cat" type="xs:string" use="optional" />
+                                      <xs:attribute name="cat" use="optional">
+                                        <xs:simpleType>
+                                          <xs:restriction base="xs:string">
+                                            <xs:enumeration value="natural"/>
+                                            <xs:enumeration value="built"/>
+                                          </xs:restriction>
+                                        </xs:simpleType>
+                                      </xs:attribute>
                                       <xs:attribute name="type" type="xs:string" use="optional" />
                                       <xs:attribute name="transaction" type="xs:string" use="optional" />
                                     </xs:extension>
