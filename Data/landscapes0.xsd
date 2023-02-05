@@ -1,396 +1,396 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <!--Created with Liquid Studio (https://www.liquid-technologies.com)-->
 <xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-    <xs:import schemaLocation="landscapes1.xsd" namespace="http://www.w3.org/XML/1998/namespace" />
-    <xs:element name="landscapes">
-        <xs:complexType>
+  <xs:import schemaLocation="landscapes1.xsd" namespace="http://www.w3.org/XML/1998/namespace" />
+  <xs:element name="landscapes">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="document" maxOccurs="unbounded">
+          <xs:complexType mixed="true">
             <xs:sequence>
-                <xs:element name="document" maxOccurs="unbounded">
-                    <xs:complexType mixed="true">
-                        <xs:sequence>
-                            <xs:element name="regesta" minOccurs="0" maxOccurs="unbounded">
-                                <xs:complexType mixed="true">
-                                    <xs:sequence minOccurs="0">
-                                        <xs:choice maxOccurs="unbounded">
-                                            <!-- ota pois: vain yhdessä Markon(?) kommentissa -->
-                                            <xs:element name="editorial" minOccurs="0">
-                                                <xs:complexType>
-                                                    <xs:simpleContent>
-                                                        <xs:extension base="xs:string">
-                                                            <xs:attribute name="note" type="xs:string" use="optional" />
-                                                            <xs:attribute name="status" type="xs:string" use="optional" />
-                                                        </xs:extension>
-                                                    </xs:simpleContent>
-                                                </xs:complexType>
-                                            </xs:element>
-                                            <xs:element name="note" minOccurs="0">
-                                                <xs:complexType>
-                                                    <xs:simpleContent>
-                                                        <xs:extension base="xs:string">
-                                                            <xs:attribute name="type" type="xs:string" use="optional" />
-                                                            <xs:attribute ref="xml:lang" use="optional" />
-                                                        </xs:extension>
-                                                    </xs:simpleContent>
-                                                </xs:complexType>
-                                            </xs:element>
-                                            <!-- pois myöhemmin: -->
-                                            <xs:element name="scilicet" minOccurs="0">
-                                                <xs:complexType>
-                                                    <xs:attribute name="its" type="xs:string" use="optional" />
-                                                </xs:complexType>
-                                            </xs:element>
-                                            <xs:element name="location" type="xs:string" minOccurs="0" />
-                                            <xs:element name="issuer" minOccurs="0" maxOccurs="unbounded">
-                                                <xs:complexType>
-                                                    <xs:simpleContent>
-                                                        <xs:extension base="xs:string">
-                                                            <xs:attribute name="status" use="optional">
-                                                                <xs:simpleType>
-                                                                    <xs:restriction base="xs:string">
-                                                                        <xs:enumeration value="ecclesiastic"/>
-                                                                        <xs:enumeration value="nobleman"/>
-                                                                        <xs:enumeration value="noblewoman"/>
-                                                                        <xs:enumeration value="burgher"/>
-                                                                        <xs:enumeration value="burgher wife"/>
-                                                                        <xs:enumeration value="burgher woman"/>
-                                                                        <xs:enumeration value="peasant"/>
-                                                                        <xs:enumeration value="peasant woman"/>
-                                                                    </xs:restriction>
-                                                                </xs:simpleType>
-                                                            </xs:attribute>
-                                                            <xs:attribute name="gender" use="optional">
-                                                                <xs:simpleType>
-                                                                    <xs:restriction base="xs:string">
-                                                                        <xs:enumeration value="f"/>
-                                                                        <xs:enumeration value="m"/>
-                                                                        <xs:enumeration value="m?"/>
-                                                                    </xs:restriction>
-                                                                </xs:simpleType>
-                                                            </xs:attribute>
-                                                            <xs:attribute name="onlyone" use="optional">
-                                                                <xs:simpleType>
-                                                                    <xs:restriction base="xs:string">
-                                                                        <xs:enumeration value="y"/>
-                                                                        <xs:enumeration value="y?"/>
-                                                                        <xs:enumeration value="n"/>
-                                                                        <!-- pois: -->
-                                                                        <xs:enumeration value="n, fixme wheres + hustru"/>
-                                                                        <xs:enumeration value=""/>
-                                                                    </xs:restriction>
-                                                                </xs:simpleType>
-                                                            </xs:attribute>
-                                                        </xs:extension>
-                                                    </xs:simpleContent>
-                                                </xs:complexType>
-                                            </xs:element>
-                                            <xs:element name="folio" type="xs:string" minOccurs="0" />
-                                        </xs:choice>
-                                    </xs:sequence>
-                                    <xs:attribute name="editor" type="xs:string" use="optional" />
-                                    <!-- nr:t numeroita? -->
-                                    <xs:attribute name="nrREA" type="xs:string" use="optional" />
-                                    <xs:attribute ref="xml:lang" use="optional" />
-                                    <xs:attribute name="source" type="xs:string" use="optional" />
-                                    <xs:attribute name="nrSDHK" type="xs:string" use="optional" />
-                                    <xs:attribute name="nrFMU1" type="xs:unsignedShort" use="optional" />
-                                    <xs:attribute name="nr" type="xs:unsignedShort" use="optional" />
-                                    <xs:attribute name="nrFMU2" type="xs:unsignedShort" use="optional" />
-                                    <xs:attribute name="nrFMU3" type="xs:unsignedShort" use="optional" />
-                                    <xs:attribute name="nrFMU4" type="xs:unsignedShort" use="optional" />
-                                    <xs:attribute name="nrFMU5" type="xs:unsignedShort" use="optional" />
-                                    <xs:attribute name="nrFMU6" type="xs:unsignedShort" use="optional" />
-                                    <xs:attribute name="nrAP" type="xs:unsignedShort" use="optional" />
-                                </xs:complexType>
+              <xs:element name="regesta" minOccurs="0" maxOccurs="unbounded">
+                <xs:complexType mixed="true">
+                  <xs:sequence minOccurs="0">
+                    <xs:choice maxOccurs="unbounded">
+                      <!-- ota pois: vain yhdessä Markon(?) kommentissa -->
+                      <xs:element name="editorial" minOccurs="0">
+                        <xs:complexType>
+                          <xs:simpleContent>
+                            <xs:extension base="xs:string">
+                              <xs:attribute name="note" type="xs:string" use="optional" />
+                              <xs:attribute name="status" type="xs:string" use="optional" />
+                            </xs:extension>
+                          </xs:simpleContent>
+                        </xs:complexType>
+                      </xs:element>
+                      <xs:element name="note" minOccurs="0">
+                        <xs:complexType>
+                          <xs:simpleContent>
+                            <xs:extension base="xs:string">
+                              <xs:attribute name="type" type="xs:string" use="optional" />
+                              <xs:attribute ref="xml:lang" use="optional" />
+                            </xs:extension>
+                          </xs:simpleContent>
+                        </xs:complexType>
+                      </xs:element>
+                      <!-- pois myöhemmin: -->
+                      <xs:element name="scilicet" minOccurs="0">
+                        <xs:complexType>
+                          <xs:attribute name="its" type="xs:string" use="optional" />
+                        </xs:complexType>
+                      </xs:element>
+                      <xs:element name="location" type="xs:string" minOccurs="0" />
+                      <xs:element name="issuer" minOccurs="0" maxOccurs="unbounded">
+                        <xs:complexType>
+                          <xs:simpleContent>
+                            <xs:extension base="xs:string">
+                              <xs:attribute name="status" use="optional">
+                                <xs:simpleType>
+                                  <xs:restriction base="xs:string">
+                                    <xs:enumeration value="ecclesiastic"/>
+                                    <xs:enumeration value="nobleman"/>
+                                    <xs:enumeration value="noblewoman"/>
+                                    <xs:enumeration value="burgher"/>
+                                    <xs:enumeration value="burgher wife"/>
+                                    <xs:enumeration value="burgher woman"/>
+                                    <xs:enumeration value="peasant"/>
+                                    <xs:enumeration value="peasant woman"/>
+                                  </xs:restriction>
+                                </xs:simpleType>
+                              </xs:attribute>
+                              <xs:attribute name="gender" use="optional">
+                                <xs:simpleType>
+                                  <xs:restriction base="xs:string">
+                                    <xs:enumeration value="f"/>
+                                    <xs:enumeration value="m"/>
+                                    <xs:enumeration value="m?"/>
+                                  </xs:restriction>
+                                </xs:simpleType>
+                              </xs:attribute>
+                              <xs:attribute name="onlyone" use="optional">
+                                <xs:simpleType>
+                                  <xs:restriction base="xs:string">
+                                    <xs:enumeration value="y"/>
+                                    <xs:enumeration value="y?"/>
+                                    <xs:enumeration value="n"/>
+                                    <!-- pois: -->
+                                    <xs:enumeration value="n, fixme wheres + hustru"/>
+                                    <xs:enumeration value=""/>
+                                  </xs:restriction>
+                                </xs:simpleType>
+                              </xs:attribute>
+                            </xs:extension>
+                          </xs:simpleContent>
+                        </xs:complexType>
+                      </xs:element>
+                      <xs:element name="folio" type="xs:string" minOccurs="0" />
+                    </xs:choice>
+                  </xs:sequence>
+                  <xs:attribute name="editor" type="xs:string" use="optional" />
+                  <!-- nr:t numeroita? -->
+                  <xs:attribute name="nrREA" type="xs:string" use="optional" />
+                  <xs:attribute ref="xml:lang" use="optional" />
+                  <xs:attribute name="source" type="xs:string" use="optional" />
+                  <xs:attribute name="nrSDHK" type="xs:string" use="optional" />
+                  <xs:attribute name="nrFMU1" type="xs:unsignedShort" use="optional" />
+                  <xs:attribute name="nr" type="xs:unsignedShort" use="optional" />
+                  <xs:attribute name="nrFMU2" type="xs:unsignedShort" use="optional" />
+                  <xs:attribute name="nrFMU3" type="xs:unsignedShort" use="optional" />
+                  <xs:attribute name="nrFMU4" type="xs:unsignedShort" use="optional" />
+                  <xs:attribute name="nrFMU5" type="xs:unsignedShort" use="optional" />
+                  <xs:attribute name="nrFMU6" type="xs:unsignedShort" use="optional" />
+                  <xs:attribute name="nrAP" type="xs:unsignedShort" use="optional" />
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="edition" minOccurs="0" maxOccurs="unbounded">
+                <xs:complexType mixed="true">
+                  <xs:sequence minOccurs="0">
+                    <xs:choice maxOccurs="unbounded">
+                      <xs:element name="title" minOccurs="0">
+                        <xs:complexType mixed="true">
+                          <xs:sequence minOccurs="0">
+                            <xs:choice maxOccurs="unbounded">
+                            <!-- issuer ja landscape ja note ja p ja place Typeksi: -->
+                            <xs:element name="issuer" minOccurs="0">
+                              <xs:complexType>
+                                <xs:simpleContent>
+                                  <xs:extension base="xs:string">
+                                    <xs:attribute name="status" use="optional">
+                                      <xs:simpleType>
+                                        <xs:restriction base="xs:string">
+                                          <xs:enumeration value="ecclesiastic"/>
+                                          <xs:enumeration value="nobleman"/>
+                                          <xs:enumeration value="noblewoman"/>
+                                          <xs:enumeration value="burgher"/>
+                                          <xs:enumeration value="burgher wife"/>
+                                          <xs:enumeration value="burgher woman"/>
+                                          <xs:enumeration value="peasant"/>
+                                          <xs:enumeration value="peasant woman"/>
+                                        </xs:restriction>
+                                      </xs:simpleType>
+                                    </xs:attribute>
+                                    <xs:attribute name="gender" use="optional">
+                                      <xs:simpleType>
+                                        <xs:restriction base="xs:string">
+                                          <xs:enumeration value="f"/>
+                                          <xs:enumeration value="m"/>
+                                          <xs:enumeration value="m?"/>
+                                        </xs:restriction>
+                                      </xs:simpleType>
+                                    </xs:attribute>
+                                    <xs:attribute name="onlyone" use="optional">
+                                      <xs:simpleType>
+                                        <xs:restriction base="xs:string">
+                                          <xs:enumeration value="y"/>
+                                          <xs:enumeration value="y?"/>
+                                          <xs:enumeration value="n"/>
+                                          <xs:enumeration value=""/>
+                                        </xs:restriction>
+                                      </xs:simpleType>
+                                    </xs:attribute>
+                                  </xs:extension>
+                                </xs:simpleContent>
+                              </xs:complexType>
                             </xs:element>
-                            <xs:element name="edition" minOccurs="0" maxOccurs="unbounded">
-                                <xs:complexType mixed="true">
-                                    <xs:sequence minOccurs="0">
-                                        <xs:choice maxOccurs="unbounded">
-                                            <xs:element name="title" minOccurs="0">
-                                                <xs:complexType mixed="true">
-                                                    <xs:sequence minOccurs="0">
-                                                        <xs:choice maxOccurs="unbounded">
-                                                        <!-- issuer ja landscape ja note ja p ja place Typeksi: -->
-                                                        <xs:element name="issuer" minOccurs="0">
-                                                            <xs:complexType>
-                                                                <xs:simpleContent>
-                                                                    <xs:extension base="xs:string">
-                                                                        <xs:attribute name="status" use="optional">
-                                                                            <xs:simpleType>
-                                                                                <xs:restriction base="xs:string">
-                                                                                    <xs:enumeration value="ecclesiastic"/>
-                                                                                    <xs:enumeration value="nobleman"/>
-                                                                                    <xs:enumeration value="noblewoman"/>
-                                                                                    <xs:enumeration value="burgher"/>
-                                                                                    <xs:enumeration value="burgher wife"/>
-                                                                                    <xs:enumeration value="burgher woman"/>
-                                                                                    <xs:enumeration value="peasant"/>
-                                                                                    <xs:enumeration value="peasant woman"/>
-                                                                                </xs:restriction>
-                                                                            </xs:simpleType>
-                                                                        </xs:attribute>
-                                                                        <xs:attribute name="gender" use="optional">
-                                                                            <xs:simpleType>
-                                                                                <xs:restriction base="xs:string">
-                                                                                    <xs:enumeration value="f"/>
-                                                                                    <xs:enumeration value="m"/>
-                                                                                    <xs:enumeration value="m?"/>
-                                                                                </xs:restriction>
-                                                                            </xs:simpleType>
-                                                                        </xs:attribute>
-                                                                        <xs:attribute name="onlyone" use="optional">
-                                                                            <xs:simpleType>
-                                                                                <xs:restriction base="xs:string">
-                                                                                    <xs:enumeration value="y"/>
-                                                                                    <xs:enumeration value="y?"/>
-                                                                                    <xs:enumeration value="n"/>
-                                                                                    <xs:enumeration value=""/>
-                                                                                </xs:restriction>
-                                                                            </xs:simpleType>
-                                                                        </xs:attribute>
-                                                                    </xs:extension>
-                                                                </xs:simpleContent>
-                                                            </xs:complexType>
-                                                        </xs:element>
-                                                        <xs:element name="scilicet" minOccurs="0">
-                                                            <xs:complexType>
-                                                                <xs:attribute name="its" type="xs:string" use="optional" />
-                                                            </xs:complexType>
-                                                        </xs:element>
-                                                        <xs:element name="landscape" minOccurs="0" maxOccurs="unbounded">
-                                                            <xs:complexType>
-                                                                <xs:simpleContent>
-                                                                    <xs:extension base="xs:string">
-                                                                        <xs:attribute name="cat" type="xs:string" use="optional" />
-                                                                        <xs:attribute name="type" type="xs:string" use="optional" />
-                                                                        <!-- poista nämä: -->
-                                                                        <xs:attribute name="transaction" type="xs:string" use="optional" />
-                                                                    </xs:extension>
-                                                                </xs:simpleContent>
-                                                            </xs:complexType>
-                                                        </xs:element>
-                                                        <xs:element name="transaction" minOccurs="0" maxOccurs="unbounded">
-                                                            <xs:complexType>
-                                                                <xs:simpleContent>
-                                                                    <xs:extension base="xs:string">
-                                                                        <xs:attribute name="type" type="xs:string" use="optional" />
-                                                                    </xs:extension>
-                                                                </xs:simpleContent>
-                                                            </xs:complexType>
-                                                        </xs:element>
-                                                        <xs:element name="note" minOccurs="0" maxOccurs="unbounded">
-                                                            <xs:complexType mixed="true">
-                                                                <xs:sequence minOccurs="0">
-                                                                    <xs:element name="landscape" minOccurs="0" maxOccurs="unbounded">
-                                                                        <xs:complexType>
-                                                                            <xs:simpleContent>
-                                                                                <xs:extension base="xs:string">
-                                                                                    <xs:attribute name="cat" type="xs:string" use="optional" />
-                                                                                    <xs:attribute name="type" type="xs:string" use="optional" />
-                                                                                </xs:extension>
-                                                                            </xs:simpleContent>
-                                                                        </xs:complexType>
-                                                                    </xs:element>
-                                                                    <xs:element name="transaction" minOccurs="0" maxOccurs="unbounded">
-                                                                    <xs:complexType>
-                                                                        <xs:simpleContent>
-                                                                            <xs:extension base="xs:string">
-                                                                                <xs:attribute name="type" type="xs:string" use="optional" />
-                                                                            </xs:extension>
-                                                                        </xs:simpleContent>
-                                                                    </xs:complexType>
-                                                                </xs:element>
-                                                                </xs:sequence>
-                                                                <xs:attribute name="type" type="xs:string" use="optional" />
-                                                                <xs:attribute ref="xml:lang" use="optional" />
-                                                            </xs:complexType>
-                                                        </xs:element>
-                                                        </xs:choice>
-                                                    </xs:sequence>
-                                                    <xs:attribute ref="xml:lang" use="optional" />
-                                                </xs:complexType>
-                                            </xs:element>
-                                            <xs:element name="note" minOccurs="0" maxOccurs="unbounded">
-                                                <xs:complexType mixed="true">
-                                                    <xs:sequence minOccurs="0">
-                                                        <xs:element name="landscape" minOccurs="0" maxOccurs="unbounded">
-                                                            <xs:complexType>
-                                                                <xs:simpleContent>
-                                                                    <xs:extension base="xs:string">
-                                                                        <xs:attribute name="cat" type="xs:string" use="optional" />
-                                                                        <xs:attribute name="type" type="xs:string" use="optional" />
-                                                                    </xs:extension>
-                                                                </xs:simpleContent>
-                                                            </xs:complexType>
-                                                        </xs:element>
-                                                        <xs:element name="transaction" minOccurs="0" maxOccurs="unbounded">
-                                                            <xs:complexType>
-                                                                <xs:simpleContent>
-                                                                    <xs:extension base="xs:string">
-                                                                        <xs:attribute name="type" type="xs:string" use="optional" />
-                                                                    </xs:extension>
-                                                                </xs:simpleContent>
-                                                            </xs:complexType>
-                                                        </xs:element>
-                                                    </xs:sequence>
-                                                    <xs:attribute name="type" type="xs:string" use="optional" />
-                                                    <xs:attribute ref="xml:lang" use="optional" />
-                                                    <xs:attribute name="place" type="xs:string" use="optional" />
-                                                </xs:complexType>
-                                            </xs:element>
-                                            <xs:element name="landscape" minOccurs="0" maxOccurs="unbounded">
-                                                <xs:complexType>
-                                                    <xs:simpleContent>
-                                                        <xs:extension base="xs:string">
-                                                            <xs:attribute name="cat" type="xs:string" use="optional" />
-                                                            <xs:attribute name="type" type="xs:string" use="optional" />
-                                                            <xs:attribute name="transaction" type="xs:string" use="optional" />
-                                                        </xs:extension>
-                                                    </xs:simpleContent>
-                                                </xs:complexType>
-                                            </xs:element>
-                                            <xs:element name="transaction" minOccurs="0" maxOccurs="unbounded">
-                                                <xs:complexType>
-                                                    <xs:simpleContent>
-                                                        <xs:extension base="xs:string">
-                                                            <xs:attribute name="type" type="xs:string" use="optional" />
-                                                        </xs:extension>
-                                                    </xs:simpleContent>
-                                                </xs:complexType>
-                                            </xs:element>
-                                            <xs:element name="place" minOccurs="0">
-                                                <xs:complexType>
-                                                    <xs:simpleContent>
-                                                        <xs:extension base="xs:string">
-                                                            <xs:attribute name="issued" type="xs:string" use="optional" />
-                                                        </xs:extension>
-                                                    </xs:simpleContent>
-                                                </xs:complexType>
-                                            </xs:element>
-                                            <xs:element name="p" minOccurs="0" maxOccurs="unbounded">
-                                                <xs:complexType mixed="true">
-                                                    <xs:sequence minOccurs="0">
-                                                        <xs:choice maxOccurs="unbounded">
-                                                            <xs:element name="landscape" minOccurs="0" maxOccurs="unbounded">
-                                                                <xs:complexType>
-                                                                    <xs:simpleContent>
-                                                                        <xs:extension base="xs:string">
-                                                                            <xs:attribute name="cat" type="xs:string" use="optional" />
-                                                                            <xs:attribute name="type" type="xs:string" use="optional" />
-                                                                            <xs:attribute name="transaction" type="xs:string" use="optional" />
-                                                                        </xs:extension>
-                                                                    </xs:simpleContent>
-                                                                </xs:complexType>
-                                                            </xs:element>
-                                                            <xs:element name="transaction" minOccurs="0" maxOccurs="unbounded">
-                                                                <xs:complexType>
-                                                                    <xs:simpleContent>
-                                                                        <xs:extension base="xs:string">
-                                                                            <xs:attribute name="type" type="xs:string" use="optional" />
-                                                                        </xs:extension>
-                                                                    </xs:simpleContent>
-                                                                </xs:complexType>
-                                                            </xs:element>
-                                                            <xs:element name="direction" type="xs:string" minOccurs="0" />
-                                                            <xs:element name="note" minOccurs="0" maxOccurs="unbounded">
-                                                                <xs:complexType>
-                                                                    <xs:simpleContent>
-                                                                        <xs:extension base="xs:string">
-                                                                            <xs:attribute name="type" type="xs:string" use="optional" />
-                                                                            <xs:attribute ref="xml:lang" use="optional" />
-                                                                        </xs:extension>
-                                                                    </xs:simpleContent>
-                                                                </xs:complexType>
-                                                            </xs:element>
-                                                        </xs:choice>
-                                                    </xs:sequence>
-                                                </xs:complexType>
-                                            </xs:element>
-                                            <xs:element name="issuer" minOccurs="0" maxOccurs="unbounded">
-                                                <xs:complexType>
-                                                    <xs:simpleContent>
-                                                        <xs:extension base="xs:string">
-                                                            <xs:attribute name="status" use="optional">
-                                                                <xs:simpleType>
-                                                                    <xs:restriction base="xs:string">
-                                                                        <xs:enumeration value="ecclesiastic"/>
-                                                                        <xs:enumeration value="nobleman"/>
-                                                                        <xs:enumeration value="noblewoman"/>
-                                                                        <xs:enumeration value="burgher"/>
-                                                                        <xs:enumeration value="burgher wife"/>
-                                                                        <xs:enumeration value="burgher woman"/>
-                                                                        <xs:enumeration value="peasant"/>
-                                                                        <xs:enumeration value="peasant woman"/>
-                                                                    </xs:restriction>
-                                                                </xs:simpleType>
-                                                            </xs:attribute>
-                                                            <xs:attribute name="gender" use="optional">
-                                                                <xs:simpleType>
-                                                                    <xs:restriction base="xs:string">
-                                                                        <xs:enumeration value="f"/>
-                                                                        <xs:enumeration value="m"/>
-                                                                        <xs:enumeration value="m?"/>
-                                                                    </xs:restriction>
-                                                                </xs:simpleType>
-                                                            </xs:attribute>
-                                                            <xs:attribute name="onlyone" use="optional">
-                                                                <xs:simpleType>
-                                                                    <xs:restriction base="xs:string">
-                                                                        <xs:enumeration value="y"/>
-                                                                        <xs:enumeration value="y?"/>
-                                                                        <xs:enumeration value="n"/>
-                                                                        <xs:enumeration value=""/>
-                                                                    </xs:restriction>
-                                                                </xs:simpleType>
-                                                            </xs:attribute>
-                                                        </xs:extension>
-                                                    </xs:simpleContent>
-                                                </xs:complexType>
-                                            </xs:element>
-                                            <xs:element name="scilicet" minOccurs="0" maxOccurs="unbounded">
-                                                <xs:complexType>
-                                                    <xs:attribute name="its" type="xs:string" use="optional" />
-                                                </xs:complexType>
-                                            </xs:element>
-                                            <xs:element name="issued" minOccurs="0">
-                                                <xs:complexType>
-                                                    <xs:simpleContent>
-                                                        <xs:extension base="xs:string">
-                                                            <xs:attribute name="place" type="xs:string" use="optional" />
-                                                        </xs:extension>
-                                                    </xs:simpleContent>
-                                                </xs:complexType>
-                                            </xs:element>
-                                            <!-- pois: -->
-                                            <xs:element name="g" type="xs:string" minOccurs="0" />
-                                            <xs:element name="kuuluneeseuraavaan" type="xs:string" minOccurs="0" />
-                                            <xs:element name="person" minOccurs="0">
-                                                <xs:complexType>
-                                                    <xs:simpleContent>
-                                                        <xs:extension base="xs:string">
-                                                            <xs:attribute name="type" type="xs:string" use="optional" />
-                                                        </xs:extension>
-                                                    </xs:simpleContent>
-                                                </xs:complexType>
-                                            </xs:element>
-                                        </xs:choice>
-                                    </xs:sequence>
-                                    <xs:attribute name="editor" type="xs:string" use="optional" />
-                                    <xs:attribute ref="xml:lang" use="optional" />
-                                    <xs:attribute name="nrSJb" type="xs:unsignedShort" use="optional" />
-                                    <xs:attribute name="link" type="xs:string" use="optional" />
-                                </xs:complexType>
+                            <xs:element name="scilicet" minOccurs="0">
+                              <xs:complexType>
+                                <xs:attribute name="its" type="xs:string" use="optional" />
+                              </xs:complexType>
                             </xs:element>
-                        </xs:sequence>
-                        <xs:attribute name="nr" type="xs:unsignedByte" use="optional" />
-                        <xs:attribute name="nrDF" type="xs:unsignedShort" use="optional" />
-                        <xs:attribute name="type" type="xs:string" use="optional" />
-                        <xs:attribute name="when" type="xs:string" use="optional" />
-                        <xs:attribute name="where" type="xs:string" use="optional" />
-                        <xs:attribute name="link" type="xs:string" use="optional" />
-                    </xs:complexType>
-                </xs:element>
+                            <xs:element name="landscape" minOccurs="0" maxOccurs="unbounded">
+                              <xs:complexType>
+                                <xs:simpleContent>
+                                  <xs:extension base="xs:string">
+                                    <xs:attribute name="cat" type="xs:string" use="optional" />
+                                    <xs:attribute name="type" type="xs:string" use="optional" />
+                                    <!-- poista nämä: -->
+                                    <xs:attribute name="transaction" type="xs:string" use="optional" />
+                                  </xs:extension>
+                                </xs:simpleContent>
+                              </xs:complexType>
+                            </xs:element>
+                            <xs:element name="transaction" minOccurs="0" maxOccurs="unbounded">
+                              <xs:complexType>
+                                <xs:simpleContent>
+                                  <xs:extension base="xs:string">
+                                    <xs:attribute name="type" type="xs:string" use="optional" />
+                                  </xs:extension>
+                                </xs:simpleContent>
+                              </xs:complexType>
+                            </xs:element>
+                            <xs:element name="note" minOccurs="0" maxOccurs="unbounded">
+                              <xs:complexType mixed="true">
+                                <xs:sequence minOccurs="0">
+                                  <xs:element name="landscape" minOccurs="0" maxOccurs="unbounded">
+                                    <xs:complexType>
+                                      <xs:simpleContent>
+                                        <xs:extension base="xs:string">
+                                          <xs:attribute name="cat" type="xs:string" use="optional" />
+                                          <xs:attribute name="type" type="xs:string" use="optional" />
+                                        </xs:extension>
+                                      </xs:simpleContent>
+                                    </xs:complexType>
+                                  </xs:element>
+                                  <xs:element name="transaction" minOccurs="0" maxOccurs="unbounded">
+                                  <xs:complexType>
+                                    <xs:simpleContent>
+                                      <xs:extension base="xs:string">
+                                        <xs:attribute name="type" type="xs:string" use="optional" />
+                                      </xs:extension>
+                                    </xs:simpleContent>
+                                  </xs:complexType>
+                                </xs:element>
+                                </xs:sequence>
+                                <xs:attribute name="type" type="xs:string" use="optional" />
+                                <xs:attribute ref="xml:lang" use="optional" />
+                              </xs:complexType>
+                            </xs:element>
+                            </xs:choice>
+                          </xs:sequence>
+                          <xs:attribute ref="xml:lang" use="optional" />
+                        </xs:complexType>
+                      </xs:element>
+                      <xs:element name="note" minOccurs="0" maxOccurs="unbounded">
+                        <xs:complexType mixed="true">
+                          <xs:sequence minOccurs="0">
+                            <xs:element name="landscape" minOccurs="0" maxOccurs="unbounded">
+                              <xs:complexType>
+                                <xs:simpleContent>
+                                  <xs:extension base="xs:string">
+                                    <xs:attribute name="cat" type="xs:string" use="optional" />
+                                    <xs:attribute name="type" type="xs:string" use="optional" />
+                                  </xs:extension>
+                                </xs:simpleContent>
+                              </xs:complexType>
+                            </xs:element>
+                            <xs:element name="transaction" minOccurs="0" maxOccurs="unbounded">
+                              <xs:complexType>
+                                <xs:simpleContent>
+                                  <xs:extension base="xs:string">
+                                    <xs:attribute name="type" type="xs:string" use="optional" />
+                                  </xs:extension>
+                                </xs:simpleContent>
+                              </xs:complexType>
+                            </xs:element>
+                          </xs:sequence>
+                          <xs:attribute name="type" type="xs:string" use="optional" />
+                          <xs:attribute ref="xml:lang" use="optional" />
+                          <xs:attribute name="place" type="xs:string" use="optional" />
+                        </xs:complexType>
+                      </xs:element>
+                      <xs:element name="landscape" minOccurs="0" maxOccurs="unbounded">
+                        <xs:complexType>
+                          <xs:simpleContent>
+                            <xs:extension base="xs:string">
+                              <xs:attribute name="cat" type="xs:string" use="optional" />
+                              <xs:attribute name="type" type="xs:string" use="optional" />
+                              <xs:attribute name="transaction" type="xs:string" use="optional" />
+                            </xs:extension>
+                          </xs:simpleContent>
+                        </xs:complexType>
+                      </xs:element>
+                      <xs:element name="transaction" minOccurs="0" maxOccurs="unbounded">
+                        <xs:complexType>
+                          <xs:simpleContent>
+                            <xs:extension base="xs:string">
+                              <xs:attribute name="type" type="xs:string" use="optional" />
+                            </xs:extension>
+                          </xs:simpleContent>
+                        </xs:complexType>
+                      </xs:element>
+                      <xs:element name="place" minOccurs="0">
+                        <xs:complexType>
+                          <xs:simpleContent>
+                            <xs:extension base="xs:string">
+                              <xs:attribute name="issued" type="xs:string" use="optional" />
+                            </xs:extension>
+                          </xs:simpleContent>
+                        </xs:complexType>
+                      </xs:element>
+                      <xs:element name="p" minOccurs="0" maxOccurs="unbounded">
+                        <xs:complexType mixed="true">
+                          <xs:sequence minOccurs="0">
+                            <xs:choice maxOccurs="unbounded">
+                              <xs:element name="landscape" minOccurs="0" maxOccurs="unbounded">
+                                <xs:complexType>
+                                  <xs:simpleContent>
+                                    <xs:extension base="xs:string">
+                                      <xs:attribute name="cat" type="xs:string" use="optional" />
+                                      <xs:attribute name="type" type="xs:string" use="optional" />
+                                      <xs:attribute name="transaction" type="xs:string" use="optional" />
+                                    </xs:extension>
+                                  </xs:simpleContent>
+                                </xs:complexType>
+                              </xs:element>
+                              <xs:element name="transaction" minOccurs="0" maxOccurs="unbounded">
+                                <xs:complexType>
+                                  <xs:simpleContent>
+                                    <xs:extension base="xs:string">
+                                      <xs:attribute name="type" type="xs:string" use="optional" />
+                                    </xs:extension>
+                                  </xs:simpleContent>
+                                </xs:complexType>
+                              </xs:element>
+                              <xs:element name="direction" type="xs:string" minOccurs="0" />
+                              <xs:element name="note" minOccurs="0" maxOccurs="unbounded">
+                                <xs:complexType>
+                                  <xs:simpleContent>
+                                    <xs:extension base="xs:string">
+                                      <xs:attribute name="type" type="xs:string" use="optional" />
+                                      <xs:attribute ref="xml:lang" use="optional" />
+                                    </xs:extension>
+                                  </xs:simpleContent>
+                                </xs:complexType>
+                              </xs:element>
+                            </xs:choice>
+                          </xs:sequence>
+                        </xs:complexType>
+                      </xs:element>
+                      <xs:element name="issuer" minOccurs="0" maxOccurs="unbounded">
+                        <xs:complexType>
+                          <xs:simpleContent>
+                            <xs:extension base="xs:string">
+                              <xs:attribute name="status" use="optional">
+                                <xs:simpleType>
+                                  <xs:restriction base="xs:string">
+                                    <xs:enumeration value="ecclesiastic"/>
+                                    <xs:enumeration value="nobleman"/>
+                                    <xs:enumeration value="noblewoman"/>
+                                    <xs:enumeration value="burgher"/>
+                                    <xs:enumeration value="burgher wife"/>
+                                    <xs:enumeration value="burgher woman"/>
+                                    <xs:enumeration value="peasant"/>
+                                    <xs:enumeration value="peasant woman"/>
+                                  </xs:restriction>
+                                </xs:simpleType>
+                              </xs:attribute>
+                              <xs:attribute name="gender" use="optional">
+                                <xs:simpleType>
+                                  <xs:restriction base="xs:string">
+                                    <xs:enumeration value="f"/>
+                                    <xs:enumeration value="m"/>
+                                    <xs:enumeration value="m?"/>
+                                  </xs:restriction>
+                                </xs:simpleType>
+                              </xs:attribute>
+                              <xs:attribute name="onlyone" use="optional">
+                                <xs:simpleType>
+                                  <xs:restriction base="xs:string">
+                                    <xs:enumeration value="y"/>
+                                    <xs:enumeration value="y?"/>
+                                    <xs:enumeration value="n"/>
+                                    <xs:enumeration value=""/>
+                                  </xs:restriction>
+                                </xs:simpleType>
+                              </xs:attribute>
+                            </xs:extension>
+                          </xs:simpleContent>
+                        </xs:complexType>
+                      </xs:element>
+                      <xs:element name="scilicet" minOccurs="0" maxOccurs="unbounded">
+                        <xs:complexType>
+                          <xs:attribute name="its" type="xs:string" use="optional" />
+                        </xs:complexType>
+                      </xs:element>
+                      <xs:element name="issued" minOccurs="0">
+                        <xs:complexType>
+                          <xs:simpleContent>
+                            <xs:extension base="xs:string">
+                              <xs:attribute name="place" type="xs:string" use="optional" />
+                            </xs:extension>
+                          </xs:simpleContent>
+                        </xs:complexType>
+                      </xs:element>
+                      <!-- pois: -->
+                      <xs:element name="g" type="xs:string" minOccurs="0" />
+                      <xs:element name="kuuluneeseuraavaan" type="xs:string" minOccurs="0" />
+                      <xs:element name="person" minOccurs="0">
+                        <xs:complexType>
+                          <xs:simpleContent>
+                            <xs:extension base="xs:string">
+                              <xs:attribute name="type" type="xs:string" use="optional" />
+                            </xs:extension>
+                          </xs:simpleContent>
+                        </xs:complexType>
+                      </xs:element>
+                    </xs:choice>
+                  </xs:sequence>
+                  <xs:attribute name="editor" type="xs:string" use="optional" />
+                  <xs:attribute ref="xml:lang" use="optional" />
+                  <xs:attribute name="nrSJb" type="xs:unsignedShort" use="optional" />
+                  <xs:attribute name="link" type="xs:string" use="optional" />
+                </xs:complexType>
+              </xs:element>
             </xs:sequence>
-        </xs:complexType>
-    </xs:element>
+            <xs:attribute name="nr" type="xs:unsignedByte" use="optional" />
+            <xs:attribute name="nrDF" type="xs:unsignedShort" use="optional" />
+            <xs:attribute name="type" type="xs:string" use="optional" />
+            <xs:attribute name="when" type="xs:string" use="optional" />
+            <xs:attribute name="where" type="xs:string" use="optional" />
+            <xs:attribute name="link" type="xs:string" use="optional" />
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
 </xs:schema>
