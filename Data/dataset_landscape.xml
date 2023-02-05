@@ -91,7 +91,7 @@ Divers notes concerning the purchase for Abo Cathedral of lots, fields, meadow-l
 </regesta>
 
 <edition editor="Hausen" xml:lang="la">
-Anno 55º dominus <issuer status="ecclesiastic">Petrus Henrici</issuer>, condam ychonomus ecclesie Aboensis, emit a Johanne Swarte in Helga, parrochie Berna , quendam fundiculum promtuarij, situm iuxta promptuaria <scilicet its="prōmptuārium n (genitive prōmptuāriī or prōmptuārī)"/> sancti Henricj vltra <landscape cat="built" type="river">ampnem</landscape> versus <landscape cat="built" type="bridge">pontem</landscape>, inter <landscape cat="built" type="garden">ortum</landscape> prebende sancti Iohannis et <landscape cat="built" type="granary">granaria</landscape> <scilicet its="grānārium n (genitive grānāriī or grānārī); second declension (chiefly in the plural) granary/viljavarasto"/> sancti Henricj, pro xj marcis denariorum, in quem <landscape cat="built" type="FIXME">fundiculum</landscape> ego Petrus Petri transtulj quandam opellam de Awas, pro qua dedit sancto Henrico dominus Nicolaus Nicolaj iij marcas vj oras ad dies vite sue; post mortem suam redibit ad ychonomiam.
+Anno 55º dominus <issuer status="ecclesiastic" gender="m" onlyone="y">Petrus Henrici</issuer>, condam ychonomus ecclesie Aboensis, emit a Johanne Swarte in Helga, parrochie Berna , quendam fundiculum promtuarij, situm iuxta promptuaria <scilicet its="prōmptuārium n (genitive prōmptuāriī or prōmptuārī)"/> sancti Henricj vltra <landscape cat="built" type="river">ampnem</landscape> versus <landscape cat="built" type="bridge">pontem</landscape>, inter <landscape cat="built" type="garden">ortum</landscape> prebende sancti Iohannis et <landscape cat="built" type="granary">granaria</landscape> <scilicet its="grānārium n (genitive grānāriī or grānārī); second declension (chiefly in the plural) granary/viljavarasto"/> sancti Henricj, pro xj marcis denariorum, in quem <landscape cat="built" type="FIXME">fundiculum</landscape> ego Petrus Petri transtulj quandam opellam de Awas, pro qua dedit sancto Henrico dominus Nicolaus Nicolaj iij marcas vj oras ad dies vite sue; post mortem suam redibit ad ychonomiam.
 
 
 
@@ -180,12 +180,12 @@ Domprosten i Åbo Magnus Nicolai (Nilsson) grundar med samtycke av biskop Konrad
 </regesta>
 
 <regesta editor="Kokkonen" xml:lang="en">
-Provost  <issuer status="ecclesiastic">Magnus Nicolai</issuer> of Abo establishes, with the con­sent of Bishop Konrad Bidz and the Diocesan Chapter the so-called High Altar of the Chapel of All Saints and insti­tutes a mass. Placed as sustenance to said chapel are a number of properties in Abo, landed property in the parishes of Vehmaa, Mynämäki, Lemu, Nousiainen, Raisio, Nummi, Lieto, Paimio and Sauvo, and an estate in Parainen Parish donated by Master Anders Dives to said altar.
+Provost <issuer status="ecclesiastic" gender="m" onlyone="y">Magnus Nicolai</issuer> of Abo establishes, with the con­sent of Bishop Konrad Bidz and the Diocesan Chapter the so-called High Altar of the Chapel of All Saints and insti­tutes a mass. Placed as sustenance to said chapel are a number of properties in Abo, landed property in the parishes of Vehmaa, Mynämäki, Lemu, Nousiainen, Raisio, Nummi, Lieto, Paimio and Sauvo, and an estate in Parainen Parish donated by Master Anders Dives to said altar.
 </regesta>
 
 <edition editor="Hausen" xml:lang="la">
-<title>Littera fundacionis summj altaris capelle omnium sanctorum et summe misse. — Det nedan kursiverade är i handskriften utstruket.</title>
-<p>Wniuersis et singulis presentes litteras visuris, inspecturis pariter et audituris Magnus Nicolaj, prepositus ecclesie Aboensis, licet inutilis heudolor et indignus, salutem et fidem indubiam presentibus adhibere. Cum cunctis christifidelibus non solum de factis propriis ymo eciam de bonis sibi a Deo collatis coram supremo judice sue villicacionis incumbat reddere racionem, jn huius rei causa ad laudem et gloriam beatissime jndiuidue trinitatis, ad memoriam patronis Domini nostri Ihesu Christi ac eiusdem ascensionis atque celeberrime assumpcionis et amatissime compassionis, intemerate eiusdem Dei genitricis virginis Marie ad laudem, necnon sub nomine et vocabulo omnium sanctorum Dei, jn remissionem peccatorum meorum, ob salutem anime mee et parentum ac amicorum atque benefactorum meorum necnon omnium christifidelium viuorum et defunctorum, preteritorum, presencium et futurorum, altare quoddam jn predicta ecclesia Aboensi ex reuerendi jn Christo patris et domini mei domini Conradi, Dei gracia episcopi Aboensis, et suj venerabilis capituli consensv erexi, instituj et fundauj prout per presentes erigo, instituo et fundo, jta quod in eodem altari preter et vltra missam que cotidie de gloriosissima virgine Maria ibidem decantatur, vna altare (ͻ: altera)<note type="editorial" xml:lang="sv">Härvid är i marginalen tillagdt: nec non et due alie jn altari Ihesu Christi.</note> certis modo et ordine, prout in aliis meis litteris desuper confectis expressius habetur, Ioco summe misse dietim et in perpetuum cantando celebretur, pro cuius altaris dote, ereccione et fundacione ac ipsorum choralium ibidem officiacione, sustentacione jnfrascripta predia dono, deputo et assigno, jn primis duas colonias jn Wema, Vkkilax et Pankyioki, deinde vnam coloniam in Wirma videlicet Valdas, in (ͻ: jtem) duas colonias in Mannos jn Lemmo, jtem Nwmmis in Nowsis, jtem tria predia in Reesa, videlicet Somarsoya, Petæ[s]mæ(s)ki et Thorawori, jtem Koskis in Nwmmis, jtem tria predia jn Lund, videlicet Wentiælæ superiorem, Wentiæla inferiorem et Nolima, jn Pemara tria predia, videlicet duo in Mariawori, vnum in Mwnkila et duo in Kyllylæ, jtem jn Sagw tria predia, videlicet Kaukarla, Koskis et Rwskulla, et in Parghaso vnum predium, dictum Pargasby, quod predium honorabilis vir dominus Andreas Diues eidem contulit altari; jtem granarium meum dictum Mækelborg vltra ampnem cum ortis duobus, vno prope granarium et altero ex opposito granarii ad latus ampnis situatis<note type="editorial" xml:lang="sv">Härvid är i marginalen anmärkt: Hic deficiunt prediorum nomina.</note>; jnsuper pro residencia ipsorum choralium memoratus dominus meus reuerendus domum seu curiam lapideam apud foueam, ex opposito fundi beati Bartholomej locatam, eidem altari de conssensu suj dicti venerabilis capituli irreuocabiliter incorporauit, prout in litteris suis desuper confectis plenius continetur, pro qua quidem curia et eiusdem redempcione cuidam Thome centum marcas et domino Gregorio Alueri sexaginta marcas sueuice monete vltra summan in litteris Swenonis aurifabri expressam de meis exsoluj. Jnsuper et fundicum primum, quem jam altarista beati Erici possidet in ortum inter domum Johannis aurifabri et predictam curiam sitam, commutauj, que quidem curia cum omnibus suis attinenciis pro memoratis choralibus in perpetuum est deputata. Et si ipsa infirmaria sacerdotum cassata aut anullata fuerit, quod Deus avertat, domum lapideam, quam a Philippo Kaland dudum emeram, eciam memorate capelle pro dictorum choralium sustentacione volo omnias habere incorporatam.</p>
+<title>Littera fundacionis summj altaris capelle omnium sanctorum et summe misse. <note type="editorial">Det nedan kursiverade är i handskriften utstruket.</note></title>
+<p>Wniuersis et singulis presentes litteras visuris, inspecturis pariter et audituris Magnus Nicolaj, prepositus ecclesie Aboensis, licet inutilis heudolor et indignus, salutem et fidem indubiam presentibus adhibere. Cum cunctis christifidelibus non solum de factis propriis ymo eciam de bonis sibi a Deo collatis coram supremo judice sue villicacionis incumbat reddere racionem, jn huius rei causa ad laudem et gloriam beatissime jndiuidue trinitatis, ad memoriam patronis Domini nostri Ihesu Christi ac eiusdem ascensionis atque celeberrime assumpcionis et amatissime compassionis, intemerate eiusdem Dei genitricis virginis Marie ad laudem, necnon sub nomine et vocabulo omnium sanctorum Dei, jn remissionem peccatorum meorum, ob salutem anime mee et parentum ac amicorum atque benefactorum meorum necnon omnium christifidelium viuorum et defunctorum, preteritorum, presencium et futurorum, altare quoddam jn predicta ecclesia Aboensi ex reuerendi jn Christo patris et domini mei domini Conradi, Dei gracia episcopi Aboensis, et suj venerabilis capituli consensv erexi, instituj et fundauj prout per presentes erigo, instituo et fundo, jta quod in eodem altari preter et vltra missam que cotidie de gloriosissima virgine Maria ibidem decantatur, vna altare (ͻ: altera)<note place="margin">nec non et due alie jn altari Ihesu Christi.</note> certis modo et ordine, prout in aliis meis litteris desuper confectis expressius habetur, Ioco summe misse dietim et in perpetuum cantando celebretur, pro cuius altaris dote, ereccione et fundacione ac ipsorum choralium ibidem officiacione, sustentacione jnfrascripta predia dono, deputo et assigno, jn primis duas colonias jn Wema, Vkkilax et Pankyioki, deinde vnam coloniam in Wirma videlicet Valdas, in (ͻ: jtem) duas colonias in Mannos jn Lemmo, jtem Nwmmis in Nowsis, jtem tria predia in Reesa, videlicet Somarsoya, Petæ[s]mæ(s)ki et Thorawori, jtem Koskis in Nwmmis, jtem tria predia jn Lund, videlicet Wentiælæ superiorem, Wentiæla inferiorem et Nolima, jn Pemara tria predia, videlicet duo in Mariawori, vnum in Mwnkila et duo in Kyllylæ, jtem jn Sagw tria predia, videlicet Kaukarla, Koskis et Rwskulla, et in Parghaso vnum predium, dictum Pargasby, quod predium honorabilis vir dominus Andreas Diues eidem contulit altari; jtem granarium meum dictum Mækelborg vltra ampnem cum ortis duobus, vno prope granarium et altero ex opposito granarii ad latus ampnis situatis<note type="editorial" xml:lang="sv">Härvid är i marginalen anmärkt: Hic deficiunt prediorum nomina.</note>; jnsuper pro residencia ipsorum choralium memoratus dominus meus reuerendus domum seu curiam lapideam apud foueam, ex opposito fundi beati Bartholomej locatam, eidem altari de conssensu suj dicti venerabilis capituli irreuocabiliter incorporauit, prout in litteris suis desuper confectis plenius continetur, pro qua quidem curia et eiusdem redempcione cuidam Thome centum marcas et domino Gregorio Alueri sexaginta marcas sueuice monete vltra summan in litteris Swenonis aurifabri expressam de meis exsoluj. Jnsuper et fundicum primum, quem jam altarista beati Erici possidet in ortum inter domum Johannis aurifabri et predictam curiam sitam, commutauj, que quidem curia cum omnibus suis attinenciis pro memoratis choralibus in perpetuum est deputata. Et si ipsa infirmaria sacerdotum cassata aut anullata fuerit, quod Deus avertat, domum lapideam, quam a Philippo Kaland dudum emeram, eciam memorate capelle pro dictorum choralium sustentacione volo omnias habere incorporatam.</p>
 <p>Deinde<note type="editorial" xml:lang="sv">Hela detta stycke är i originalet skrifvet med ljusare bläck, men, som det synes, af samma hand som skrifvit öfriga delen af brefvet.</note> pro domo lapidea, apud <landscape  cat="built" type="lot" >fundicum</landscape> beate Katerine versus <landscape cat="natural" type="river">ampnem</landscape> erecta, et pro toto fundico, quem Iohannes aurifaber olim possedit, soluimus sibi primum xl marcas, deinde tradidimus sibi fundicum nostrum ad latus domus Eurardi cirograferi cum cellario murato et testudinato et centum marcis monete sweuicane. Item tradidimus altari sancti Erici fundicum nostrum paternum cum quatuor stubellis, loco cuius recepimus paruam fundici beati Erici, in fundico omnium sanctorum memorato incorporatam.]</p>
 </edition>
 </document>
@@ -556,7 +556,6 @@ Alla the thetta breff höra ællir see helsar jac Katerina Olafssdottir, fordhom
 
 <document nr="36" type="" when="1448" where="Turku" link="">
 <regesta editor="Hausen" nrREA="714" xml:lang="sv">
-    <issuer status="nobleman"/>
 Förteckning å Helga tre konungars altare i Åbo domkyrka underlydande hemman äfvensom deras 
 inventarier samt uppgift å dem som till bemälda altare gifvit samma gods.
 <folio>Fol 191 v—192 v.</folio>
@@ -571,15 +570,14 @@ inventarier samt uppgift å dem som till bemälda altare gifvit samma gods.
 </regesta>
 
 <edition editor="Hausen" xml:lang="sv-x-old">
-<title xml:lang="la">Not given</title>
-Anno Domini mcdxlvijº, Prima colonia.
+<title xml:lang="la">Anno Domini mcdxlvijº, Prima colonia.</title>
 
 Tho gaffz eth godz til helge tree konunge altare j domkirkione j Lyttus
 lighiandis j Nwmmis soken. Ther war vtøffuer verdelighin fader biscop Mognus,
-her Magnus Gren riddere, her Henric Bidz riddere oc her Henric Clausson riddere 
+her Magnus Gren riddere, her Henric Bidz riddere oc her <issuer status="nobleman" gender="m" onlyone="n">Henric Clausson</issuer> riddere 
 och flere andre gode men.
 
-Seminat in agro:
+<title xml:lang="la">Seminat in agro:
 
 Pro semine vernalj:
 
@@ -587,53 +585,53 @@ Habet pro jnuentario vnum taurum, ij vaccas, ij oues.
 
 Dabit iij marcas pro agrario in anno.
 
-2:a colonia. Anno eodem.
+2:a colonia. Anno eodem.</title>
 
 Gaff ærligin och velboren man her Henric Clauusson riddere met synne
 husfrves samtickia, ffrv Lucia, eth godz som hether Aysynpæ lighiande j Masko
 soken; thet giffuer helffthen.
 
-Pro jnuentario habet i par boum, v vaccas, j taurum de 3:bus annis
-et x oues.
+<title xml:lang="la">Pro jnuentario habet i par boum, v vaccas, j taurum de 3:bus annis
+et x oues.</title>
 
-Super <transaction type="house">fundico</transaction>:
+<title xml:lang="la">Super <transaction type="house">fundico</transaction>:</title>
 
 Jtem gaff Henric Clausson riddere en <transaction type="house">gordh</transaction> lighiande vtoffuer <landscape cat="natural" type="river">aan</landscape> til the
 helge tre konunge altare j Abo.
 
-3:a colonia, Attula.
-Anno Domini mcdxlix.
+<title xml:lang="la">3:a colonia, Attula.
+Anno Domini mcdxlix.</title>
 
 Gaff ærlighin och velboren man her Henric Clausson riddere met syna
 ærlige husfrves samtickio, frv Lucia, ij godz til helge tre konunga koor; eth heter 
 Attula ligiande j Nowsis soken; thet giffuer helffthen. Ther ær pro jnuentario:
 
-Pro jnuentario habet j par boum, iij vaccas, j juuencam, j equam vnius
+<title xml:lang="la">Pro jnuentario habet j par boum, iij vaccas, j juuencam, j equam vnius
 anni, x oues. Jsta sunt commvnia, primo domino Tuure<note type="editorial">Namnet i handskriften utstruket.</note> Vinth.
 
 Seminat in agro:
 
-Pro semine vernalj: iii<g>ɉ</g> modios ordei, iij modios auene, ɉ modium tritici,
+Pro semine vernalj: iiiɉ modios ordei, iij modios auene, ɉ modium tritici,
 jtem ɉ modii fabarum, ɉ modii pisorum.
 
-	4:a colonia, Sorsila.
+	4:a colonia, Sorsila.</title>
 	Jtem thet andra godzet heter Sorsila, ligiandis j Virmo soken.
-	Seminat in agro:
+    <title xml:lang="la">Seminat in agro:
 	Pro semine vernalj:
 	Habet pro jnuentario j par boum, iij vaccas.
 	Dabit pro agrario iij marcas.
 
-	Anno etc:a [mcd]xlviij. 5:a colonia Hadila.
+	Anno etc:a [mcd]xlviij. 5:a colonia Hadila.</title>
 
-	Gaff velboren man Bent Lidikesson met sine ærlige husfrves samtickio
-	hustrv Valborgx, eth godz som heter Hadila lighiandis j Nowssis soken, thet
+	Gaff velboren man <issuer status="nobleman" gender="m" onlyone="n">Bent Lidikesson</issuer> met sine ærlige husfrves samtickio
+	hustrv <issuer status="noblewoman" gender="f" onlyone="n">Valborgx</issuer>, eth godz som heter Hadila lighiandis j Nowssis soken, thet
 	giffuer helffthen.
 
-	Seminat in agro:
+    <title xml:lang="la">Seminat in agro:
 
 	Pro semine vernalj:
 
-	Pro jnuentario habet vnum par boum, iiij vaccas, x oues.
+	Pro jnuentario habet vnum par boum, iiij vaccas, x oues.</title>
 
 	Jtem gaff for:de Bent en <transaction type="lot">tompt</transaction> j Abo ligiande nær <landscape cat="built" type="convent">clostret</landscape> vpa Øffuer
 	<landscape cat="built" type="street">gathun</landscape> met en <transaction type="stone cellar">sten kellare</transaction>. Jtem hundrade march peninga och eth horn beslagit 
@@ -642,19 +640,19 @@ jtem ɉ modii fabarum, ɉ modii pisorum.
 	Jtem two quærna j Køkala och the fiske verka ther til likka met aker,
 	æng oc vtmarcker som ther tiil hører vnder helge iij konunge altare j Abo.
 
-	Super vno fundico.
+	<title xml:lang="la">Super vno fundico.</title>
 
 	Jtem gaff her Henric Bidz en gord j Abo helge thre konunge, huilken
 	han laglige fik aff hustrv Sophia, Hans Kustos ænkia, til æwinneliga ægho, ther
 	cappellanen scal sithia vpa. Jtem til sama altaret j syt testament eth horn beslagit 
 	met siilff.
 
-	Super 2:bus <transaction type="shop">opellis</transaction>.
+    <title xml:lang="la">Super 2:bus <transaction type="shop">opellis</transaction>.</title>
 
-	Jtem gaff her Peder Jacobi, Gudh hans siæl nodhe, ij bodha <transaction type="lot">tompter</transaction> lighiandis 
+	Jtem gaff her <issuer status="nobleman" gender="m" onlyone="n">Peder Jacobi</issuer>, Gudh hans siæl nodhe, ij bodha <transaction type="lot">tompter</transaction> lighiandis 
 	vpa <landscape cat="built" type="market square">torghit</landscape> vpa sødher sidhan næst <landscape cat="built" type="bridge">broon</landscape>.
 
-	Super prato vno in Lundh.
+	<title xml:lang="la">Super prato vno in Lundh.</title>
 
 	Jtem gaff her Henric Busman, Gud hans siæl node, altaret til testament
 	j stoor ængh met two ladhwr lighiandis j Lund soken; ther gøres skat vtoff aarliga vj ore:
@@ -1356,7 +1354,7 @@ Fore allom them thetta breff kan fore koma kennomps wj epterscriffne Niles Henri
 </regesta>
 
 <regesta source="SDHK" nrSDHK="44170" xml:lang="sv">
-<issuer status="burgher">Rådet</issuer> i Åbo tilldömer borgaren Anders Hvitte en kålgård i Åbo, som han tvistat med en Peder Herre i Muustasaari om.
+<issuer status="burgher" gender="m" onlyone="n">Rådet</issuer> i Åbo tilldömer borgaren Anders Hvitte en kålgård i Åbo, som han tvistat med en Peder Herre i Muustasaari om.
 
 Litteratur och kommentar
 Jfr SDHK nr 44169.
@@ -1829,7 +1827,7 @@ Magnus Petri, a priest in the diocese of Turku, present in the Roman curia, expl
 </regesta>
 
 <edition editor="Risberg" xml:lang="la">
-<person type="testamentin teettäjä">Magnus Petri</person> presbyter Aboensis diocesis in curia sanctitatis vestre 
+<issuer status="ecclesiastic" gender="m" onlyone="y">Magnus Petri</issuer> presbyter Aboensis diocesis in curia sanctitatis vestre 
 presens exponit, quod, dum olim ipse exponens quendam conversum
 conventus ordinis predicatorum Aboensis, qui in sua cella dicti conventus
 quendam puerum dicti exponentis nepotem, quo spiritu ductus
