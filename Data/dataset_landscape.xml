@@ -15,45 +15,20 @@
 <title>Super <transaction type="lot">fundico</transaction> in quo residet altarista sancte Katherine.</title>
     Omnibus presens scriptum cernentibus Hennikinus Nærffwe, ciuis    Aboensis
     , salutem in Domino sempiternam. Nouerint vniuersi, quod ego et Lucia, vxor mea,
-   curiam
+   <transaction type="house">curiam</transaction>
     in qua nunc sedimus, sitam circa
     <landscape cat="built" type="church">ecclesiam kathedralem</landscape>
     , videlicet ad australem
     partem
     <landscape cat="built" type="church">ecclesie</landscape>
-    , cum fundo dicto kaalgordh, in honorem Dei et salutem animarum nostrarum damus altari beate Katherine in ecclesia
+    , cum <transaction type="lot">fundo</transaction> dicto <transaction type="garden">kaalgordh</transaction>, in honorem Dei et salutem animarum nostrarum damus altari beate Katherine in ecclesia
     Aboensi, tali condicione, quod temporibus vite nostre cedat possessioni, et post mortem nostram cedat altari supradicto. Prebendatus vero ibidem nos, sicut ceteros qui eidem altari elemosinas dederunt, in oracionibus suis habeat commendatos. J[n] huius testimonium sigillum meum vna cum sigillo discreti viri Finke, cuius consensv hec acta sunt, presentibus est appensum. Scriptum
 Abo
     anno etc:a mcccºlxx, fferia sexta post octauam ascensionis.
 </edition>
 </document>
 
-<document nr="05" nrDF="1471" type="" when="1416-03-08" where="Turku" link="http://df.narc.fi/document/1471">
-<regesta editor="Hausen" nrREA="362" xml:lang="sv">
- 362
-(8 Mars 1416?<note type="editorial">Se biskop Magni den 8 Mars detta år härå gifna konfirmation.</note>)
 
-Ärkedjäknen <scilicet its="archdeacon"/> i Åbo <issuer status="ecclesiastic" gender="m" onlyone="y">Johan Anundsson</issuer> skänker under vissa vilkor till det af honom stiftade S:t Johannes altaret i Åbo domkyrka jordagods i Vemo, Masku, Rusko, Pemar och Vesilax socknar äfvensom en gård i Åbo stad och en äng.
-<folio>Fol. 207.</folio>
-</regesta>
-
-<regesta source="SDHK" nrSDHK="18661" xml:lang="sv">
-1416 utan dag*
-*Datumkommentar: datering supplerad efter bekräftelsebrev av 14160308
-
-Johannes Anundi, ädj i Åbo, stiftar ett altare i Åbo domkyrka till Guds, jungfru Marias, Johannes Döparens och evangelisten Johannes’ ära.
-</regesta>
-
-<edition editor="Hausen" xml:lang="la">
-<title>Littera fundacionis <scilicet its="fundātiō f (genitive fundātiōnis)"/> altaris sanctorum Johannis baptiste et ewangeliste.</title>
-<p>
-Wniuersis et singulis presentes litteras inspecturis Johannes Anundi, archidiaconus Aboensis, salutem in Domino sempiternam. Quia ex testimonio veritatis vnusquisque mortalium villicus Dei fore dinoscitur in hoc mundo, quem de villicacione sua necesse erit tandem reddere racionem, jdcirco ego Johannes Anundi prefatus, tempus id districtum cupiens preuenire, de bonis michi a Deo collatis altare quoddam ad honorem ipsius Dei et beatissime virginis Marie necnon sanctorum Johannis baptiste et Johannis ewangeliste, ob salutem anime mee et aliorum amicorum meorum, de consensv venerabilis patris domini Beronis, bone memorie quondam episcopi Aboensis, jn eadem ecclesia Aboensi feci, institui et fundaui ipsumque altare fundatum de consensu heredum meorum subscripto meo nomine dato (ͻ: doto?) jn primis <note type="editorial" xml:lang="sv">Här synes något vara öfverhoppadt. Jfr följande bref!</note>. Jtaque ad ampliacionem cultus diuini et sustentacionem ministrorum ipsius lego, deputo et dispono altari prefato predium meum Rackamala, parrochia Wemo; jtem in parrochia Masko predium Jwla (ͻ: Juwa ?) et duo predia in Sopola; jtem in parrochia Ruskopredium Hydenwainio et predium meum in villa Mertiælæ; jtem in parrochia Pemare vnum predium dictum Heslebergh, aliud dictum Mayankalma, 3:m predium meum in Marianwari; jtem in parrochia Wæsilagx duo predia, vnum videlicet in villa Lawcko et aliud in Totkyrajerfiuj; et que predia omnia et singula scilicet supradicta cum quibuscunque attinenciis suis hodie a me et ab heredibus meis alienando abdico per presentes dictoque altari ac eius prouisorj cum omni iure perpetuo possidenda approprio et appono, tali condicione adiecta, quod quilibet prebendatus eiusdem altaris, qui pro tempore fuerit, debebit omni ebdomada celebrare aut facere celebrari tres missas in altarj prefato, quarum vna sit pro fidelibus defunctis et specialiter pro fundatore et aliis benefactoribus eiusdem altaris, preteritis, presentibus et futuris, et alie sicut placet. Tenebitur insuper omni anno celebrare aut facere celebrari duas cantatas exequias pro me et parentibus meis ac heredibus nominatim, semel videlicet in vere, in crastino sancti Iohannis ante portam latinam, et semel in autumpno, in crastino decollacionis sancti Johannis baptiste, vtraque vice vespere precedente vigilias cantatas habendo ante altare predictum et in crastino 4:or missas pro defunctis, quarum vnam ante idem altare cantabit, alias autem lectas vbi locus vacauerit faciet celebrarj. Volo preterea et dispono, quod presentacio, prouisio, collacio seu queuis alia ordinacio dicti beneficij post mortem meam ad nullum alium quam ad ordinarium loci debeat pertinere, eo quod predia illa sunt pro maxima parte intuitu ecclesie acquisita; quare ab heredibus meis omne jus patronatus, si quod in dicto beneficio videntur habere, aufero per presentes et episcopo Aboensi, qui pro tempore fuerit, pleno jure committo, reseruata tamen michi quoad vixero libera facultate de beneficio prelibato et omnibus rebus ad ipsum pertinentibus secundum meum libitum ordinandi et in fine vite mee vnicam tantum personam, que ipsum beneficium possideat, presentandj. J[n] cuius rei etc:a.
-</p>
-<p>
-Jtem vnam <transaction type="house">curiam</transaction> in Abo sitam ex opposito <landscape cat="built" type="lot">fundi</landscape> ###FIXME:onko naapuri sancti Siffridi in angulo et <transaction type="garden">ortum oleris</transaction> vltra <landscape cat="natural" type="river">ampnem</landscape> cum <transaction type="granary">granario</transaction> ibidem. Jtem pratum  vnum in Teriranta de xx plaustris feni, etc:a.
-</p>
-</edition>
-</document>
 
 
 <document nr="07" nrDF="2997" type="" when="1455 etc" where="Turku" link="http://df.narc.fi/document/2997">
@@ -167,7 +142,7 @@ Provost <issuer status="ecclesiastic" gender="m" onlyone="y">Magnus Nicolai</iss
 <edition editor="Hausen" xml:lang="la">
 <title>Littera fundacionis summj altaris capelle omnium sanctorum et summe misse. <note type="editorial">Det nedan kursiverade är i handskriften utstruket.</note></title>
 <p>Wniuersis et singulis presentes litteras visuris, inspecturis pariter et audituris Magnus Nicolaj, prepositus ecclesie Aboensis, licet inutilis heudolor et indignus, salutem et fidem indubiam presentibus adhibere. Cum cunctis christifidelibus non solum de factis propriis ymo eciam de bonis sibi a Deo collatis coram supremo judice sue villicacionis incumbat reddere racionem, jn huius rei causa ad laudem et gloriam beatissime jndiuidue trinitatis, ad memoriam patronis Domini nostri Ihesu Christi ac eiusdem ascensionis atque celeberrime assumpcionis et amatissime compassionis, intemerate eiusdem Dei genitricis virginis Marie ad laudem, necnon sub nomine et vocabulo omnium sanctorum Dei, jn remissionem peccatorum meorum, ob salutem anime mee et parentum ac amicorum atque benefactorum meorum necnon omnium christifidelium viuorum et defunctorum, preteritorum, presencium et futurorum, altare quoddam jn predicta ecclesia Aboensi ex reuerendi jn Christo patris et domini mei domini Conradi, Dei gracia episcopi Aboensis, et suj venerabilis capituli consensv erexi, instituj et fundauj prout per presentes erigo, instituo et fundo, jta quod in eodem altari preter et vltra missam que cotidie de gloriosissima virgine Maria ibidem decantatur, vna altare (ͻ: altera)<note place="margin">nec non et due alie jn altari Ihesu Christi.</note> certis modo et ordine, prout in aliis meis litteris desuper confectis expressius habetur, Ioco summe misse dietim et in perpetuum cantando celebretur, pro cuius altaris dote, ereccione et fundacione ac ipsorum choralium ibidem officiacione, sustentacione jnfrascripta predia dono, deputo et assigno, jn primis duas colonias jn Wema, Vkkilax et Pankyioki, deinde vnam coloniam in Wirma videlicet Valdas, in (ͻ: jtem) duas colonias in Mannos jn Lemmo, jtem Nwmmis in Nowsis, jtem tria predia in Reesa, videlicet Somarsoya, Petæ[s]mæ(s)ki et Thorawori, jtem Koskis in Nwmmis, jtem tria predia jn Lund, videlicet Wentiælæ superiorem, Wentiæla inferiorem et Nolima, jn Pemara tria predia, videlicet duo in Mariawori, vnum in Mwnkila et duo in Kyllylæ, jtem jn Sagw tria predia, videlicet Kaukarla, Koskis et Rwskulla, et in Parghaso vnum predium, dictum Pargasby, quod predium honorabilis vir dominus Andreas Diues eidem contulit altari; jtem granarium meum dictum Mækelborg vltra ampnem cum ortis duobus, vno prope granarium et altero ex opposito granarii ad latus ampnis situatis<note type="editorial" xml:lang="sv">Härvid är i marginalen anmärkt: Hic deficiunt prediorum nomina.</note>; jnsuper pro residencia ipsorum choralium memoratus dominus meus reuerendus domum seu curiam lapideam apud foueam, ex opposito fundi beati Bartholomej locatam, eidem altari de conssensu suj dicti venerabilis capituli irreuocabiliter incorporauit, prout in litteris suis desuper confectis plenius continetur, pro qua quidem curia et eiusdem redempcione cuidam Thome centum marcas et domino Gregorio Alueri sexaginta marcas sueuice monete vltra summan in litteris Swenonis aurifabri expressam de meis exsoluj. Jnsuper et fundicum primum, quem jam altarista beati Erici possidet in ortum inter domum Johannis aurifabri et predictam curiam sitam, commutauj, que quidem curia cum omnibus suis attinenciis pro memoratis choralibus in perpetuum est deputata. Et si ipsa infirmaria sacerdotum cassata aut anullata fuerit, quod Deus avertat, domum lapideam, quam a Philippo Kaland dudum emeram, eciam memorate capelle pro dictorum choralium sustentacione volo omnias habere incorporatam.</p>
-<p>Deinde<note type="editorial" xml:lang="sv">Hela detta stycke är i originalet skrifvet med ljusare bläck, men, som det synes, af samma hand som skrifvit öfriga delen af brefvet.</note> pro <transaction type="house">domo lapidea</transaction>, apud <landscape  cat="built" type="lot" >FIXME:fundicum</landscape> beate Katerine versus <landscape cat="natural" type="river">ampnem</landscape> erecta, et pro toto <transaction type="lot">fundico</transaction>, quem Iohannes aurifaber olim possedit, soluimus sibi primum xl marcas, deinde tradidimus sibi fundicum nostrum ad latus domus Eurardi cirograferi cum cellario murato et testudinato et centum marcis monete sweuicane. Item tradidimus altari sancti Erici <transaction type="lot">fundicum</transaction> nostrum paternum cum quatuor <transaction type="cabin">stubellis</transaction>, loco cuius recepimus paruam <transaction type="lot">fundici</transaction> beati Erici, in fundico omnium sanctorum memorato incorporatam.]</p>
+<p>Deinde<note type="editorial" xml:lang="sv">Hela detta stycke är i originalet skrifvet med ljusare bläck, men, som det synes, af samma hand som skrifvit öfriga delen af brefvet.</note> pro <transaction type="house">domo lapidea</transaction>, apud <landscape  cat="built" type="lot">fundicum</landscape> beate Katerine versus <landscape cat="natural" type="river">ampnem</landscape> erecta, et pro toto <transaction type="lot">fundico</transaction>, quem Iohannes aurifaber olim possedit, soluimus sibi primum xl marcas, deinde tradidimus sibi fundicum nostrum ad latus domus Eurardi cirograferi cum cellario murato et testudinato et centum marcis monete sweuicane. Item tradidimus altari sancti Erici <transaction type="lot">fundicum</transaction> nostrum paternum cum quatuor <transaction type="cabin">stubellis</transaction>, loco cuius recepimus paruam <transaction type="lot">fundici</transaction> beati Erici, in fundico omnium sanctorum memorato incorporatam.]</p>
 </edition>
 </document>
 
@@ -788,50 +763,12 @@ Allom them thetta breff kan forekoma kungør jac broder Olaff Gregersson, prior 
 </document>
 
 
-<document nr="53" type="" when="1455-05-19" where="Stockholm" link="SJb498">
-<![CDATA[https://books.google.fi/books?id=UQBLAAAAYAAJ&hl=fi&pg=PA244#v=onepage&q&f=false]]>
 
-<edition xml:lang="sv-x-old">
-
-<title>Ragwall torgilsson.</title>
-
-498. [Den 19 maj 1455]. Anno domini Mcdlquinto manedagen 
-næst epter erici stodh i radzstugwnne her <issuer status="burgher" gender="m" onlyone="y">Martin lyndorm</issuer> 
-folmektoger a abbadisonna wægna och mene conuentzsins wegna 
-i Nadendaal ok lot vp Ragwalle torgilssone tha borgara i Abo 
-et stenhus belægit i Stokholm østan mwr medh twa trægarda i 
-sama grendenne nidhan førscrifna stenhuset huilket stenhus och 
-trægarda fordom atte Mattis mackerland, gudh hans siell nade, 
-før huilket stenhus oc trægarda førnempde Ragwall torgilsson 
-haffde giffwet sit liggiande grundh i Abo och et landgotz i Halika 
-sokn førskrifna clostrena Nadendall til æuerdelige ægo och 
-ærw thenna twa gardana medh thera tompt i længdenne oppa 
-badha sidhor xlvij (47) alna, breeddin nidhantil medh druprumena 
-xvij (17) alna, offuon til xiiij (14) alna epter gamble alnenne. 
-Thenna længd och breedh hører badom trægardomen fra stenhusit 
-och nidher til then garden som næst mwrenum stadzsins 
-bygdher ær ok giorde førnempde her Martin lyndorm witherligit 
-oppa sama tijdh at førnempda closters førmen oc mene conuentit 
-i Nadendall waaro wæl øffuer eno medh førnempdom Ragwall 
-torgilssone vm førskrifna bytit swa at thøm wæl nøgde oppa 
-badha sidhor, thy ma han førskrifna stenhus medh førskrifna ij 
-trægarda och thompt eller grundwall i længd och breedh som nw 
-ær sacht och førscriffwit star och hans arffwingia epter hanom 
-haffwa nytia och bruca før sit rætta egit epter sinon fri wilia 
-vtan alt hinder til æwighen tijdh. Melis men her Martin lindorm 
-her Lambert wæstfal borgamestara Laurenz i Gammelby Anders 
-dobbin Anders fiskare och Per olsson borgara i førnempda Stochholm 
-ok gaff førnempde Ragwall torgilsson sin fridskylling her 
-wt <note type="FIXME ocrssä oli y">vppa</note> som laghen wtwisa. [s. 194].
-
-
-</edition>
-</document>
 
 <document nr="54" nrDF="3005" type="" when="1456-03-12" where="Turku" link="http://df.narc.fi/document/3005">
 <regesta editor="Hausen" nrFMU4="3005" xml:lang="sv">
 Åbo 12 mars 1456.
-<issuer status="burgher" gender="m" onlyone="n, fixme wheres + hustru">Ragvald Suurpää</issuer>, borgare i Åbo, tillbyter Nådendals kloster ett hus i Åbo samt Puotila gods i Haliko socken mot ett stenhus i Stockholm.
+<issuer status="burgher" gender="m" onlyone="y">Ragvald Suurpää</issuer>, borgare i Åbo, tillbyter Nådendals kloster ett hus i Åbo samt Puotila gods i Haliko socken mot ett stenhus i Stockholm.
 <folio>Original på pergament, med fem välbehållna signet (FMS n:o 338, 319, 337, 335 o. 336), svenska riksarkivet. Arwidssons Handlingar IV n:o 28.</folio>
 </regesta>
 
@@ -844,7 +781,7 @@ Jämför FMU 2628
 
 <edition editor="Hausen" xml:lang="sv-x-old">
 <title xml:lang="la">Not given</title>
-Alla the, som thetta breff höra æller see hælsar iak Ragwaldh Surepæ, borgare j Abo, kærlika met Gudhi. Thet skal allom witherligit wara, swa æpterkomandom som thöm nw æra, at iak kænnis met tesso mino oppno breffue mik haffwa giort met beradhno modhe oc samtykko met mynna hustrv godhwilia oc flere gode wener radhe j thenne godha manna nærwaru, som ær Jönis Frees, Hannes More ok Symon offuerskæræ, eth skælleghit ok stadugth jordhe bythe met reenliffues mænniskiom systrom ok brödhrom aff waro frw, sancte Anne ok sancte Birgitto clostre i Nadendal j swa matto, at iac vnnær thöm oc til æwerdelighe ægho vplather eth steenhws a kirkie gathunne i orden wiidh torghit oc ena fællebodh met tompt liggiandis öffwer aan jæmpt at sancti Olaffs closther, oc eth jordagotz, som ær vj stængher jordh offwer allan Potula by j Hallikko sokn liggiandhe, hwilkit iac köpte aff Iaco Potula oc aff hans hustrv, Margaretan, för i[½](c) marc swenska, som hans köpe breff ther ludher vppo, met allom thes tillaghom j wato oc törro, som ær akor oc ængh, hws oc jordh, skoghom oc skogxlutum, fiskewatnom, fæmarkom oc fægangom, tomptom oc tomptastadom, qwærnom oc qwærnastadom oc met allom androm tillagom oc wtwægom nær by oc fiærran, ængo wndantaghno, som ther aff alder tillighat haffuer oc æn tilliggher eller rættelica tilliggia bör, hwadh næmpne thet helst næmpnas kan; oc ther til haffwer iac, for:de Ragwaldh, köpt först aff Henric Tomanpoica j æng för vj mark, ij öre mynne, oc aff Jösse Mesala j ængh för v marc; jtem j lössörom j stuw för ij marc, j ria för ij marc oc j vxa för iij marc, iij köör för iiij marc, faar för xij öre oc vngh nöt för xij öre, for et steenhws i Stokholm met ij trægardha oc j bryggiahws, hwilkit for:de closther fik aff herre Hinric Makkarlandh, Gudh hans siæl nadhe, för ena iomfrv prouenth, som hether Elin Knutzdotter, huilkin han ingaff til Nadhendal met för:de steenhws til æwerdelica [ægho]. Oc ware thet swa, som Gudh forbiudhe, at noghot aff thenna for:de stykkiom æller gotze aff thy for:de Nadhendals closther met nokrom ræt aff ginge eller franklandadis(!), tha til bindher iac mic oc mina arffua at widherlæggia for:de closther swa mykit igen oc swa godhe læghe æller som swa mykit ræntar jnnan vj wikur næst æpther at nokot aff for:de stykkiom ær affgangit widh mina sannindh oc godha tro, oc ther til vprætta thöm allan then skada the kunna ther innan tagha. Jtem tesse æptherscriffna ære the ghodhe men, som haffwa offwer thetta köpit warit oc haffwa thet badhe sköt oc skælæt æpther ty war landz lagh wtwisar, swa som ær förskælmen jak, for:de Ragwaldh a mina wegna oc Philippus Iönisson aff closther wegna, skötningxmen Andris Olaffsson aff Halikko, Olaff j Tawla, Mattis Calo, Petar Papunen, Laurens Lokky, Josse Wirma, Jonis Kæraworen, Josse Staffansson, Niclis Payw, Clemet Ærlandsson, Niclis Wiala oc Jacu Potulan. Ty affhændher iac mic oc minom ærwingiom tesso forscriffno styckio oc tilægnar thöm för:de Nadandals closther til æwerdeligho ægho ohindradha oc oqwalt for mic oc allom arffwom oc æpterkomandom, æ hwa the helst wara kunna, æpther thenne dagh nytia oc bruka thöm æpther thera eghin wilia. Oc giffuer iak herretz höffdingianom j för:de hærede, som for:de Potula gotz liggher, oc borgamestara j Abo, ther for:da steenhws oc fællabodh staa, fulla makt met tesso samo breffue for:da stykkio met allom tillaghom stadught döma met skælom æpther ty landzlagh oc köpstadz ræt wtwisa. Til tessa förscriffna ærende mere wisso oc större förwarning tha haffuar(!) iac, för:de Ragwaldh Surepä, latit witherligha hängia mit jncigle för thetta breff, oc ther til bidher iak beeskelighe mæn oc hedherlica som ærw Albrict Nydhentorp, borgamestare j Abo, Jonis Frees, Jacob Swart oc Laurens Iacobsson, borgare j sama stadz, at the hængia thera jncigla til witnisbördh oc stadhfestilse före thetta breff, som giffuit ær j Abo aarom æptir Gudz byrdh mcdlvj, vppa sancti Gregorij pawe dagh.
+Alla the, som thetta breff höra æller see hælsar iak Ragwaldh Surepæ, borgare j Abo, kærlika met Gudhi. Thet skal allom witherligit wara, swa æpterkomandom som thöm nw æra, at iak kænnis met tesso mino oppno breffue mik haffwa giort met beradhno modhe oc samtykko met mynna hustrv godhwilia oc flere gode wener radhe j thenne godha manna nærwaru, som ær Jönis Frees, Hannes More ok Symon offuerskæræ, eth skælleghit ok stadugth jordhe bythe met reenliffues mænniskiom systrom ok brödhrom aff waro frw, sancte Anne ok sancte Birgitto clostre i Nadendal j swa matto, at iac vnnær thöm oc til æwerdelighe ægho vplather eth <transaction type="house">steenhws</transaction> a <landscape cat="built" type="street">kirkie gathunne</landscape> i orden wiidh torghit oc ena <transaction type="building">fællebodh</transaction> met <transaction type="lot">tompt</transaction> liggiandis öffwer aan jæmpt at <landscape cat="built" type="convent">sancti Olaffs closther</landscape>, oc eth jordagotz, som ær vj stængher jordh offwer allan Potula by j Hallikko sokn liggiandhe, hwilkit iac köpte aff Iaco Potula oc aff hans hustrv, Margaretan, för i[½](c) marc swenska, som hans köpe breff ther ludher vppo, met allom thes tillaghom j wato oc törro, som ær akor oc ængh, hws oc jordh, skoghom oc skogxlutum, fiskewatnom, fæmarkom oc fægangom, tomptom oc tomptastadom, qwærnom oc qwærnastadom oc met allom androm tillagom oc wtwægom nær by oc fiærran, ængo wndantaghno, som ther aff alder tillighat haffuer oc æn tilliggher eller rættelica tilliggia bör, hwadh næmpne thet helst næmpnas kan; oc ther til haffwer iac, for:de Ragwaldh, köpt först aff Henric Tomanpoica j æng för vj mark, ij öre mynne, oc aff Jösse Mesala j ængh för v marc; jtem j lössörom j stuw för ij marc, j ria för ij marc oc j vxa för iij marc, iij köör för iiij marc, faar för xij öre oc vngh nöt för xij öre, for et steenhws i Stokholm met ij trægardha oc j bryggiahws, hwilkit for:de closther fik aff herre Hinric Makkarlandh, Gudh hans siæl nadhe, för ena iomfrv prouenth, som hether Elin Knutzdotter, huilkin han ingaff til Nadhendal met för:de steenhws til æwerdelica [ægho]. Oc ware thet swa, som Gudh forbiudhe, at noghot aff thenna for:de stykkiom æller gotze aff thy for:de Nadhendals closther met nokrom ræt aff ginge eller franklandadis(!), tha til bindher iac mic oc mina arffua at widherlæggia for:de closther swa mykit igen oc swa godhe læghe æller som swa mykit ræntar jnnan vj wikur næst æpther at nokot aff for:de stykkiom ær affgangit widh mina sannindh oc godha tro, oc ther til vprætta thöm allan then skada the kunna ther innan tagha. Jtem tesse æptherscriffna ære the ghodhe men, som haffwa offwer thetta köpit warit oc haffwa thet badhe sköt oc skælæt æpther ty war landz lagh wtwisar, swa som ær förskælmen jak, for:de Ragwaldh a mina wegna oc Philippus Iönisson aff closther wegna, skötningxmen Andris Olaffsson aff Halikko, Olaff j Tawla, Mattis Calo, Petar Papunen, Laurens Lokky, Josse Wirma, Jonis Kæraworen, Josse Staffansson, Niclis Payw, Clemet Ærlandsson, Niclis Wiala oc Jacu Potulan. Ty affhændher iac mic oc minom ærwingiom tesso forscriffno styckio oc tilægnar thöm för:de Nadandals closther til æwerdeligho ægho ohindradha oc oqwalt for mic oc allom arffwom oc æpterkomandom, æ hwa the helst wara kunna, æpther thenne dagh nytia oc bruka thöm æpther thera eghin wilia. Oc giffuer iak herretz höffdingianom j för:de hærede, som for:de Potula gotz liggher, oc borgamestara j Abo, ther for:da steenhws oc fællabodh staa, fulla makt met tesso samo breffue for:da stykkio met allom tillaghom stadught döma met skælom æpther ty landzlagh oc köpstadz ræt wtwisa. Til tessa förscriffna ærende mere wisso oc större förwarning tha haffuar(!) iac, för:de Ragwaldh Surepä, latit witherligha hängia mit jncigle för thetta breff, oc ther til bidher iak beeskelighe mæn oc hedherlica som ærw Albrict Nydhentorp, borgamestare j Abo, Jonis Frees, Jacob Swart oc Laurens Iacobsson, borgare j sama stadz, at the hængia thera jncigla til witnisbördh oc stadhfestilse före thetta breff, som giffuit ær j Abo aarom æptir Gudz byrdh mcdlvj, vppa sancti Gregorij pawe dagh.
 </edition>
 </document>
 
@@ -869,56 +806,7 @@ Vitherligit ware thet allom them thetta breff see eller hora ath jak Olaff Jonis
 </edition>
 </document>
 
-<document nr="56" type="" when="1458-10-17" where="Kastelholm" link="REA587">
-    <regesta editor="Hausen" nrREA="587" xml:lang="sv">
-        587. 17 Oktober 1458.  Kastelholm.
 
-        <issuer status="nobleman" gender="m" onlyone="y">Magnus Frille</issuer> upplåter åt sin syster Margit sin del i en tomt uti Åbo.
-    <folio>Fol. 195.</folio>
-    </regesta>
-    
-    <regesta editor="Kokkonen" xml:lang="en">
-        Magnus Frille conveys to his sister Margit his share of a lot
-        in Abo.
-        
-        FIXME:
-        1458
-        Notes on an agreement between tenants on episcopal land
-        in Kokemäki etc.
-    </regesta>
-    
-<edition editor="Hausen" xml:lang="sv-x-old">
-<title xml:lang="la">Super <transaction type="lot">fundico</transaction> beate Katherine iuxta <landscape cat="natural" type="river">ampnem</landscape>.</title>
-Alla the dandemen thetta breff høre eller see helsar jach Magnus Frille
-kerlige met Gudh och kennis jach met myno thenne opne breffue och fulleliga
-tilstoor at jach hauer wnt myn syster Margite swa mykit som mik retteliga bøør
-oc vpa myn deel løper j the <transaction type="lot">tompthena</transaction> j Abo met allom kerlech oc godwilia.
-Tiil mera wisso tricker jach myt jncigle aa righen paa thetta breff, scriffuit paa
-Kastilholm anno Domini mcdlviij tisdagen næst epter Calixti.
-
-FIXME:
-1458.
-
-Anteckning om en öfverenskommelse med biskopslandbönderna i Kumo, m. m. — se n. 399, sid. 302.
-</edition>
-</document>
-
-<document nr="57" nrDF="3265" type="" when="1465-08-07" where="Turku" link="http://df.narc.fi/document/3265">
-<regesta editor="Hausen" nrFMU4="3265" xml:lang="sv">
-Åbo 7 augusti 1465.
-<issuer status="burgher" gender="m" onlyone="y">Ravald Suurpää</issuer>, som åt Henrik Finkenberg för 200 mark sålt Taipale gods å Hirvensalo i S:t Marie socken, men af denne för 60 mark köpt en gård i Åbo, upplåter åt Brand Lampa, åt hvilken Finkenberg öfverfört förstnämnda köp, ifrågavarande Taipale gods.
-<folio>Original på pergament, med välbehållna signet (FMS n:o 338, 330, 345 och 344), svenska riksarkivet. Arwidssons Handlingar V n:o 15.</folio>
-</regesta>
-
-<regesta source="SDHK" nrSDHK="28454" xml:lang="sv">
-Ravald Suurpää, som till Henrik Finkenberg sålt Taipale gods å Hirvensalo i S:t Marie socken men av denne köpt en gård i Åbo, upplåter åt Brand Lampa, åt vilken Finkenberg överfört förstnämnda köp, ifrågavarande Taipale gods.
-</regesta>
-
-<edition editor="Hausen" xml:lang="sv-x-old">
-<title xml:lang="la">Not given</title>
-For allom them thetta breff fore koma kan kennes jak Ravall Swripæ met thette mytt opna breff, at jak haffuer giort eth lagligit jordha köp ok skipte met beskedeligom manne Henrik Finkenbergh j swodana mattho, at jak wpleth honom Taypala godzs, liggende j Hyrwesala j Warfrw kirke soken, for ij(c) mark, ok ther till skulle jak honom giffwa lx mark swenska till godho atnöghio for then gardhen, jak nw j sijther j Abo, som Hanes Flykke fordhom atthe; hulkit köp ok skipte fornempde Henrik Finkenbergh wnte ok wpleth Brand Lampa for ij(c) ok x mark swenska peninga. Thy affhender iak mik ok mynom arffwom fornempdha Taypala godzs met allom tillagom, hws, tompt, iordh, aker, ængh, skogh, fiskewatn ok qwernstadom, engte wndan tagit, som ther wndher aff aldher haffuer tilligadh, som æra vij stengher offuer allan byn, wplather ok tileghnar Brand Lampa ok hans arffuom til æwerdeliga æghio met swodana forordh ok wijlkor, at om honom nogoth aff ginge eller myndzskades j for:de Taypala godzs met noghon rætgongh j noghra mattho, som han swa lagliga ok skelliga fongit haffuer, thet bepligtar iak mik ok mynom arffuom honom ok hans ærffwinghiom wpfylla til godho athnöghio. Offuer thetta köp ok skipte wara thennæ epterscriffna godha mæn Henrik Finkenbergh, Hanes Skönebergh ok wnga Olaff Rebbe. Til ytermera stadfestilse ok högre bethygilse bidher iak the forscriffna godha mæn at hengia theris incigle wndher thetta breff til witnisbyrdh met myno eghno incigle, som scriffuit ok giffuit ær j Abo anno Domini mcdlxv, feria qwarta ante festum beati Tiburcij.
-</edition>
-</document>
 
 <document nr="58" nrDF="3282" type="" when="1465" where="Turku" link="http://df.narc.fi/document/3282">
 <regesta editor="Hausen" nrREA="604" xml:lang="sv">
@@ -1507,7 +1395,7 @@ Jtem vna curia Hamarke, quam Arnaldus Fresykinj legauit.
 Jtem vna curia in parrochia sancti Martinj, quam dominus Henricus episcopus
 legauit.
 Jtem vna curia jn ciuitate Aboensi.
-Jtem spacium vnius <transaction type="FIXME">opelle</transaction> in <landscape cat="built" type="market square">foro</landscape> situm, Gozelinus Pron legauit.
+Jtem <transaction type="shop ">spacium vnius opelle</transaction> in <landscape cat="built" type="market square">foro</landscape> situm, Gozelinus Pron legauit.
 Jtem vnum pratum in Kærkis de x plaustris fenj.
 Jtem ij ciste.
 Jtem i pellis vrsina.
