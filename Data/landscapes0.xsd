@@ -188,32 +188,34 @@
                             <xs:element name="note" minOccurs="0" maxOccurs="unbounded">
                               <xs:complexType mixed="true">
                                 <xs:sequence minOccurs="0">
-                                  <xs:element name="landscape" minOccurs="0" maxOccurs="unbounded">
+                                  <xs:choice maxOccurs="unbounded">
+                                    <xs:element name="landscape" minOccurs="0" maxOccurs="unbounded">
+                                      <xs:complexType>
+                                        <xs:simpleContent>
+                                          <xs:extension base="xs:string">
+                                            <xs:attribute name="cat" use="optional">
+                                              <xs:simpleType>
+                                                <xs:restriction base="xs:string">
+                                                  <xs:enumeration value="natural"/>
+                                                  <xs:enumeration value="built"/>
+                                                </xs:restriction>
+                                              </xs:simpleType>
+                                            </xs:attribute>
+                                            <xs:attribute name="type" type="xs:string" use="optional" />
+                                          </xs:extension>
+                                        </xs:simpleContent>
+                                      </xs:complexType>
+                                    </xs:element>
+                                    <xs:element name="transaction" minOccurs="0" maxOccurs="unbounded">
                                     <xs:complexType>
                                       <xs:simpleContent>
                                         <xs:extension base="xs:string">
-                                          <xs:attribute name="cat" use="optional">
-                                            <xs:simpleType>
-                                              <xs:restriction base="xs:string">
-                                                <xs:enumeration value="natural"/>
-                                                <xs:enumeration value="built"/>
-                                              </xs:restriction>
-                                            </xs:simpleType>
-                                          </xs:attribute>
                                           <xs:attribute name="type" type="xs:string" use="optional" />
                                         </xs:extension>
                                       </xs:simpleContent>
                                     </xs:complexType>
                                   </xs:element>
-                                  <xs:element name="transaction" minOccurs="0" maxOccurs="unbounded">
-                                  <xs:complexType>
-                                    <xs:simpleContent>
-                                      <xs:extension base="xs:string">
-                                        <xs:attribute name="type" type="xs:string" use="optional" />
-                                      </xs:extension>
-                                    </xs:simpleContent>
-                                  </xs:complexType>
-                                </xs:element>
+                                </xs:choice>
                                 </xs:sequence>
                                 <xs:attribute name="type" type="xs:string" use="optional" />
                                 <xs:attribute ref="xml:lang" use="optional" />
