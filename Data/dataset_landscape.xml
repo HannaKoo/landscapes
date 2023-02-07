@@ -12,7 +12,7 @@
 <regesta source="SDHK" nrSDHK="9712" xml:lang="sv">Åboborgaren Henneke Narve och hans hustru Lucia skänker till S:ta Katarinas altare i Åbo domkyrka den gård de nu bor i på östra sidan om domkyrkan, jämte en kålgård, under förutsättning att de under sin livstid får behålla äganderätten och att prebendaten vid altaret anbefaller dem och övriga som givit gåvor i sina böner.</regesta>
 
 <edition editor="Hausen" xml:lang="la">
-<title>Super <landscape cat="built" type="building" transaction="object">fundico</landscape> in quo residet altarista sancte Katherine.</title>
+<title>Super <transaction type="lot">fundico</transaction> in quo residet altarista sancte Katherine.</title>
     Omnibus presens scriptum cernentibus Hennikinus Nærffwe, ciuis    Aboensis
     , salutem in Domino sempiternam. Nouerint vniuersi, quod ego et Lucia, vxor mea,
    curiam
@@ -43,7 +43,7 @@ Utfärdaren beseglar.
 </regesta>
 
 <edition editor="Hausen" xml:lang="la">
-Omnibus presens scriptum cernentibus Robertus, ciuis Aboensis, salutem in Domino sempiternam. Tenore presencium constare volo omnibus euidenter, me nobili viro Sunonj Hokonson omnes <landscape cat="built" type="building" transaction="object" >domos</landscape> vendidisse in <landscape cat="built" type="building">ffundo</landscape> <landscape  cat="built" type="building">curie</landscape> mee tunc edificatos et non ipsum <landscape cat="built"  type="building">fundum</landscape>, quoniam quidem <landscape cat="built" type="building">ffundum</landscape> possidet et ab antiquo possederat <landscape cat="built" type="building">ecclesia chatedralis</landscape>. Scriptum <place issued="Turku">Abo</place> anno Domini m°ccc° lxxix, dominica infra octauas beati Laurencii. In huius testimonium sigillum meum presentibus est appensum.
+Omnibus presens scriptum cernentibus Robertus, ciuis Aboensis, salutem in Domino sempiternam. Tenore presencium constare volo omnibus euidenter, me nobili viro Sunonj Hokonson omnes <transaction type="house">domos</transaction> vendidisse in <landscape cat="built" type="building">ffundo</landscape> <landscape  cat="built" type="building">curie</landscape> mee tunc edificatos et non ipsum <landscape cat="built"  type="building">fundum</landscape>, quoniam quidem <landscape cat="built" type="building">ffundum</landscape> possidet et ab antiquo possederat <landscape cat="built" type="building">ecclesia chatedralis</landscape>. Scriptum <place issued="Turku">Abo</place> anno Domini m°ccc° lxxix, dominica infra octauas beati Laurencii. In huius testimonium sigillum meum presentibus est appensum.
 </edition>
 </document>
 
@@ -906,11 +906,11 @@ Vitherligit ware thet allom them thetta breff see eller hora ath jak Olaff Jonis
     </regesta>
     
 <edition editor="Hausen" xml:lang="sv-x-old">
-<title xml:lang="la">Super fundico beate Katherine iuxta ampnem.</title>
+<title xml:lang="la">Super <transaction type="lot">fundico</transaction> beate Katherine iuxta <landscape cat="natural" type="river">ampnem</landscape>.</title>
 Alla the dandemen thetta breff høre eller see helsar jach Magnus Frille
 kerlige met Gudh och kennis jach met myno thenne opne breffue och fulleliga
 tilstoor at jach hauer wnt myn syster Margite swa mykit som mik retteliga bøør
-oc vpa myn deel løper j the tompthena j Abo met allom kerlech oc godwilia.
+oc vpa myn deel løper j the <transaction type="lot">tompthena</transaction> j Abo met allom kerlech oc godwilia.
 Tiil mera wisso tricker jach myt jncigle aa righen paa thetta breff, scriffuit paa
 Kastilholm anno Domini mcdlviij tisdagen næst epter Calixti.
 
@@ -1279,7 +1279,7 @@ Erland Andersson and Lasse Frans accept the donation by their late brother, Mast
 
 <edition editor="Hausen" xml:lang="sv-x-old">
 <title xml:lang="la">Super <transaction type="house">curia</transaction> beate Katerine apud <landscape cat="natural" type="river">ampnem</landscape>.</title>
-Ffore alle the dande men thetta breff hender fore koma kennomps wi epter:ne Erland Andrisson oc Lasse Frans thet wi haffuom samtikt wors kere broders testament, mester Haquons, Gud hans siæl nade, om then gordhen som han gaff tiil sancte Katerine altare fore sig oc andra wore wener, som framlidne ære eller her epter aff kallade worda, vpa thet at wi oc the for:de wiliom gerna deelaktoga worda aff the andeliga gerninga som wiid forscriffne altare Gudi oc sancte Katerine oc allom Gudz helgom giord ære sidhan the prebenda wart først skickat och hær epter gørs swa lenge prebendan stoor. Scriffuit j Abo anno Domini mcdlxxxvj om sancte Gregers dag, vnder begges wore jncigle.
+Ffore alle the dande men thetta breff hender fore koma kennomps wi epter:ne Erland Andrisson oc Lasse Frans thet wi haffuom samtikt wors kere broders testament, mester Haquons, Gud hans siæl nade, om then <transaction type="house">gordhen</transaction> som han gaff tiil sancte Katerine altare fore sig oc andra wore wener, som framlidne ære eller her epter aff kallade worda, vpa thet at wi oc the for:de wiliom gerna deelaktoga worda aff the andeliga gerninga som wiid forscriffne altare Gudi oc sancte Katerine oc allom Gudz helgom giord ære sidhan the prebenda wart først skickat och hær epter gørs swa lenge prebendan stoor. Scriffuit j Abo anno Domini mcdlxxxvj om sancte Gregers dag, vnder begges wore jncigle.
 </edition>
 </document>
 
@@ -1302,8 +1302,8 @@ Bishop Konrad and the Diocesan Chapter of Abo enter in­to and confirm an exchan
 </regesta>
 
 <edition editor="Hausen" xml:lang="sv-x-old">
-<title xml:lang="la">Super curia sancti Erici jn vico ecclesie.</title>
-Vij Kort, met Gudz [nadh biskop i Abo,] oc capitulum ther sama stadz kennomps och kungørom at wj haffuom samtigth, fulbordat oc stadfæst the gordha och tompthe skipte som giordh ærw mellan all Gudz helgone altare, sancte Ericx altare och Hans guldsmedh j Abo, swa at Hannus anamade tiil sigh sancte Ericx tompth pa hørnet nær hans gambla tompth oc han vploth all helgon then tomptena, som ligger mellan hans gord oc alle Gudz helgone stenhws som ære <note type="editorial">Tomrum i handskriften.</note> bredh oc sancte Ericx altare beholle alle Gudz helgone gord, som hustrv Elin aff Serkilax och hennes ærwingia hade giffuit vnder for:de alle Gudz helgone altare, huilken tompt ær <note type="editorial">Tomrum i handskriften.</note> breedh och <note type="editorial">Tomrum i handskriften.</note> vpa længdhen. Tiil mere wisso och vitnisbyrdh latom wi hengia wort secret nedhan for thetta breff. Datum Abo anno Domini mcdlxxx octauo, prima die mensis Aprilis, etc:a.
+<title xml:lang="la">Super <transaction type="house">curia</transaction> sancti Erici jn vico <landscape cat="built" type="church">ecclesie</landscape>.</title>
+Vij Kort, met Gudz [nadh biskop i Abo,] oc capitulum ther sama stadz kennomps och kungørom at wj haffuom samtigth, fulbordat oc stadfæst the gordha och tompthe skipte som giordh ærw mellan all Gudz helgone altare, sancte Ericx altare och Hans guldsmedh j Abo, swa at Hannus anamade tiil sigh sancte Ericx <transaction type="lot">tompth</transaction> pa hørnet nær hans gambla tompth oc han vploth all helgon then <transaction type="lot">tomptena</transaction>, som ligger mellan hans gord oc alle Gudz helgone stenhws som ære <note type="editorial">Tomrum i handskriften.</note> bredh oc sancte Ericx altare beholle alle Gudz helgone <transaction type="house">gord</transaction>, som hustrv Elin aff Serkilax och hennes ærwingia hade giffuit vnder for:de alle Gudz helgone altare, huilken tompt ær <note type="editorial">Tomrum i handskriften.</note> breedh och <note type="editorial">Tomrum i handskriften.</note> vpa længdhen. Tiil mere wisso och vitnisbyrdh latom wi hengia wort secret nedhan for thetta breff. Datum Abo anno Domini mcdlxxx octauo, prima die mensis Aprilis, etc:a.
 </edition>
 </document>
 
@@ -1368,7 +1368,7 @@ the gieldh at sware, som lagen sigie.</p>
 <title>Laurens suerdslipper j Abo, Benct Laurensson j Abo.</title>
 <p>Samme dach stode Laurens swerdsliper, borgere j Abo, for
 oss j retten och loth vp Benct Laurensson, borgere ibidem, en
-gardh medh tompten, j Abo liggiendes hart wiidh clostridh,
+<transaction type="house">gardh</transaction> medh <transaction type="lot">tompten</transaction>, j Abo liggiendes hart wiidh <landscape cat="built" type="convent">clostridh</landscape>,
 som forscriffne Benct Laurensson nw besitter och fornempde
 Laurens suerdsliper til foren besitit hade, huilken gardh han
 hanom salt hade for xlviij (48) marck. Aff samma summa kendes
@@ -1398,7 +1398,7 @@ Staffan Koute och Margit Olofsdotter erkänner sig ha givit sin måg Sigfrid Kur
 
 <edition editor="Hausen" xml:lang="sv-x-old">
 <title xml:lang="la"></title>
-Ffor allom them, som thetta breff kan fore koma, kennoms ok kungörom wij epterscriffne ok fulkomliga tiilstom Staffan Nilisson Kowte ok Margit Oleffzdotter, ath arom epter Herrens byrd mcdxcj°, then tiid wij gaffuom oss intiill sancte Birgitte kloster j Nadendall, leffdum wij ok wplathum met godhum wilia ok beradhno mode met wore ærffuinges wener ok frendres samtykkio allan waar gaard j Abo, liggiandis wiid Fæægathen, som wij haffuom her tiill booth wthi, wnder woor ælskelighen mogh Sigfrid Kurin, borgmestare j Abo, ok hans hustrv, waar kære dotter Katerina, ok hennis arffuom tiill æwerdelige ægho met swadana skell ok fordhord, ath the ok theris epterkomande skulu oorliga giffua aff forrördhe gaard ij mark penningæ tiill sancte Anne messo, oppo sancte Anna altare j Abo domkirkio, som skall orligha siungande holdas alla tiisdaga tiill æwigh tiidh for wore ok wore foreldris ok weners siæla, som fram ære lidhne; skall ok höre sama gaardhen tiill thenne tompthen, som ligger j mellan Mikkiill skredares goordh ok Hemingh Suripäs tompt, bade met lengd och breegd som her epter scripnad staar: först oppo leengdene wiidh Fægathunne li[½] alin; jtem wppo breegdene mothe hustrv Kaderine Tyllemans fra Fæægathen ok tiill Sigfrid Larenssons tompt xlviij alna.; jtem fran hustrv Kaderine Tyllemans ok tiill Offuergathen lxxix alna; jtem langx offuer gatthen moth Wordbærgit xxv alna. Skedde thet ok swa, ath for:de gaard kome frömande men j hender epter theris död, tha skulle the giffua ther wtaff tiill for:de messo, ssom forscriffuat staar iiij marker oorliga. Fframdelis haffue wij wnth ok giffuit tiill for:de sancte Anna messor wphelde ij steen boder met iij kellare, huilka som liggiæ wnder thet steenhusit wppo Kirkiegathen j öster hörnet, then ena bodhen moth Kirkiegathen ok then andra j hörnet, for huilkæ boder ok kellare skall sancte Anne gillisbroder forraada met formyndare, ok the andre ij boder wnder for:de steenhusit mot Tauastgathen skulu höra sancte Birgittis klöster tiill j Nadendall met the rentha ther aff gaar, ok systerna ok bröderna j Nadendall skulu ther fore rada. Fframdelis kennis ok kungör jak Staffan etc., ath enghin aff myna ærffuingia maa eller skule nogat tiill taall haffua tiill mik eller min hustrv eller hennis ærffuingia om nogra arffdelæ, antinge löst eller fast, epther thenne dagh, thy ath jak haffuer them fullelige fornögt bode for löst ok fast offuer ok ekke footh, ok mere en them retthelica borde haffua. Tiill mere wisso ok withnisbyrd bidiom wij werdughin fader j Gudh biscop Magnus j Abo om hans secrete ok borgmestare ok rodmen om stadzens jncigle ath hengia nidhen for thetta breff met myno eghno jncigle, som scriffuit ær j Abo sunnedagen nest epther Bortolomej anno vt supra.
+Ffor allom them, som thetta breff kan fore koma, kennoms ok kungörom wij epterscriffne ok fulkomliga tiilstom Staffan Nilisson Kowte ok Margit Oleffzdotter, ath arom epter Herrens byrd mcdxcj°, then tiid wij gaffuom oss intiill sancte Birgitte kloster j Nadendall, leffdum wij ok wplathum met godhum wilia ok beradhno mode met wore ærffuinges wener ok frendres samtykkio allan waar <transaction type="house">gaard</transaction> j Abo, liggiandis wiid <landscape cat="built" type="street">Fæægathen</landscape>, som wij haffuom her tiill booth wthi, wnder woor ælskelighen mogh Sigfrid Kurin, borgmestare j Abo, ok hans hustrv, waar kære dotter Katerina, ok hennis arffuom tiill æwerdelige ægho met swadana skell ok fordhord, ath the ok theris epterkomande skulu oorliga giffua aff forrördhe gaard ij mark penningæ tiill sancte Anne messo, oppo sancte Anna altare j Abo domkirkio, som skall orligha siungande holdas alla tiisdaga tiill æwigh tiidh for wore ok wore foreldris ok weners siæla, som fram ære lidhne; skall ok höre sama gaardhen tiill thenne <transaction type="lot">tompthen</transaction>, som ligger j mellan Mikkiill skredares goordh ok Hemingh Suripäs tompt, bade met lengd och breegd som her epter scripnad staar: först oppo leengdene wiidh <landscape cat="built" type="street">Fægathunne</landscape> li[½] alin; jtem wppo breegdene mothe hustrv Kaderine Tyllemans fra Fæægathen ok tiill Sigfrid Larenssons tompt xlviij alna.; jtem fran hustrv Kaderine Tyllemans ok tiill <landscape type="street">Offuergathen</landscape> lxxix alna; jtem langx offuer <landscape cat="built" type="street">gatthen</landscape> moth <landscape cat="natural" type="hill">Wordbærgit</landscape> xxv alna. Skedde thet ok swa, ath for:de gaard kome frömande men j hender epter theris död, tha skulle the giffua ther wtaff tiill for:de messo, ssom forscriffuat staar iiij marker oorliga. Fframdelis haffue wij wnth ok giffuit tiill for:de sancte Anna messor wphelde ij <transaction type="shop">steen boder</transaction> met iij <transaction type="cellar">kellare</transaction>, huilka som liggiæ wnder thet steenhusit wppo <landscape cat="built" type="street">Kirkiegathen</landscape> j öster hörnet, then ena bodhen moth Kirkiegathen ok then andra j hörnet, for huilkæ boder ok kellare skall sancte Anne gillisbroder forraada met formyndare, ok the andre ij boder wnder for:de steenhusit mot <landscape cat="built" type="street">Tauastgathen</landscape> skulu höra sancte Birgittis klöster tiill j Nadendall met the rentha ther aff gaar, ok systerna ok bröderna j Nadendall skulu ther fore rada. Fframdelis kennis ok kungör jak Staffan etc., ath enghin aff myna ærffuingia maa eller skule nogat tiill taall haffua tiill mik eller min hustrv eller hennis ærffuingia om nogra arffdelæ, antinge löst eller fast, epther thenne dagh, thy ath jak haffuer them fullelige fornögt bode for löst ok fast offuer ok ekke footh, ok mere en them retthelica borde haffua. Tiill mere wisso ok withnisbyrd bidiom wij werdughin fader j Gudh biscop Magnus j Abo om hans secrete ok borgmestare ok rodmen om stadzens jncigle ath hengia nidhen for thetta breff met myno eghno jncigle, som scriffuit ær j Abo sunnedagen nest epther Bortolomej anno vt supra.
 </edition>
 </document>
 
@@ -1423,8 +1423,8 @@ Notification of an exchange of land carried out in the pres­ence of a number of
 </regesta>
 
 <edition editor="Hausen" xml:lang="sv-x-old">
-<title xml:lang="la">Super permutacione curie et fundici Menarth etc:a cum ecclesia facta.</title>
-Aarum epther Herrens byrdh mdix, torsdagen nest epter sancti Gregorij dagh, wore tæsse eptherscrifne gode men offuer een forlikan oc eeth bythe j mellen domkircken pa then eno oc j mellen Menarth glasmesther oc hans dotthror Margareta oc Kaderin pa then annan sidho om nogre tompther, hwss oc gordher, som the bytthe oc skiffte sigh j mellen, som ære <issuer status="burgher" gender="m" onlyone="n">Nielss scriffuare, Nielss Mwraynen, Michel Lappalaynen, Peder offuerskærare</issuer>, radmen her j Abo, oc <issuer status="burgher" gender="m" onlyone="n">Sigfridh Swartis oc Marcus Andersson</issuer>, borgare ther same stadz. Først skattadhe the tompthen ther Menart bodde wid commvne met steenhwss oc kellare etc:a ffør ccxxx marker oc een lithen tompt ther strax nær, som hørdde hustrw Margareta enkannelige til oc war løst fron sancte Vrsule, then skattadhe the for lx marker. Jtem ther aa mooth skattadhe the ij kirkiones tompther met steenhwss oc kellare etc:a, først litzle Worefrwgarden, som kirkin fik aff Knwt Posze, liggendis ginmooth Gertrud Karwotaske paa Aagathan<note type="editorial">Härtill ändradt från Fagatan (ͻ: Fægatan).</note>, før cxl marker, huilken tompt oc gardh anamedh før:de Menart oc hans dotter Kaderin før theris andell oc xxxiij marker denarer ther til, huilke the finge j gode redho, førthy them borde før theris deell clxxiij marker. Item swa skattadhe the før:de gode men een tompt met steenhws oc kellare etc:a pa Tawestgathwn, som kircken fik aff hustrw Kaderin Grottens, for cxxx marker. Then gardhen anamedh hustrw Margarita før hennes deell met hennes husbondis Henrikx jaa oc samtycke, oc honom eller henne bør giffwa sancte Henrik j moet xiij marker. Theris deell j bade for:de theris tomther løper cxvij marker; swa at her epter scall kircken eller preste commune friith oc qwith beholda til ewigh tiidt the før:de twa tompther som Menart met hans dottror aatthe, oc forscr:ne Menart met syne dotthror oc theris erffuinge scule beholle the forscr:ne kirckens tompther oc til ewiigh tiid. Thenne førscr:ne wenlige bythe oc forliiken forkynnedhe for:de gode men Nielss scriffware etc:a førsthe radzstwghw dagh ther epter oc lathe kome j stadzens tænckebook met badhe parthernis samtycke oc jaa, huilke ta nærwore aa kirkens wegna, hedherligen herre mester Henrik Wenne, domprowest j Abo, oc Menarth glasmesther aa syne oc syns barns wegna met syn maagh Henrik. Acta sunt hec die et loco quibus supra.
+<title xml:lang="la">Super permutacione <transaction type="house">curie</transaction> et <transaction type="lot">fundici</transaction> Menarth etc:a cum ecclesia facta.</title>
+Aarum epther Herrens byrdh mdix, torsdagen nest epter sancti Gregorij dagh, wore tæsse eptherscrifne gode men offuer een forlikan oc eeth bythe j mellen domkircken pa then eno oc j mellen Menarth glasmesther oc hans dotthror Margareta oc Kaderin pa then annan sidho om nogre <transaction type="lot">tompther</transaction>, <transaction type="house">hwss</transaction> oc <transaction type="house">gordher</transaction>, som the bytthe oc skiffte sigh j mellen, som ære <issuer status="burgher" gender="m" onlyone="n">Nielss scriffuare, Nielss Mwraynen, Michel Lappalaynen, Peder offuerskærare</issuer>, radmen her j Abo, oc <issuer status="burgher" gender="m" onlyone="n">Sigfridh Swartis oc Marcus Andersson</issuer>, borgare ther same stadz. Først skattadhe the tompthen ther Menart bodde wid <landscape cat="built" type="house of the presbyter community">commvne</landscape> met <transaction type="house">steenhwss</transaction> oc <transaction type="cellar">kellare</transaction> etc:a ffør ccxxx marker oc een lithen <transaction type="lot">tompt</transaction> ther strax nær, som hørdde hustrw Margareta enkannelige til oc war løst fron sancte Vrsule, then skattadhe the for lx marker. Jtem ther aa mooth skattadhe the ij kirkiones <transaction type="lot">tompther</transaction> met <transaction type="house">steenhwss</transaction> oc <transaction type="cellar">kellare</transaction> etc:a, først litzle <transaction type="garden">FIXME:Worefrwgarden</transaction>, som kirkin fik aff Knwt Posze, liggendis ginmooth Gertrud Karwotaske paa <landscape cat="built" type="street">Aagathan</landscape><note type="editorial">Härtill ändradt från <landscape cat="built" type="street">Fagatan</landscape> (ͻ: Fægatan).</note>, før cxl marker, huilken tompt oc gardh anamedh før:de Menart oc hans dotter Kaderin før theris andell oc xxxiij marker denarer ther til, huilke the finge j gode redho, førthy them borde før theris deell clxxiij marker. Item swa skattadhe the før:de gode men een <transaction type="loy">tompt</transaction> met <transaction type="house">steenhws</transaction> oc <transaction type="cellar">kellare</transaction> etc:a pa <landscape cat="built" type="street">Tawestgathwn</landscape>, som kircken fik aff hustrw Kaderin Grottens, for cxxx marker. Then gardhen anamedh hustrw Margarita før hennes deell met hennes husbondis Henrikx jaa oc samtycke, oc honom eller henne bør giffwa sancte Henrik j moet xiij marker. Theris deell j bade for:de theris tomther løper cxvij marker; swa at her epter scall kircken eller preste commune friith oc qwith beholda til ewigh tiidt the før:de twa tompther som Menart met hans dottror aatthe, oc forscr:ne Menart met syne dotthror oc theris erffuinge scule beholle the forscr:ne kirckens tompther oc til ewiigh tiid. Thenne førscr:ne wenlige bythe oc forliiken forkynnedhe for:de gode men Nielss scriffware etc:a førsthe radzstwghw dagh ther epter oc lathe kome j stadzens tænckebook met badhe parthernis samtycke oc jaa, huilke ta nærwore aa kirkens wegna, hedherligen herre mester Henrik Wenne, domprowest j Abo, oc Menarth glasmesther aa syne oc syns barns wegna met syn maagh Henrik. Acta sunt hec die et loco quibus supra.
 Iste processus de verbo ad verbum habetur jn libro judiciorum consulatus, dicto stadz tenckebook.
 </edition>
 </document>
@@ -1444,8 +1444,8 @@ Sale by Burgher Karin Knutsdotter of Abo to Abo Cathed­ral of her hereditary sh
 </regesta>
 
 <edition editor="Hausen" xml:lang="sv-x-old">
-<title xml:lang="la">Copia litterarum Katherine filie aurifabrj quam ex hereditate contingebat vna pars in fundico Tole.</title>
-Jach Kaderin Knwtzdotther, borgerske j Abo, bekennes oc kwngør oc met thetta mith øpne breff fullelige tilstaar mik haffue soolt oc wplatit hederlighe men capitulum j Abo pa Abo domkirkens wegna then deel mik war tilfallen j ræth arff epter myn fræncke hustrw Tole, fordom borgerske her j Abo, Gudh hennes siel nadhe, j then tompt oc gordh for:de hustrw Tole aathe wedh Fægathan, før lxx marker swenske j redhe peninga oc ey i andra waror, huilke peninga jach kennes mik fulleliga haffue wpburit til god atnøge j erligx oc welborne mantz Tiderick Hanssons, borghamesthers j Abo, nærware. Ty affhendher jac for:de tompt oc gardh mik oc mynom ærffwom oc tilegnar forscr:ne Abo domkirke til ewiigh tiidt. Til ytermere wisso oc witnisbyrdh bidher jac for:de wælbürdigh man Tiderick Hansson at trycke sith incigle nedhan før thetta breff, som giffuit oc scriffuit ær j Abo pa sancte Gertrudz dag, aarum epter Herrens byrdh tusande fæmhundradh pa thet nionde aaret.
+<title xml:lang="la">Copia litterarum Katherine filie aurifabrj quam ex hereditate contingebat vna pars in <transaction type="lot">fundico</transaction> Tole.</title>
+Jach Kaderin Knwtzdotther, borgerske j Abo, bekennes oc kwngør oc met thetta mith øpne breff fullelige tilstaar mik haffue soolt oc wplatit hederlighe men capitulum j Abo pa Abo domkirkens wegna then deel mik war tilfallen j ræth arff epter myn fræncke hustrw Tole, fordom borgerske her j Abo, Gudh hennes siel nadhe, j then <transaction type="lot">tompt</transaction> oc <transaction type="house">gordh</transaction> for:de hustrw Tole aathe wedh <landscape cat="built" type="street">Fægathan</landscape>, før lxx marker swenske j redhe peninga oc ey i andra waror, huilke peninga jach kennes mik fulleliga haffue wpburit til god atnøge j erligx oc welborne mantz Tiderick Hanssons, borghamesthers j Abo, nærware. Ty affhendher jac for:de tompt oc gardh mik oc mynom ærffwom oc tilegnar forscr:ne Abo domkirke til ewiigh tiidt. Til ytermere wisso oc witnisbyrdh bidher jac for:de wælbürdigh man Tiderick Hansson at trycke sith incigle nedhan før thetta breff, som giffuit oc scriffuit ær j Abo pa sancte Gertrudz dag, aarum epter Herrens byrdh tusande fæmhundradh pa thet nionde aaret.
 </edition>
 </document>
 
@@ -1463,8 +1463,8 @@ Sale by Burgher Sven Myre to Abo Cathedral of the share of Mistress Thola's prop
 </regesta>
 
 <edition editor="Hausen" xml:lang="sv-x-old">
-<title xml:lang="la">Copia litterarum Swen Myre super vna parte fundici predicti seu curie Tole.</title>
-Jac Swen Myre, borgare j Abo, bekennes oc kwngør oc met thetta mit nærwarandes øpne breff fullelige tilstaar at jac met beradne modh oc goduilie haffuer salt oc wplatid Abo domkirke för lxx marker swenske then deel erligh herre oc strenge riddare, myn herre, her Swanthe Nielson, Swerigis rikis forstandere, gaff och wnthe mik, som hans breff ther pa giffuit yterligere inneholder, j then tompt hustrw Tole, fordom borgerske j Abo, Gud hennes siel nadhe, otthe widh Fægathan, huilken deel war før:de myn herre her Swanthe rætzlige tilfallen men (ͻ: met) dandemen skattingh j danaarff epter Thomas, førscrifne Toles boondis, dødh, huilke for:de lxx marker jac bekennes mik haffue wpburit j redhe peninger til gode atnøghe. Ty affhender jac optanæmpde deel j hustrv Toles tompt oc gordh mik oc myne erffuinge oc tilegnar forscriffne Abo domkirke til ewigh egho. Til ytermere wisso oc bæthre bewarningh trycker jac mit jncigle witherligit nedhan før thetta breff, som giffuit oc scriffuit ær odensdaghen nezt for wareffrw dag j fasto, som kallas annunciacionis, anno Domini mdix.
+<title xml:lang="la">Copia litterarum Swen Myre super vna parte <transaction type="lot">fundici</transaction> predicti seu <transaction type="house">curie</transaction> Tole.</title>
+Jac Swen Myre, borgare j Abo, bekennes oc kwngør oc met thetta mit nærwarandes øpne breff fullelige tilstaar at jac met beradne modh oc goduilie haffuer salt oc wplatid Abo domkirke för lxx marker swenske then deel erligh herre oc strenge riddare, myn herre, her Swanthe Nielson, Swerigis rikis forstandere, gaff och wnthe mik, som hans breff ther pa giffuit yterligere inneholder, j then <transaction type="lot">tompt</transaction> hustrw Tole, fordom borgerske j Abo, Gud hennes siel nadhe, otthe widh <landscape cat="built" type="street">Fægathan</landscape>, huilken deel war før:de myn herre her Swanthe rætzlige tilfallen men (ͻ: met) dandemen skattingh j danaarff epter Thomas, førscrifne Toles boondis, dødh, huilke for:de lxx marker jac bekennes mik haffue wpburit j redhe peninger til gode atnøghe. Ty affhender jac optanæmpde deel j hustrv Toles tompt oc gordh mik oc myne erffuinge oc tilegnar forscriffne Abo domkirke til ewigh egho. Til ytermere wisso oc bæthre bewarningh trycker jac mit jncigle witherligit nedhan før thetta breff, som giffuit oc scriffuit ær odensdaghen nezt for wareffrw dag j fasto, som kallas annunciacionis, anno Domini mdix.
 </edition>
 </document>
 
@@ -1483,7 +1483,7 @@ Notification that Hans Dyrhake, Sven Myre and Katarina Knutsdotter have acknowle
 
 <edition editor="Hausen" xml:lang="sv-x-old">
 <title xml:lang="la">Not given</title>
-Anno domini mdix, odensdagen næst fore woreffrw dagh j fasten tha kome for sitiende radett thenne epterscreffne her Hans Dyrhack, hwlken som kennis sigh met hond oc mwn haffwa solt the werdugha herrer capitulum j Abo then deel som han haffde j hwstrw Tholess tompt for clx marc. Teslikes solde oc Sween Myre j sama tompt for lxx marc, oc swa giorde oc Katherin Knwth[s] dotter then deel hon ærffde epter hustrw Thole j for:de tompt for lxx marc, hwilkin tompt oc gordh som ligger widh Fægathen millan Jons Sonasons gordh oc Wingisters Anna gordh met kolgor[d]s tompten som ligger wedh Gropen oc fast j for:de gordz tompt; oc ær then tompt paa bredden wed Fægaten xxxiij alna oc iɉ quartir oc pa bredden wed Gropen xxxvj alna. Ther met lothe hwar annan ffrij oc qwith, lydwge oc løøss for alt ytermere tiltale heller namaningh.
+Anno domini mdix, odensdagen næst fore woreffrw dagh j fasten tha kome for sitiende radett thenne epterscreffne her Hans Dyrhack, hwlken som kennis sigh met hond oc mwn haffwa solt the werdugha herrer capitulum j Abo then deel som han haffde j hwstrw Tholess <transaction type="lot">tompt</transaction> for clx marc. Teslikes solde oc Sween Myre j sama tompt for lxx marc, oc swa giorde oc Katherin Knwth[s] dotter then deel hon ærffde epter hustrw Thole j for:de tompt for lxx marc, hwilkin tompt oc gordh som ligger widh <landscape cat="built" type="street">Fægathen</landscape> millan Jons Sonasons gordh oc Wingisters Anna gordh met kolgor[d]s tompten som ligger wedh <landscape cat="built" type="ditch">Gropen</landscape> oc fast j for:de gordz tompt; oc ær then tompt paa bredden wed <landscape cat="built" type="street">Fægaten</landscape> xxxiij alna oc iɉ quartir oc pa bredden wed <landscape cat="built" type="ditch">Gropen</landscape> xxxvj alna. Ther met lothe hwar annan ffrij oc qwith, lydwge oc løøss for alt ytermere tiltale heller namaningh.
 </edition>
 </document>
 
@@ -1525,60 +1525,14 @@ Jtem vna curia Hamarke, quam Arnaldus Fresykinj legauit.
 Jtem vna curia in parrochia sancti Martinj, quam dominus Henricus episcopus
 legauit.
 Jtem vna curia jn ciuitate Aboensi.
-Jtem spacium vnius opelle in foro situm, Gozelinus Pron legauit.
+Jtem spacium vnius <transaction type="FIXME">opelle</transaction> in <landscape cat="built" type="market square">foro</landscape> situm, Gozelinus Pron legauit.
 Jtem vnum pratum in Kærkis de x plaustris fenj.
 Jtem ij ciste.
 Jtem i pellis vrsina.
 </edition>
 </document>
     
-<document nr="85" type="" when="NN" where="Turku" link="REA723">
-<regesta editor="Hausen" nrREA="723" xml:lang="sv">
 
-    <issuer status="ecclesiastic" gender="m" onlyone="n"/>
-
-    Inventarium vid S:t Laurentii altare i Åbo domkyrka äfvensom vid den dertill hörande gården.
-    <folio>Fol. 252.</folio>
-</regesta>
-
-<regesta editor="Kokkonen" xml:lang="en">
-    Inventory of the Altar of St. Lawrence in Abo Cathedral
-    and of landed property belonging to it.
-</regesta>
-
-<edition editor="Hausen" xml:lang="la">
-    Jnuentarium altaris beati Laurencij.
-
-    Primo vnum missale cum vno quaterno in quo continentur alique misse
-    notate, jtem vna crux argentea.
-    
-    Jtem vna alia parua crvccula, jtem vna craticula argentea, jtem vnum reliquiarium
-    argenteum. Jtem j calix argenteus deauratus cum pathena. Jtem
-    vnus calix argenteus paruus, jtem v paria ornamenta altaris.
-    
-    Jtem iij paria sacerdotalium cum omnibus pertinenciis, jtem vna cista,
-    jtem iiij ceruicalia et vnus lapis altaris.
-    
-    Jtem vnum manutergium et i tapetum, jtem vnum coopertorium altaris,
-    dictum tækin.
-
-    Jtem vnus pannus sub pedibus habendus, jtem due ampulle, jtem duo
-    candelabra de auricalco.
-
-    Jtem vna parua tunica pro ymagine beate virgines, jtem una parua campana
-    cum x candelis, jtem vnum suppellicium.
-    
-    Jtem vna capsa, jtem vnum torale nouum, jtem vna parua corona argentea
-    deaurata in capite ymaginis beate virginis cum aliquibus frvsticulis argenteis
-    deauratis in tunica eiusdem ymaginis beate virginis
-    
-    Jnuentarium curie beati Laurencij jn Abo.
-    
-    Jtem duo dolia et vna vrna.
-    Jtem vna craticula.
-    Jtem i par kætzleringhe.
-</edition>
-</document>
 
 <document nr="86" type="" when="1481-07-24" where="Rome" link="http://df.narc.fi/document/6794">
 <regesta editor="Risberg" nrAP="268">
