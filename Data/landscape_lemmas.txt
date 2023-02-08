@@ -63,7 +63,6 @@ kroppenne,gropen,KROOPPI
 brona,bron,SILTA
 Kyrkiogatunne,Kirkiegathen,KATU
 aana,an,JOKI
-bodh,bodh,AITTA
 dikit,dikit,OJA
 aan,an,JOKI
 clostret,clostret,LUOSTARI
@@ -71,7 +70,6 @@ gathun,gathan,KATU
 torghit,torgith,TORI
 broon,bron,SILTA
 torghit,torgith,TORI
-bodh,bodh,AITTA
 ampnem,ampnis,JOKI
 mansi,mansio,TALO
 aanne,an,JOKI
@@ -89,7 +87,7 @@ Mæthajærffuj,Mæthajærffuj,MÄTÄJÄRVI
 Mæthaiærffuj,Mæthajærffuj,MÄTÄJÄRVI
 Gropen,gropen,KROOPPI
 ampnem,ampnis,JOKI
-Woreffrv kirkian,Woreffrv kirkian,KIRKKO
+Woreffrv kirkian,Woreffrv kirkian,KIRKKO ### kirkio muualla??
 dykith,dikit,OJA
 ampnem,ampnis,JOKI
 stranden,stranden,RANTA
@@ -110,10 +108,10 @@ ampnem,ampnis,JOKI
 aana,an,JOKI
 torgeth,torgith,TORI
 Kirkiogatwnne,Kirkiegathen,KATU
-vico,vicus,KATU
+vico,vicus,KATU ###
 Tauaste gathwnne,Tauastgathen,KATU
 ampnem,ampnis,JOKI
-ecclesie,ecclesia,KIRKKO
+vico ecclesie,vico ecclesie,KIRKKO ###
 clostridh,clostret,LUOSTARI
 Fæægathen,Fægathan,KATU
 Fægathunne,Fægathan,KATU
@@ -133,4 +131,4 @@ Gropen,gropen,KROOPPI
 Fægaten,Fægathan,KATU
 Gropen,gropen,KROOPPI
 foro,forum,TORI
-publico foro,forum,TORI
+publico foro,publicum forum,TORI
