@@ -26,7 +26,8 @@ with open('Data/dataset_landscape.xml', 'r', encoding="utf-8") as f:
 # str.replace(old, new[, count]) 
 
 for lemma in lemmas:
-  print(lemma)
+  print(lemma[0], lemma[1])
+  data.replace('>'+lemma[0]+'</landscape>', ' lemma="'+lemma[1]+'</landscape>', 1)
 
 
 #  p = re.compile(r'type="()">') 
