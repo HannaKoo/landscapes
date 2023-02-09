@@ -1,5 +1,5 @@
 # import xml.etree.ElementTree as ET
-import re
+# import re
 
 # tree = ET.parse('Data/dataset_landscape.xml')
 # root = tree.getroot()
@@ -8,14 +8,11 @@ import re
 # https://stackoverflow.com/questions/55217892/keeping-cdata-sections-while-parsing-through-xml
 # tree.write("Data/dataset_test_etree.xml", encoding="UTF-8", short_empty_elements=False)
 
-lemmaFile = open('Data/landscape_lemmas.txt', 'r', encoding="utf-8")
-
-lemmas = lemmaFile.read().splitlines()
+with open('Data/landscape_lemmas.txt', 'r', encoding="utf-8") as f:
+  lemmas = f.read().splitlines()
 lemmas = [i.split(',') for i in lemmas]
 
 # https://docs.python.org/3/howto/regex.html#modifying-strings
-
-# lemmas[0] -> lemma="lemmas[1]"
 with open('Data/dataset_landscape.xml', 'r', encoding="utf-8") as f:
   data = f.read()
 
@@ -27,8 +24,8 @@ with open('Data/dataset_landscape.xml', 'r', encoding="utf-8") as f:
 
 for lemma in lemmas:
   print(lemma[0], lemma[1])
-  data.replace('>'+lemma[0]+'</landscape>', ' lemma="'+lemma[1]+'</landscape>', 1)
-
+  data = data.replace('>'+lemma[0]+'</landscape>', ' lemma="'+lemma[1]+'</landscape>', 1)
+print(data[1000])
 
 #  p = re.compile(r'type="()">') 
 #  p.sub(, data, count=1)
