@@ -1,4 +1,4 @@
-ecclesiam kathedralem,ecclesia kathedralis,kirkko
+ecclesiam kathedralem,ecclesia kathedralis,KIRKKO
 ecclesie,ecclesia,KIRKKO
 ampnem,ampnis,JOKI
 pontem,pons,SILTA
