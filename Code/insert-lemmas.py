@@ -1,4 +1,5 @@
 # import xml.etree.ElementTree as ET
+import re
 
 # tree = ET.parse('Data/dataset_landscape.xml')
 # root = tree.getroot()
@@ -18,7 +19,16 @@ for i in lemmas:
   print(i)
 
 # lemmas[0] -> lemma="lemmas[1]"
-with open('Data/dataset_landscape.xml', encoding="utf-8") as f:
+with open('Data/dataset_landscape.xml', 'r', encoding="utf-8") as f:
   data = f.read()
 
+# regex: r'type="()">'+lemma+r'</landscape>'
+# find type="church">kirkon</landscape>
+# replace type="church" lemma="kirkko">kirkon</landscape>
+
 for lemma in lemmas:
+  
+
+
+#  p = re.compile(r'type="()">') 
+#  p.sub(, data, count=1)
