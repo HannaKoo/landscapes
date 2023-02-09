@@ -18,5 +18,7 @@ for i in lemmas:
   print(i)
 
 # lemmas[0] -> lemma="lemmas[1]"
+with open('Data/dataset_landscape.xml', encoding="utf-8") as f:
+  data = f.read()
 
-# for lemma in lemmas:
+for lemma in lemmas:
