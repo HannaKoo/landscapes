@@ -87,7 +87,7 @@ Mæthajærffuj,Mæthajærffuj,MÄTÄJÄRVI
 Mæthaiærffuj,Mæthajærffuj,MÄTÄJÄRVI
 Gropen,gropen,KROOPPI
 ampnem,ampnis,JOKI
-Woreffrv kirkian,Woreffrv kirkian,KIRKKO ### kirkio muualla??
+Woreffrv kirkio,Woreffrv kirkio,KIRKKO
 dykith,dikit,OJA
 ampnem,ampnis,JOKI
 stranden,stranden,RANTA
@@ -108,10 +108,10 @@ ampnem,ampnis,JOKI
 aana,an,JOKI
 torgeth,torgith,TORI
 Kirkiogatwnne,Kirkiegathen,KATU
-vico,vicus,KATU ###
+vico Tauastie,vicus Tauastie,KATU
 Tauaste gathwnne,Tauastgathen,KATU
 ampnem,ampnis,JOKI
-vico ecclesie,vico ecclesie,KIRKKO ###
+vico ecclesie,vicus ecclesie,KIRKKO
 clostridh,clostret,LUOSTARI
 Fæægathen,Fægathan,KATU
 Fægathunne,Fægathan,KATU
