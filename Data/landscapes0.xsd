@@ -170,7 +170,7 @@
                                         </xs:simpleType>
                                     </xs:attribute>
                                     <xs:attribute name="type" type="xs:string" use="optional" />
-                                    <xs:attribute name="lemma" type="xs:string" use="optional" />
+                                    <xs:attribute name="lemma" type="xs:string" use="required" />
                                     <!-- poista nämä: -->
                                     <xs:attribute name="transaction" type="xs:string" use="optional" />
                                   </xs:extension>
@@ -203,7 +203,7 @@
                                               </xs:simpleType>
                                             </xs:attribute>
                                             <xs:attribute name="type" type="xs:string" use="optional" />
-                                            <xs:attribute name="lemma" type="xs:string" use="optional" />
+                                            <xs:attribute name="lemma" type="xs:string" use="required" />
                                           </xs:extension>
                                         </xs:simpleContent>
                                       </xs:complexType>
@@ -244,7 +244,7 @@
                                       </xs:simpleType>
                                     </xs:attribute>
                                     <xs:attribute name="type" type="xs:string" use="optional" />
-                                    <xs:attribute name="lemma" type="xs:string" use="optional" />
+                                    <xs:attribute name="lemma" type="xs:string" use="required" />
                                   </xs:extension>
                                 </xs:simpleContent>
                               </xs:complexType>
@@ -280,7 +280,7 @@
                                 </xs:simpleType>
                               </xs:attribute>
                               <xs:attribute name="type" type="xs:string" use="optional" />
-                              <xs:attribute name="lemma" type="xs:string" use="optional" />
+                              <xs:attribute name="lemma" type="xs:string" use="required" />
                               <xs:attribute name="transaction" type="xs:string" use="optional" />
                             </xs:extension>
                           </xs:simpleContent>
@@ -321,7 +321,7 @@
                                         </xs:simpleType>
                                       </xs:attribute>
                                       <xs:attribute name="type" type="xs:string" use="optional" />
-                                      <xs:attribute name="lemma" type="xs:string" use="optional" />
+                                      <xs:attribute name="lemma" type="xs:string" use="required" />
                                       <xs:attribute name="transaction" type="xs:string" use="optional" />
                                     </xs:extension>
                                   </xs:simpleContent>
