@@ -12,7 +12,13 @@ with open('Data/landscape_lemmas.txt', 'r', encoding="utf-8") as f:
   lemmas = f.read().splitlines()
 lemmas = [i.split(',') for i in lemmas]
 
+lemmas = set(map(tuple, lemmas))
+
+# for lemma in sorted(lemmas):
+#   print(lemma)
+
 # https://docs.python.org/3/howto/regex.html#modifying-strings
+
 with open('Data/dataset_landscape.xml', 'r', encoding="utf-8") as f:
   data = f.read()
 
@@ -24,9 +30,12 @@ with open('Data/dataset_landscape.xml', 'r', encoding="utf-8") as f:
 
 for lemma in lemmas:
   # print(lemma[0], lemma[1])
-  print              ('>'+lemma[0]+'</landscape>', ' lemma="'+lemma[1]+'">'+lemma[0]+'</landscape>', 1)
+  # print              ('>'+lemma[0]+'</landscape>', ' lemma="'+lemma[1]+'">'+lemma[0]+'</landscape>', 1)
   data = data.replace('>'+lemma[0]+'</landscape>', ' lemma="'+lemma[1]+'">'+lemma[0]+'</landscape>', 1)
-print(data[:4000])
+# print(data[:4000])
+
+with open('Data/dataset_landscape.xml', 'w', encoding="utf-8") as f:
+  f.write(data)
 
 #  p = re.compile(r'type="()">') 
 #  p.sub(, data, count=1)
