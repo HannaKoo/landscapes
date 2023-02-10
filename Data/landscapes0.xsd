@@ -162,14 +162,15 @@
                                 <xs:simpleContent>
                                   <xs:extension base="xs:string">
                                     <xs:attribute name="cat" use="optional">
-                                      <xs:simpleType>
-                                        <xs:restriction base="xs:string">
-                                          <xs:enumeration value="natural"/>
-                                          <xs:enumeration value="built"/>
-                                        </xs:restriction>
-                                      </xs:simpleType>
+                                        <xs:simpleType>
+                                            <xs:restriction base="xs:string">
+                                                <xs:enumeration value="natural"/>
+                                                <xs:enumeration value="built"/>
+                                            </xs:restriction>
+                                        </xs:simpleType>
                                     </xs:attribute>
                                     <xs:attribute name="type" type="xs:string" use="optional" />
+                                    <xs:attribute name="lemma" type="xs:string" use="optional" />
                                     <!-- poista nämä: -->
                                     <xs:attribute name="transaction" type="xs:string" use="optional" />
                                   </xs:extension>
@@ -202,6 +203,7 @@
                                               </xs:simpleType>
                                             </xs:attribute>
                                             <xs:attribute name="type" type="xs:string" use="optional" />
+                                            <xs:attribute name="lemma" type="xs:string" use="optional" />
                                           </xs:extension>
                                         </xs:simpleContent>
                                       </xs:complexType>
@@ -242,6 +244,7 @@
                                       </xs:simpleType>
                                     </xs:attribute>
                                     <xs:attribute name="type" type="xs:string" use="optional" />
+                                    <xs:attribute name="lemma" type="xs:string" use="optional" />
                                   </xs:extension>
                                 </xs:simpleContent>
                               </xs:complexType>
@@ -277,6 +280,7 @@
                                 </xs:simpleType>
                               </xs:attribute>
                               <xs:attribute name="type" type="xs:string" use="optional" />
+                              <xs:attribute name="lemma" type="xs:string" use="optional" />
                               <xs:attribute name="transaction" type="xs:string" use="optional" />
                             </xs:extension>
                           </xs:simpleContent>
@@ -317,6 +321,7 @@
                                         </xs:simpleType>
                                       </xs:attribute>
                                       <xs:attribute name="type" type="xs:string" use="optional" />
+                                      <xs:attribute name="lemma" type="xs:string" use="optional" />
                                       <xs:attribute name="transaction" type="xs:string" use="optional" />
                                     </xs:extension>
                                   </xs:simpleContent>
