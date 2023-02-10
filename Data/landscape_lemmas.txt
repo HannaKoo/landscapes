@@ -54,7 +54,7 @@ kiorkionne,kirkian,KIRKKO
 forum,forum,TORI
 torgith,torgith,TORI
 torgith,torgith,TORI
-gatwna,gatan,KATU
+gatwna,gathan,KATU
 Grapena,gropen,KROOPPI
 torgith,torgith,TORI
 torgith,torgith,TORI
