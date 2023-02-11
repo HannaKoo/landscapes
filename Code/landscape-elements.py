@@ -6,6 +6,7 @@ root = tree.getroot()
 keys = set()
 cats = set()
 types = set()
+lemmas = set()
 
 for i in root:
   print(i.tag, i.get('nr'), end = ' ')
@@ -14,8 +15,11 @@ for i in root:
     keys.update(j.keys())
     cats.add(j.get("cat"))
     types.add(j.get("type"))
+    lemmas.add(j.get("lemma"))
   print()
 
-print(cats)
-print(keys)
-print(types)
+print()
+print("cats: ", cats)
+print("keys: ", keys)
+print(len(types), "types: ", types)
+print(len(lemmas), "lemmas: ", lemmas)
