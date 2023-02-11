@@ -1,4 +1,4 @@
-# Count edition text languages 
+# Count edition texts and words by language
 
 import xml.etree.ElementTree as ET
 
@@ -18,10 +18,13 @@ for doc in root:
     print(lang)
     if lang[:2] == 'la':
       langs['la'] += 1
+      words['la'] += len("".join(edition.itertext()).split())
     elif lang[:2] == 'sv':
       langs['sv'] += 1
+      words['sv'] += len("".join(edition.itertext()).split())
     else:
       print("Found", lang)
       print("Found", edition.attrib)
 
 print(langs)
+print(words)
