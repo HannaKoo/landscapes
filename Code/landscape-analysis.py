@@ -1,5 +1,5 @@
-import numpy as np
-import pandas as pd
+# import numpy as np
+# import pandas as pd
 import xml.etree.ElementTree as ET
 
 tree = ET.parse('Data/dataset_landscape.xml')
@@ -65,12 +65,35 @@ for i in data:
   print(i)
 
 print()
+print("documents:", len(data))
+
+print()
+print("Documents by gender:")
+
+doc_sums = {}
+for i in data:
+  if i.get('iss_gen') in doc_sums:
+    doc_sums[i.get('iss_gen')] += 1
+  else:
+    doc_sums[i.get('iss_gen')] = 1
+print(doc_sums)
+
+
+print()
 print("Landscapes by gender:")
 
-sums = {}
+landscape_sums = {'all': 0}
 for i in data:
-  if i.get('iss_gen') in sums:
-    sums[i.get('iss_gen')] += i.get('landscapes')
+  landscape_sums['all'] += i.get('landscapes')
+  if i.get('iss_gen') in landscape_sums:
+    landscape_sums[i.get('iss_gen')] += i.get('landscapes')
   else:
-    sums[i.get('iss_gen')] = i.get('landscapes')
-print(sums)
+    landscape_sums[i.get('iss_gen')] = i.get('landscapes')
+print(landscape_sums)
+
+print()
+print('Means:')
+print("'f': ", landscape_sums['f']/doc_sums['f'])
+print("'m': ", landscape_sums['m']/doc_sums['m'])
+print("'both': ", landscape_sums['both']/doc_sums['both'])
+print("'all':", landscape_sums['all']/len(data))
