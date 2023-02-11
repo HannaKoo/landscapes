@@ -1,3 +1,7 @@
+# File format is comma separated:
+# landscape element,landscape element lemma,anything else
+# Note: Any white space is not removed. (TODO?)
+
 with open('Data/landscape_lemmas.txt', 'r', encoding="utf-8") as f:
   lemmas = f.read().splitlines()
 lemmas = [i.split(',') for i in lemmas]
