@@ -775,8 +775,8 @@ Olof Jönsson, Provost of Västerås, donates a cabbage plot to the Altar of Our
 </regesta>
 
 <edition editor="Hausen" xml:lang="sv-x-old">
-<title xml:lang="la">Super orto juxta mansum beati Sigfridi vltra ampnem.</title>
-Vitherligit ware thet allom them thetta breff see eller hora ath jak Olaff Jonisson, domproasth j Vesteraars, met godhom vilia ok beradhna modhe for min forældra siala giffuer ok vplather min kaalgaardh vestan aanne ok nordhan vidh sancti Sigfridz gaardh, som jak ærfft haffuer epter myn forældra, oc mynnom samarffuom fulla nøgia fore giorth, wnder Varfrv altare, som kallas Klærkkoor, j Abo domkirkio til æwindeliga æga. Til thess mera vissa ok stadfæstilse hengher jak vitherliga mitth incigle vndher thetta breff, som scriffuit ær j Abo manadaghen næsth epther Varfrua dagh visitacionis anno Domini mcdl octauo.
+<title xml:lang="la">Super <transaction type="garden">orto</transaction> juxta <landscape cat="built" type="house" lemma="mansio">mansum</landscape> beati Sigfridi vltra <landscape cat="natural" type="river" lemma="ampnis">ampnem</landscape>.</title>
+Vitherligit ware thet allom them thetta breff see eller hora ath jak Olaff Jonisson, domproasth j Vesteraars, met godhom vilia ok beradhna modhe for min forældra siala giffuer ok vplather min <transaction type="garden">kaalgaardh</transaction> vestan <landscape cat="natural" lemma="an">aanne</landscape> ok nordhan vidh sancti Sigfridz <landscape cat="built" type="house" lemma="gardh">gaardh</landscape>, som jak ærfft haffuer epter myn forældra, oc mynnom samarffuom fulla nøgia fore giorth, wnder Varfrv altare, som kallas Klærkkoor, j Abo domkirkio til æwindeliga æga. Til thess mera vissa ok stadfæstilse hengher jak vitherliga mitth incigle vndher thetta breff, som scriffuit ær j Abo manadaghen næsth epther Varfrua dagh visitacionis anno Domini mcdl octauo.
 </edition>
 </document>
 
@@ -1165,8 +1165,8 @@ Vij Kort, met Gudz [nadh biskop i Abo,] oc capitulum ther sama stadz kennomps oc
 1045. [Den 12 juli 1488]. Anno ut supra pa samma dach 
 fore forscrifne borgamestara fogitten och radmen kom for retten 
 Clemit knutsson køpsuen i Stocholm ok loth vp Hans olssone 
-køpssuen i Vesteraars ok borgere ena tompt liggiendes i Aabo 
-stadh i Findlandh medh en kellera pa kirkia ghatan wiidh gropen 
+køpssuen i Vesteraars ok borgere ena <transaction type="lot">tompt</transaction> liggiendes i Aabo 
+stadh i Findlandh medh en <transaction type="cellar">kellera</transaction> pa <landscape cat="built" type="street" lemma="Kirkiegathen">kirkia ghatan</landscape> wiidh <landscape cat="natural" type="ditch" lemma="gropen">gropen</landscape> 
 fore Ixiiij (64) marcker stocholmske, huilken gard Clemit 
 sade sigh haffua ærff epter sina kera fader och moder, ok kendis 
 sigh the lxiiij marcker til tacka wel fornødan wara. Ther fick 
