@@ -32,3 +32,9 @@ for doc in root:
 
 print(langs)
 print(words)
+
+print("Averages:")
+print("All:", (words['la']+words['sv'])/(langs['la']+langs['sv']))
+for i in langs:
+  print(i, end=": ")
+  print(words[i]/langs[i])
