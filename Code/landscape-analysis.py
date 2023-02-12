@@ -105,10 +105,10 @@ for doc in data:
   decades[decade]['landscapes'] += doc['landscapes']
   if doc['lang'] == 'la':
     decades[decade]['words']['la'] += doc['words']
-  if doc['lang'][:2] == 'sv':
+  elif doc['lang'][:2] == 'sv':
     decades[decade]['words']['sv'] += doc['words']
-
-
+  else:
+    print("Found", doc['lang'])
 
 print(decades)
 # for decade in decades:
