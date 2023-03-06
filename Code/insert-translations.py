@@ -1,7 +1,9 @@
 # Insert lemma translations from landscape_lemmas.txt
 # Read landscape lemmas into dictionary {lemma: translation, ...}
 
-import xml.etree.ElementTree as ET
+# import xml.etree.ElementTree as ET
+from lxml import etree.ElementTree as ET
+# https://lxml.de/tutorial.html
 
 tree = ET.parse('Data/dataset_landscape.xml')
 root = tree.getroot()
