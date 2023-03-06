@@ -1,134 +1,134 @@
-ecclesiam kathedralem,ecclesia kathedralis,KIRKKO
-ecclesie,ecclesia,KIRKKO
-ampnem,ampnis,JOKI
-pontem,pons,SILTA
-ortum,ortus,KASVIMAA
-granaria,granarium,VILJA-AITTA
-fundiculum,fundiculus,TONTTI
-ampnem,ampnis,JOKI
-ampnem,ampnis,JOKI
-fundicum,fundicus,TONTTI
-ampnem,ampnis,JOKI
-fundico,fundicus,TONTTI
-gropena,gropen,KROOPPI
-ana,an,JOKI
-forum,forum,TORI
-torghet,torgith,TORI
-torget,torgith,TORI
-brøderclostret,brøderclostret,LUOSTARI
-clostreno,clostret,LUOSTARI
-ampnem,ampnis,JOKI
-bood,bod,AITTA
-aana,an,JOKI
-nyastadhen,nya stadhen,UUSI KAUPUNKI
-fundico,fundicus,TONTTI
-granarij,granarium,VILJA-AITTA
-ampnem,ampnis,JOKI
-fundico,fundicus,TONTTI
-curie,curia,TALO
-plagam,plaga,RANTA
-ampnis,ampnis,JOKI
-pontis,pons,SILTA
-balneatorium,balneatorium,SAUNA
-åån,an,JOKI
-brooendhen,brooendhen,SILTA
-badhstoffuu,badhstoffuu,SAUNA
-brona,bron,SILTA
-vico Tauastie,vicus Tauastie,KATU
-vico Tauastie,vicus Tauastie,KATU
-Tauastagathuna,Tauastgathen,KATU
-tompt,tompt,TONTTI
-huson,hus,TALO
-kolgaardh,kolgardh,KASVIMAA
-gardhenom,gardh,TALO
-hwsen,hus,TALO
-curiam,curia,TALO
-ampnem,ampnis,JOKI
-ana,an,JOKI
-gathubodh,gathubodh,KATUPUOTI
-gatwna,gathan,KATU
-forum,forum,TORI
-taarghit,torgith,TORI
-grapena,gropen,KROOPPI
-kiorkionne,kirkian,KIRKKO
-forum,forum,TORI
-torgith,torgith,TORI
-torgith,torgith,TORI
-gatwna,gathan,KATU
-Grapena,gropen,KROOPPI
-torgith,torgith,TORI
-torgith,torgith,TORI
-gropena,gropen,KROOPPI
-kroppenne,gropen,KROOPPI
-brona,bron,SILTA
-Kyrkiogatunne,Kirkiegathen,KATU
-aana,an,JOKI
-dikit,dikit,OJA
-aan,an,JOKI
-clostret,clostret,LUOSTARI
-gathun,gathan,KATU
-torghit,torgith,TORI
-broon,bron,SILTA
-torghit,torgith,TORI
-ampnem,ampnis,JOKI
-mansi,mansio,TALO
-aanne,an,JOKI
-tompth,tompt,TONTTI
-aana,an,JOKI
-ana,an,JOKI
-forum,forum,TORI
-ampnem,ampnis,JOKI
-aana,an,JOKI
-vico Tauastie,vicus Tauastie,KATU
-Tauaste gathunne,Tauastgathen,KATU
-kirkie gathunne,Kirkiegathen,KATU
-sancti Olaffs closther,sancti Olaffs clostret,LUOSTARI
-Mæthajærffuj,Mæthajærffuj,MÄTÄJÄRVI
-Mæthaiærffuj,Mæthajærffuj,MÄTÄJÄRVI
-Gropen,gropen,KROOPPI
-ampnem,ampnis,JOKI
-Woreffrv kirkio,Woreffrv kirkio,KIRKKO
-dykith,dikit,OJA
-ampnem,ampnis,JOKI
-stranden,stranden,RANTA
-ampnem,ampnis,JOKI
-stranden,stranden,RANTA
-ampnem,ampnis,JOKI
-stranden,stranden,RANTA
-ampnem,ampnis,JOKI
-aen,an,JOKI
-Aensborgh,Aensborgh,JOKILINNA
-ana,an,JOKI
-ana,an,JOKI
-gathen,gathan,KATU
-ampnem,ampnis,JOKI
-aana,an,JOKI
-ampnem,ampnis,JOKI
-ampnem,ampnis,JOKI
-aana,an,JOKI
-torgeth,torgith,TORI
-Kirkiogatwnne,Kirkiegathen,KATU
-vico Tauastie,vicus Tauastie,KATU
-Tauaste gathwnne,Tauastgathen,KATU
-ampnem,ampnis,JOKI
-vico ecclesie,vicus ecclesie,KIRKKO
-clostridh,clostret,LUOSTARI
-Fæægathen,Fægathan,KATU
-Fægathunne,Fægathan,KATU
-Offuergathen,Offuergathen,KATU
-gatthen,gathan,KATU
-Wordbærgit,Wordbærgit,VARTIOVUORI
-Kirkiegathen,Kirkiegathen,KATU
-Tauastgathen,Tauastgathen,KATU
-commvne,communis,KOMMUUNI
-Aagathan,Aagathan,KATU
-Fagatan,Fægathan,KATU
-Tawestgathwn,Tauastgathen,KATU
-Fægathan,Fægathan,KATU
-Fægathan,Fægathan,KATU
-Fægathen,Fægathan,KATU
-Gropen,gropen,KROOPPI
-Fægaten,Fægathan,KATU
-Gropen,gropen,KROOPPI
-foro,forum,TORI
-publico foro,publicum forum,TORI
+ecclesiam kathedralem,ecclesia kathedralis,tuomiokirkko
+ecclesie,ecclesia,kirkko
+ampnem,ampnis,joki
+pontem,pons,silta
+ortum,ortus,kasvimaa
+granaria,granarium, vilja-aitta
+fundiculum,fundiculus,tontti
+ampnem,ampnis,joki
+ampnem,ampnis,joki
+fundicum,fundicus,tontti
+ampnem,ampnis,joki
+fundico,fundicus,tontti
+gropena,gropen,krooppi
+ana,an,joki
+forum,forum,tori
+torghet,torgith,tori
+torget,torgith,tori
+brøderclostret,brøderclostret,munkkiluostari
+clostreno,clostret,luostari
+ampnem,ampnis,joki
+bood,bod,aitta
+aana,an,joki
+nyastadhen,nya stadhen, uusi kaupunki
+fundico,fundicus,tontti
+granarij,granarium,vilja-aitta
+ampnem,ampnis,joki
+fundico,fundicus,tontti
+curie,curia,talo
+plagam,plaga,ranta
+ampnis,ampnis,joki
+pontis,pons,silta
+balneatorium,balneatorium,sauna
+åån,an,joki
+brooendhen,brooendhen,silta
+badhstoffuu,badhstoffuu,sauna
+brona,bron,silta
+vico Tauastie,vicus Tauastie, Hämeenkatu
+vico Tauastie,vicus Tauastie,Hämeenkatu
+Tauastagathuna,Tauastgathen, Hämeenkatu
+tompt,tompt,tontti
+huson,hus,talo
+kolgaardh,kolgardh,kasvimaa
+gardhenom,gardh,talo
+hwsen,hus,talo
+curiam,curia,talo
+ampnem,ampnis,joki
+ana,an,joki
+gathubodh,gathubodh, katupuoti
+gatwna,gathan,katu
+forum,forum,tori
+taarghit,torgith,tori
+grapena,gropen,krooppi
+kiorkionne,kirkian,kirkko
+forum,forum,tori
+torgith,torgith,tori
+torgith,torgith,tori
+gatwna,gathan,katu
+Grapena,gropen,krooppi
+torgith,torgith,tori
+torgith,torgith,tori
+gropena,gropen,krooppi
+kroppenne,gropen,krooppi
+brona,bron,silta
+Kyrkiogatunne,Kirkiegathen,Kirkkokatu
+aana,an,joki
+dikit,dikit,oja
+aan,an,joki
+clostret,clostret,luostari
+gathun,gathan,katu
+torghit,torgith,tori
+broon,bron,silta
+torghit,torgith,tori
+ampnem,ampnis,joki
+mansi,mansio,talo
+aanne,an,joki
+tompth,tompt,tontti
+aana,an,joki
+ana,an,joki
+forum,forum,tori
+ampnem,ampnis,joki
+aana,an,joki
+vico Tauastie,vicus Tauastie, Hämeenkatu
+Tauaste gathunne,Tauastgathen,Hämeenkatu
+kirkie gathunne,Kirkiegathen,Kirkkokatu
+sancti Olaffs closther,sancti Olaffs clostret, Pyhän Olavin luostari
+Mæthajærffuj,Mæthajærffuj,Mätäjärvi
+Mæthaiærffuj,Mæthajærffuj,Mätäjärvi
+Gropen,gropen,krooppi
+ampnem,ampnis,joki
+Woreffrv kirkio,Woreffrv kirkio, Neitsyt Marian kirkko
+dykith,dikit,oja
+ampnem,ampnis,joki
+stranden,stranden,ranta
+ampnem,ampnis,joki
+stranden,stranden,ranta
+ampnem,ampnis,joki
+stranden,stranden,ranta
+ampnem,ampnis,joki
+aen,an,joki
+Aensborgh,Aensborgh,Jokilinna
+ana,an,joki
+ana,an,joki
+gathen,gathan,katu
+ampnem,ampnis,joki
+aana,an,joki
+ampnem,ampnis,joki
+ampnem,ampnis,joki
+aana,an,joki
+torgeth,torgith,tori
+Kirkiogatwnne,Kirkiegathen,Kirkkokatu
+vico Tauastie,vicus Tauastie,Hämeenkatu
+Tauaste gathwnne,Tauastgathen,Hämeenkatu
+ampnem,ampnis,joki
+vico ecclesie,vicus ecclesie,Kirkkokatu
+clostridh,clostret,luostari
+Fæægathen,Fægathan,Karjakatu
+Fægathunne,Fægathan,Karjakatu
+Offuergathen,Offuergathen,FIXME:Ylinenkatu
+gatthen,gathan,katu
+Wordbærgit,Wordbærgit,Vartiovuori
+Kirkiegathen,Kirkiegathen,Kirkkokatu
+Tauastgathen,Tauastgathen,Hämeenkatu
+commvne,communis,kommuuni
+Aagathan,Aagathan,Jokikatu
+Fagatan,Fægathan,Karjakatu
+Tawestgathwn,Tauastgathen,Hämeenkatu
+Fægathan,Fægathan,Karjakatu
+Fægathan,Fægathan,Karjakatu
+Fægathen,Fægathan,Karjakatu
+Gropen,gropen,krooppi
+Fægaten,Fægathan,Karjakatu
+Gropen,gropen,krooppi
+foro,forum,tori
+publico foro,publicum forum,tori
