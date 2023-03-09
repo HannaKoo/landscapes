@@ -1,0 +1,23 @@
+landscapes {font-family: Georgia, 'Times New Roman', Times, serif; 
+            font-size: large;
+            margin: 1em;
+            max-width: 45em;}
+document:before{content:attr(nr) '. ' attr(when) ' – ' attr(where); 
+                font-size: larger;
+                font-weight: bold;}
+regesta{margin-top: 1em; 
+        margin-left: 3em;
+        display: block;}
+edition{margin: 2em;
+        display: block;}
+issuer{font-style: italic;
+       color: #03f;}
+landscape{font-weight: bold;
+          color: #072;}
+transaction{color: #072; 
+            font-weight: normal;}
+title{font-weight: bold;
+      display: block;}
+note{color: #993;
+        /* display: none;} */
+     }
