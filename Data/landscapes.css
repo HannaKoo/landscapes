@@ -29,6 +29,7 @@ landscape[cat="built"] {color: #d0f;}
 landscape::before {content: attr(type);
                 position: relative;
                 bottom: 1.1em;
+                left: +1em;
                 font-weight: normal;
                 font-size: medium;
                 line-height:normal;}
