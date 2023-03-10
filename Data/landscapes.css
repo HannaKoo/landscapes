@@ -29,11 +29,11 @@ landscape[cat="natural"] {color: #0b1;}
 landscape[cat="built"] {color: #d0f;}
 landscape::before {content: attr(type);
                 position: absolute;
-                bottom: 1.8em;
+                bottom: 1.9em;
                 /* left: +1em; */
                 font-weight: normal;
                 font-size: medium;
-                line-height:normal;
+                line-height:0.8;
         }
 transaction {color: #072; 
              font-weight: normal;}
