@@ -1,0 +1,44 @@
+landscapes {font-family: 'Courier New', Courier, monospace; 
+            font-size: large;
+            background-color: #fff;
+            color: #000;
+            margin: 1em;
+            max-width: 45em;
+            line-height: 2.3em;}
+
+:lang(la) {font-family: Georgia, 'Times New Roman', Times, serif}
+:lang(sv), :lang(en) {font-family: Arial, Helvetica, sans-serif;}
+:lang(sv-x-old), :lang(la) {background-color: #fff6f3;}
+
+document:before {content:attr(nr) '. ' attr(when) ' – ' attr(where); 
+                 font-size: larger;
+                 font-weight: bold;}
+regesta {margin-top: 1em; 
+        margin-left: 3em;
+        display: none;}
+edition {visibility: hidden; 
+        margin: 2em;
+        display: block;}
+issuer {font-weight: bold;}
+issuer[gender="m"] {color: #44f;}
+issuer[gender="f"] {color: #f66;}
+
+landscape {display: inline-block; 
+        font-weight: bold;}
+landscape[cat="natural"] {color: #0b1;}
+landscape[cat="built"] {color: #d0f;}
+landscape::before {content: attr(type);
+                position: relative;
+                bottom: 1.1em;
+                font-weight: normal;
+                font-size: medium;
+                line-height:normal;}
+transaction {color: #072; 
+             font-weight: normal;}
+
+title {visibility: visible; font-weight: bold;
+      display: block;}
+note {color: #993;display: none;}
+
+scilicet {color: red;}
+direction, person, place, folio {font-style: italic;}
