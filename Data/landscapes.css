@@ -21,7 +21,7 @@ issuer[gender="m"] {color: #44f;}
 issuer[gender="f"] {color: #f66;}
 
 landscape {font-weight: bold;}
-landscape[cat="natural"] {color: #072;}
+landscape[cat="natural"] {color: #0b1;}
 landscape[cat="built"] {color: #d0f;}
 landscape::before {content: attr(type);
                 position: relative;
