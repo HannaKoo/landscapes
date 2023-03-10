@@ -1,4 +1,4 @@
-landscapes {font-family: Georgia, 'Times New Roman', Times, serif; 
+landscapes {font-family: 'Courier New', Courier, monospace; 
             font-size: large;
             margin: 1em;
             max-width: 45em;
@@ -11,10 +11,12 @@ regesta{margin-top: 1em;
         display: block;}
 edition{margin: 2em;
         display: block;}
-issuer{font-weight: bold;}
-issuer[gender="m"]{color: #44f;}
-issuer[gender="f"]{color: #f66;}
-
+        issuer{font-weight: bold;}
+        issuer[gender="m"]{color: #44f;}
+        issuer[gender="f"]{color: #f66;}
+:lang(la){font-family: Georgia, 'Times New Roman', Times, serif}
+:lang(sv), :lang(en){font-family: Arial, Helvetica, sans-serif;}
+:lang(sv-x-old), :lang(la){background-color: #fff6f3;}
 landscape{font-weight: bold;
           color: #072;}
 transaction{color: #072; 
