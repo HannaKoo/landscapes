@@ -3,28 +3,38 @@ landscapes {font-family: 'Courier New', Courier, monospace;
             margin: 1em;
             max-width: 45em;
             line-height: 2.3em;}
-document:before{content:attr(nr) '. ' attr(when) ' – ' attr(where); 
-                font-size: larger;
-                font-weight: bold;}
-regesta{margin-top: 1em; 
+
+:lang(la) {font-family: Georgia, 'Times New Roman', Times, serif}
+:lang(sv), :lang(en) {font-family: Arial, Helvetica, sans-serif;}
+:lang(sv-x-old), :lang(la) {background-color: #fff6f3;}
+
+document:before {content:attr(nr) '. ' attr(when) ' – ' attr(where); 
+                 font-size: larger;
+                 font-weight: bold;}
+regesta {margin-top: 1em; 
         margin-left: 3em;
         display: block;}
-edition{margin: 2em;
+edition {margin: 2em;
         display: block;}
-        issuer{font-weight: bold;}
-        issuer[gender="m"]{color: #44f;}
-        issuer[gender="f"]{color: #f66;}
-:lang(la){font-family: Georgia, 'Times New Roman', Times, serif}
-:lang(sv), :lang(en){font-family: Arial, Helvetica, sans-serif;}
-:lang(sv-x-old), :lang(la){background-color: #fff6f3;}
-landscape{font-weight: bold;
-          color: #072;}
-transaction{color: #072; 
-            font-weight: normal;}
-title{font-weight: bold;
+issuer {font-weight: bold;}
+issuer[gender="m"] {color: #44f;}
+issuer[gender="f"] {color: #f66;}
+
+landscape {font-weight: bold;}
+landscape[cat="natural"] {color: #072;}
+landscape[cat="built"] {color: #d0f;}
+landscape::before {content: attr(type);
+                position: relative;
+                top:-1em;
+                font-weight: normal;
+                font-size: medium;}
+transaction {color: #072; 
+             font-weight: normal;}
+
+title {font-weight: bold;
       display: block;}
-note{color: #993;
+note {color: #993;
         /* display: none;} */
 }
-scilicet{color: red;}
+scilicet {color: red;}
 /* direction person place folio */
