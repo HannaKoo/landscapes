@@ -1,7 +1,8 @@
 landscapes {font-family: Georgia, 'Times New Roman', Times, serif; 
             font-size: large;
             margin: 1em;
-            max-width: 45em;}
+            max-width: 45em;
+            line-height: 2.3em;}
 document:before{content:attr(nr) '. ' attr(when) ' – ' attr(where); 
                 font-size: larger;
                 font-weight: bold;}
@@ -10,8 +11,10 @@ regesta{margin-top: 1em;
         display: block;}
 edition{margin: 2em;
         display: block;}
-issuer{font-style: italic;
-       color: #03f;}
+issuer{font-weight: bold;}
+issuer[gender="m"]{color: #44f;}
+issuer[gender="f"]{color: #f66;}
+
 landscape{font-weight: bold;
           color: #072;}
 transaction{color: #072; 
