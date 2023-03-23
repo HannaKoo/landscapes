@@ -27,6 +27,9 @@
 Abo
     anno etc:a mcccºlxx, fferia sexta post octauam ascensionis.
 </edition>
+
+<translation>"This concerns the piece of land on which the altar of Saint Katherine stands." "To all who see this present document, Hennikinus Nærffwe, citizen of Turku, wishes eternal salvation in the Lord. Know all that I, and my wife Lucia, give to the altar of Saint Katherine in the Turku Cathedral, located to the south of the church, along with the land called kaalgordh, for the glory of God and the salvation of our souls. This is on the condition that during our lifetime, we retain possession of it, and after our death, it belongs to the aforementioned altar. Moreover, the Prebendary there shall include us, as well as others who have given alms to the same altar, in their prayers. For the purpose of attestation, my seal is affixed with that of the discreet man Finke, whose consent these acts have been made with. Written in Turku in the year of our Lord 1370, on the Friday after the octave of the Ascension."</translation>
+
 </document>
 
 
@@ -50,6 +53,7 @@ Divers notes concerning the purchase for Abo Cathedral of lots, fields, meadow-l
 <edition editor="Hausen" xml:lang="la">
 FIXME:Anno 55º dominus <issuer status="ecclesiastic" gender="m" onlyone="y">Petrus Henrici</issuer>, condam ychonomus ecclesie Aboensis, emit a Johanne Swarte in Helga, parrochie Berna , quendam fundiculum promtuarij, situm iuxta promptuaria <scilicet its="prōmptuārium n (genitive prōmptuāriī or prōmptuārī)"/> sancti Henricj vltra <landscape cat="built" type="river" lemma="ampnis">ampnem</landscape> versus <landscape cat="built" type="bridge" lemma="pons">pontem</landscape>, inter <landscape cat="built" type="garden" lemma="ortus">ortum</landscape> prebende sancti Iohannis et <landscape cat="built" type="granary" lemma="granarium">granaria</landscape>  sancti Henricj, pro xj marcis denariorum, in quem <landscape cat="built" type="house" lemma="fundiculus">fundiculum</landscape> ego Petrus Petri transtulj quandam opellam de Awas, pro qua dedit sancto Henrico dominus Nicolaus Nicolaj iij marcas vj oras ad dies vite sue; post mortem suam redibit ad ychonomiam.
 
+<translation>"In the 55th year, Lord Petrus Henrici, former chamberlain of the Turku Cathedral, bought from Johanne Swarte in Helga, of the parish of Berna, a small piece of land for the warehouse, located next to the warehouses of Saint Henry, beyond the river towards the bridge, between the garden of the Prebend of Saint John and the granaries of Saint Henry, for 11 marks of money. Into this piece of land, I, Petrus Petri, transferred a certain workshop from Awas, for which Lord Nicolaus Nicolaj gave to Saint Henry 3 marks and 6 pence for the duration of his life; after his death, it shall return to the chamberlainship."</translation>
 
 
 Anno eodem
@@ -97,6 +101,12 @@ Anteckning om herr Ragvald Rengonpoikas till förmån för Reso och Rusko kyrkor
 <p>Jtem ecclesie Rusko Høstelahte lato ibidem, altari beate virginis in ecclesia Aboensi partem prati ibidem de v plaustris, in perpetuam possessionem. Jtem si heredes volunt redimere pratum de Rusko, redimant pro xij marcis. Jtem pars altaris beate virginis maneat ej in perpetuam possessionem.</p>
 <p>Jtem domino preposito <transaction type="lot">fundum</transaction>, quem legifer detinet vltra <landscape cat="natural" type="river" lemma="ampnis">ampnem</landscape>.</p>
 </edition>
+
+<translation>"The testament of Sir Raguald Rengonpoyca of Reso.
+    Firstly, he bequeaths to the Reso Church Pywhaialla Latonytty. If the heirs wish to redeem it, they may do so for 20 marks.
+    Also, he leaves to the Rusko Church Høstelahte lato ibidem, a part of the meadow there of five carts, for the perpetual possession of the altar of the Blessed Virgin in the Turku Cathedral. If the heirs wish to redeem the meadow of Rusko, they may do so for 12 marks. However, the part of the altar of the Blessed Virgin shall not be redeemed but remain in perpetual possession.
+    Furthermore, he gives to the lord provost the land which the legislator holds beyond the river."</translation>
+
 </document>
 
 <document nr="09" nrDF="3984" type="testament" when="1483" where="Turku" link="http://df.narc.fi/document/3984">
@@ -122,6 +132,13 @@ Master Håkan bequeathes to Abo Cathedral eight spoons, a lot with buildings on 
 <p>Jtem duo promptuaria paria jn monticulo Keeris sytuata.</p>
 <p>Erlando, Margarete et Katherine secundum seculum heredibus meis do omnia bona mea pro suppellectilj domus necessaria, que in paruo promptuario Keris collocata sunt, ad inuicem distribuenda et nil aliud penitus nisi quod hiis litteris est insitum. Aliud facientibus occurrat Dei iudicium vlcionis.</p>
 </edition>
+
+<translation>Testamentum magistri Haquini.
+    Altari beate patrone mee Katherine octo coclearia operis mensalis ad vnum calicem fabricandum.
+    Jtem ffundum prope ampnem cum suis edificiis; jtem vnum pratellum jnsulare dictum Hartmansholm.
+    Jtem duo promptuaria paria jn monticulo Keeris sytuata.
+    Erlando, Margarete et Katherine secundum seculum heredibus meis do omnia bona mea pro suppellectilj domus necessaria, que in paruo promptuario Keris collocata sunt, ad inuicem distribuenda et nil aliud penitus nisi quod hiis litteris est insitum. Aliud facientibus occurrat Dei iudicium vlcionis.</translation>
+
 </document>
 
 <document nr="10" nrDF="3851" type="" when="1480-omkring" where="Turku" link="http://df.narc.fi/document/3851">
@@ -145,6 +162,16 @@ Provost <issuer status="ecclesiastic" gender="m" onlyone="y">Magnus Nicolai</iss
 <p>Wniuersis et singulis presentes litteras visuris, inspecturis pariter et audituris Magnus Nicolaj, prepositus ecclesie Aboensis, licet inutilis heudolor et indignus, salutem et fidem indubiam presentibus adhibere. Cum cunctis christifidelibus non solum de factis propriis ymo eciam de bonis sibi a Deo collatis coram supremo judice sue villicacionis incumbat reddere racionem, jn huius rei causa ad laudem et gloriam beatissime jndiuidue trinitatis, ad memoriam patronis Domini nostri Ihesu Christi ac eiusdem ascensionis atque celeberrime assumpcionis et amatissime compassionis, intemerate eiusdem Dei genitricis virginis Marie ad laudem, necnon sub nomine et vocabulo omnium sanctorum Dei, jn remissionem peccatorum meorum, ob salutem anime mee et parentum ac amicorum atque benefactorum meorum necnon omnium christifidelium viuorum et defunctorum, preteritorum, presencium et futurorum, altare quoddam jn predicta ecclesia Aboensi ex reuerendi jn Christo patris et domini mei domini Conradi, Dei gracia episcopi Aboensis, et suj venerabilis capituli consensv erexi, instituj et fundauj prout per presentes erigo, instituo et fundo, jta quod in eodem altari preter et vltra missam que cotidie de gloriosissima virgine Maria ibidem decantatur, vna altare (ͻ: altera)<note place="margin">nec non et due alie jn altari Ihesu Christi.</note> certis modo et ordine, prout in aliis meis litteris desuper confectis expressius habetur, Ioco summe misse dietim et in perpetuum cantando celebretur, pro cuius altaris dote, ereccione et fundacione ac ipsorum choralium ibidem officiacione, sustentacione jnfrascripta predia dono, deputo et assigno, jn primis duas colonias jn Wema, Vkkilax et Pankyioki, deinde vnam coloniam in Wirma videlicet Valdas, in (ͻ: jtem) duas colonias in Mannos jn Lemmo, jtem Nwmmis in Nowsis, jtem tria predia in Reesa, videlicet Somarsoya, Petæ[s]mæ(s)ki et Thorawori, jtem Koskis in Nwmmis, jtem tria predia jn Lund, videlicet Wentiælæ superiorem, Wentiæla inferiorem et Nolima, jn Pemara tria predia, videlicet duo in Mariawori, vnum in Mwnkila et duo in Kyllylæ, jtem jn Sagw tria predia, videlicet Kaukarla, Koskis et Rwskulla, et in Parghaso vnum predium, dictum Pargasby, quod predium honorabilis vir dominus Andreas Diues eidem contulit altari; jtem granarium meum dictum Mækelborg vltra ampnem cum ortis duobus, vno prope granarium et altero ex opposito granarii ad latus ampnis situatis<note type="editorial" xml:lang="sv">Härvid är i marginalen anmärkt: Hic deficiunt prediorum nomina.</note>; jnsuper pro residencia ipsorum choralium memoratus dominus meus reuerendus domum seu curiam lapideam apud foueam, ex opposito fundi beati Bartholomej locatam, eidem altari de conssensu suj dicti venerabilis capituli irreuocabiliter incorporauit, prout in litteris suis desuper confectis plenius continetur, pro qua quidem curia et eiusdem redempcione cuidam Thome centum marcas et domino Gregorio Alueri sexaginta marcas sueuice monete vltra summan in litteris Swenonis aurifabri expressam de meis exsoluj. Jnsuper et fundicum primum, quem jam altarista beati Erici possidet in ortum inter domum Johannis aurifabri et predictam curiam sitam, commutauj, que quidem curia cum omnibus suis attinenciis pro memoratis choralibus in perpetuum est deputata. Et si ipsa infirmaria sacerdotum cassata aut anullata fuerit, quod Deus avertat, domum lapideam, quam a Philippo Kaland dudum emeram, eciam memorate capelle pro dictorum choralium sustentacione volo omnias habere incorporatam.</p>
 <p>Deinde<note type="editorial" xml:lang="sv">Hela detta stycke är i originalet skrifvet med ljusare bläck, men, som det synes, af samma hand som skrifvit öfriga delen af brefvet.</note> pro <transaction type="house">domo lapidea</transaction>, apud <landscape  cat="built" type="lot" lemma="fundicus">fundicum</landscape> beate Katerine versus <landscape cat="natural" type="river" lemma="ampnis">ampnem</landscape> erecta, et pro toto <transaction type="lot">fundico</transaction>, quem Iohannes aurifaber olim possedit, soluimus sibi primum xl marcas, deinde tradidimus sibi fundicum nostrum ad latus domus Eurardi cirograferi cum cellario murato et testudinato et centum marcis monete sweuicane. Item tradidimus altari sancti Erici <transaction type="lot">fundicum</transaction> nostrum paternum cum quatuor <transaction type="cabin">stubellis</transaction>, loco cuius recepimus paruam <transaction type="lot">fundici</transaction> beati Erici, in fundico omnium sanctorum memorato incorporatam.]</p>
 </edition>
+
+<translation>Skokloster Codex Aboensis fol. 125 (the last page, made of parchment and marked with the old designation: Folium primum). - Title: Letter of the foundation of the highest altar of the chapel of All Saints and the highest mass. - The text in italics below is crossed out in the manuscript.
+
+    To all and singular who will see, inspect, and hear these present letters, Magnus Nicolaj, provost of the Turku Cathedral, although useless, afflicted, and unworthy, gives greetings and indubitable faith in these present documents. Since it is incumbent upon all Christians, not only to give an account of their own deeds but also of the goods that have been bestowed upon them by God before the supreme judge of their stewardship, for the sake of the praise and glory of the most blessed and undivided Trinity, in memory of our Lord Jesus Christ, and his ascension and most celebrated assumption, and beloved compassion, the immaculate Virgin Mary, for the praise, as well as under the name and title of all the saints of God, for the remission of my sins, for the salvation of my soul and those of my parents, friends, benefactors, as well as all the living and deceased Christians, past, present, and future, I have erected, instituted, and founded an altar in the aforementioned Turku Cathedral, with the consent of my revered father in Christ and lord, Conrad, by the grace of God, bishop of Turku, and his venerable chapter, as I erect, institute, and found by these presents, so that on the same altar, besides the daily mass which is sung there in honor of the most glorious Virgin Mary, another altar shall be celebrated daily and perpetually according to a certain mode and order, as is more fully expressed in my other letters made above. For the endowment, erection, and foundation of this altar, as well as the sustenance and performance of their choral office there, I give, designate, and assign the underwritten properties, firstly, two colonies in Wema, Vkkilax, and Pankyioki, then one colony in Wirma, namely Valdas, two colonies in Mannos in Lemmo, Nwmmis in Nowsis, three properties in Reesa, namely Somarsoya, Petæ[s]mæ(s)ki, and Thorawori, Koskis in Nwmmis, three properties in Lund, namely Wentiælæ superior, Wentiæla inferior, and Nolima, three properties in Pemara, namely two in Mariawori, one in Mwnkila, and two in Kyllylæ, three properties in Sagw, namely Kaukarla, Koskis, and Rwskulla, and one property in Parghaso, called Pargasby, which the honorable man Andreas Diues bestowed on the same altar. Also, my granary, called Mækelborg, beyond the river, with two gardens, one near the granary, and the other situated on the opposite side of the river; furthermore, for the residence of the choristers themselves, my aforementioned lord reverend has incorporated a stone house or court at the well, located opposite the land of Saint Bartholomew, with the consent of his aforementioned venerable chapter, as is more fully contained in his letters made above. For this court, and its redemption, I have paid to a certain Thomas one hundred marks and to Lord Gregorius Alueri sixty marks of Swedish money, over and above the sum expressed in the letters of Swenon the goldsmith. 
+    
+    Furthermore, I exchanged the first property, which is currently possessed by the altarist of St. Eric, located in the garden between the house of John the goldsmith and the aforementioned court. This court, together with all its appurtenances, is dedicated to the mentioned choristers in perpetuity. And if the infirmary of the priests is dissolved or annulled, God forbid, I also will the stone house, which I had previously bought from Philip Kaland, to be incorporated for the support of the aforementioned choristers of the chapel.
+
+Then, for the stone house erected near the fundiculum of St. Katherine towards the river, and for the entire fundiculum previously owned by John the goldsmith, we paid him first 40 marks, and then we handed over our own fundiculum located next to the house of Euardi the scrivener, with a walled and vaulted cellar, and 100 marks of Swedish currency. We also handed over our paternal fundiculum of the altar of St. Eric, which had four stubellis, and in exchange we received a small portion of the fundiculum of All Saints, which was incorporated into the aforementioned fundiculum of St. Katherine.</translation>
+
+
 </document>
 
 <document nr="11" nrDF="1296" type="" when="1409-05-06" where="Turku" link="http://df.narc.fi/document/1296">
@@ -163,7 +190,7 @@ Sale by Jöns Henriksson, burgher of Abo, with the autho­rization of the brothe
 
 <edition editor="Hausen" xml:lang="sv-x-old">
 <title xml:lang="la">Super <landscape cat="built" type="farm" lemma="fundicus">fundico</landscape> beate Marie virginis, qui adiacet curie altariste clericorum.</title>
-Ffor allom them som thetta breff høre eller see bekennis jach Jøns Henricsson, byman j Abo, met tesso myno opne breffue mik haffua salt oc wpantwordat beskedeligin man Jop Dordenbusc the  <transaction type="lot">tompthen</transaction> wid <landscape cat="natural" type="FIXME:ditch" lemma="gropen">gropena</landscape>, som Jop Jønisson, scolemestare j Viborgh, oc hans brødrom Hæmingh Jønisson oc Olaf Jønisson tilhører, fore xxvj marc redhe peninga tolkit mynt som nw j Abo goor, en Ræuelisc ortogh fore ix peninga; huilka peninga han hauer mik bittalat fulleliga tiil goda nøghia, æpther thet ath Hæminger Jønisson hauer mik giort mektogan ok myndoghan aa syna brødhra oc sielff sins wægna the forsagda tompt at sælia och hemolæ them hona køper, vtan alla naklaghan. Ffore thy afhender jak for:de tompten vndan for:de Jop Jønisson, Hæming Jønsson oc Olaf Jønsson och thera arffuom oc tileghnar for:de Jop Durdenbusc aff helga likama wæghna swa lenge han liffuer. Tho han bliffuer døder tho scal engen hans ærwingie the forsagda tompt at ærffwa æller the hws, som han ther vpa bigger, vtan scal lighia vnder helge likame til æuerdelige ægho, bode hws oc tompt. Her wore offuer beskelige men Andris Rømare, borgamester j Abo, oc Peder Kowasødin, byman ther sama stadz. Tiil tesses breff mere visso henger jak myt jncigle fore thetta breff oc beder jac for:de Andris Rømare oc Peder Kowasodin at the hengia thera jncigle met myno fore thetta sama breff. Scriptum Abo anno Domini mcd nono, die Johannis ante portam latinam.
+Ffor allom them som thetta breff høre eller see bekennis jach Jøns Henricsson, byman j Abo, met tesso myno opne breffue mik haffua salt oc wpantwordat beskedeligin man Jop Dordenbusc the  <transaction type="lot">tompthen</transaction> wid <landscape cat="natural" type="ditch" lemma="gropen">gropena</landscape>, som Jop Jønisson, scolemestare j Viborgh, oc hans brødrom Hæmingh Jønisson oc Olaf Jønisson tilhører, fore xxvj marc redhe peninga tolkit mynt som nw j Abo goor, en Ræuelisc ortogh fore ix peninga; huilka peninga han hauer mik bittalat fulleliga tiil goda nøghia, æpther thet ath Hæminger Jønisson hauer mik giort mektogan ok myndoghan aa syna brødhra oc sielff sins wægna the forsagda tompt at sælia och hemolæ them hona køper, vtan alla naklaghan. Ffore thy afhender jak for:de tompten vndan for:de Jop Jønisson, Hæming Jønsson oc Olaf Jønsson och thera arffuom oc tileghnar for:de Jop Durdenbusc aff helga likama wæghna swa lenge han liffuer. Tho han bliffuer døder tho scal engen hans ærwingie the forsagda tompt at ærffwa æller the hws, som han ther vpa bigger, vtan scal lighia vnder helge likame til æuerdelige ægho, bode hws oc tompt. Her wore offuer beskelige men Andris Rømare, borgamester j Abo, oc Peder Kowasødin, byman ther sama stadz. Tiil tesses breff mere visso henger jak myt jncigle fore thetta breff oc beder jac for:de Andris Rømare oc Peder Kowasodin at the hengia thera jncigle met myno fore thetta sama breff. Scriptum Abo anno Domini mcd nono, die Johannis ante portam latinam.
 </edition>
 </document>
 
@@ -518,6 +545,11 @@ Habet pro jnuentario vnum taurum, ij vaccas, ij oues.
 Dabit iij marcas pro agrario in anno.
 
 2:a colonia. Anno eodem.</title>
+
+<translation>"For the spring sowing:
+    He has one bull, two cows, and two sheep for the January plowing. He will give three marks per year for the agricultural land.
+    
+    Second colony. Same year."</translation>
 
 Gaff ærligin och velboren man her Henric Clauusson riddere met synne
 husfrves samtickia, ffrv Lucia, eth godz som hether Aysynpæ lighiande j Masko
@@ -1270,7 +1302,8 @@ Notification of an exchange of land carried out in the pres­ence of a number of
 <edition editor="Hausen" xml:lang="sv-x-old">
 <title xml:lang="la">Super permutacione <transaction type="house">curie</transaction> et <transaction type="lot">fundici</transaction> Menarth etc:a cum ecclesia facta.</title>
 Aarum epther Herrens byrdh mdix, torsdagen nest epter sancti Gregorij dagh, wore tæsse eptherscrifne gode men offuer een forlikan oc eeth bythe j mellen domkircken pa then eno oc j mellen Menarth glasmesther oc hans dotthror Margareta oc Kaderin pa then annan sidho om nogre <transaction type="lot">tompther</transaction>, <transaction type="house">hwss</transaction> oc <transaction type="house">gordher</transaction>, som the bytthe oc skiffte sigh j mellen, som ære <issuer status="burgher" gender="m" onlyone="n">Nielss scriffuare, Nielss Mwraynen, Michel Lappalaynen, Peder offuerskærare</issuer>, radmen her j Abo, oc <issuer status="burgher" gender="m" onlyone="n">Sigfridh Swartis oc Marcus Andersson</issuer>, borgare ther same stadz. Først skattadhe the tompthen ther Menart bodde wid <landscape cat="built" type="house of the presbyter community" lemma="communis">commvne</landscape> met <transaction type="house">steenhwss</transaction> oc <transaction type="cellar">kellare</transaction> etc:a ffør ccxxx marker oc een lithen <transaction type="lot">tompt</transaction> ther strax nær, som hørdde hustrw Margareta enkannelige til oc war løst fron sancte Vrsule, then skattadhe the for lx marker. Jtem ther aa mooth skattadhe the ij kirkiones <transaction type="lot">tompther</transaction> met <transaction type="house">steenhwss</transaction> oc <transaction type="cellar">kellare</transaction> etc:a, først litzle <transaction type="garden">FIXME:Worefrwgarden</transaction>, som kirkin fik aff Knwt Posze, liggendis ginmooth Gertrud Karwotaske paa <landscape cat="built" type="street" lemma="Aagathan">Aagathan</landscape><note type="editorial">Härtill ändradt från <landscape cat="built" type="street" lemma="Fægathan">Fagatan</landscape> (ͻ: Fægatan).</note>, før cxl marker, huilken tompt oc gardh anamedh før:de Menart oc hans dotter Kaderin før theris andell oc xxxiij marker denarer ther til, huilke the finge j gode redho, førthy them borde før theris deell clxxiij marker. Item swa skattadhe the før:de gode men een <transaction type="loy">tompt</transaction> met <transaction type="house">steenhws</transaction> oc <transaction type="cellar">kellare</transaction> etc:a pa <landscape cat="built" type="street" lemma="Tauastgathen">Tawestgathwn</landscape>, som kircken fik aff hustrw Kaderin Grottens, for cxxx marker. Then gardhen anamedh hustrw Margarita før hennes deell met hennes husbondis Henrikx jaa oc samtycke, oc honom eller henne bør giffwa sancte Henrik j moet xiij marker. Theris deell j bade for:de theris tomther løper cxvij marker; swa at her epter scall kircken eller preste commune friith oc qwith beholda til ewigh tiidt the før:de twa tompther som Menart met hans dottror aatthe, oc forscr:ne Menart met syne dotthror oc theris erffuinge scule beholle the forscr:ne kirckens tompther oc til ewiigh tiid. Thenne førscr:ne wenlige bythe oc forliiken forkynnedhe for:de gode men Nielss scriffware etc:a førsthe radzstwghw dagh ther epter oc lathe kome j stadzens tænckebook met badhe parthernis samtycke oc jaa, huilke ta nærwore aa kirkens wegna, hedherligen herre mester Henrik Wenne, domprowest j Abo, oc Menarth glasmesther aa syne oc syns barns wegna met syn maagh Henrik. Acta sunt hec die et loco quibus supra.
-Iste processus de verbo ad verbum habetur jn libro judiciorum consulatus, dicto stadz tenckebook.
+Iste processus de verbo ad verbum habetur jn libro judiciorum consulatus, dicto stadz tenckebook. <translation>"These things were done on this day and in this place as stated above.
+    This process is recorded word for word in the book of judgments of the Council, known as the stadz tenckebook."</translation>
 </edition>
 </document>
 
@@ -1375,6 +1408,31 @@ Jtem vnum pratum in Kærkis de x plaustris fenj.
 Jtem ij ciste.
 Jtem i pellis vrsina.
 </edition>
+
+<translation>Ornaments of the altar of Saint George, first:
+
+    First, three sets of altar vestments in addition to one cloth.
+    Also, two gilded chalices.
+    Also, two ampullae.
+    Also, one missal for the entire year.
+    Also, one diurnal for the saints.
+    Also, one small silver spoon.
+    Also, one cushion.
+    Also, two breviaries, one of which is held by Lord Heluicus in Pernæ.
+    Also, two cases for relics and one case for offerings.
+    Also, three corporals, four sets of vestments for the mass, and one chasuble.
+    Also, two tapestries, one silver image of Saint George.
+    Also, two panels and one pavement.
+    Also, one house in Kersemækj, which Lord Johannes Vddonis, in his good memory, left to the altar.
+    Also, one house in Leuco, which Lord Hinzelinus left.
+    Also, one house in Hamarke, which Arnaldus Fresykinj left.
+    Also, one house in the parish of Saint Martin, which Bishop Henricus left.
+    Also, one house in the city of Abo.
+    Also, a space for one small shop located in the marketplace, which Gozelinus Pron left.
+    Also, one meadow in Kærkis of ten carts of hay.
+    Also, two chests.
+    Also, one bear skin.</translation>
+
 </document>
     
 
@@ -1394,6 +1452,9 @@ haberet, impetu ire, quam ipse exponens concepit, in dictum
 conversum manus suas iniecit seu posuit absque tamen corporis sui
 lesione. Propter quod excommunicationis sententiam in tales generaliter promulgatam incurrit; et sic ligatus tamquam simplex et non in contemptum clavium divina celebravit et alias se immiscuit eisdem. Supplicat, quatenus ipsum a dicta sententia et excessibus huiusmodi absolvi secumque super irregularitate dicto modo contracta dispensari mandare misericorditer dignemini de gratia speciali. Fiat de speciali. Iulianus episcopus Brictonoriensis regens.
 </edition>
+
+<translation>Magnus Petri, a priest of the diocese of Turku, present in your holy court, explains that while he was once escorting a certain convert of the Dominican convent in Turku, who was hiding the nephew of the said Magnus Petri in his cell, moved by an unknown spirit, he encountered him in the public square of the city of Turku and impulsively laid his hands on the said convert without, however, causing any harm to his body. As a result, he incurred the general sentence of excommunication promulgated against such offenders and thus bound, he celebrated the divine sacraments and participated in other such acts. He humbly implores your mercy to absolve him from the aforementioned sentence and excesses and to dispense him from the irregularity thus contracted. May it be done by your special grace. Julian, bishop of the diocese of Turku, presiding.</translation>
+
 </document>    
 
 </landscapes>
