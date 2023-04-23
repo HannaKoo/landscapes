@@ -19,6 +19,9 @@ regesta {margin-top: 1em;
 edition {visibility: hidden; 
         margin: 2em;
         display: block;}
+
+translation {visibility: hidden;}
+
 issuer {font-weight: bold;}
 issuer[gender="m"] {color: #44f;}
 issuer[gender="f"] {color: #f66;}
