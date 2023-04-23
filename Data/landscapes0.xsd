@@ -111,6 +111,7 @@
                         <xs:complexType mixed="true">
                           <xs:sequence minOccurs="0">
                             <xs:choice maxOccurs="unbounded">
+                            <xs:element name="translation" minOccurs="0" maxOccurs="unbounded" />
                             <!-- issuer ja landscape ja note ja p ja place Typeksi: -->
                             <xs:element name="issuer" minOccurs="0">
                               <xs:complexType>
@@ -428,6 +429,7 @@
                   <xs:attribute name="link" type="xs:string" use="optional" />
                 </xs:complexType>
               </xs:element>
+              <xs:element name="translation" minOccurs="0" maxOccurs="unbounded" />
             </xs:sequence>
             <xs:attribute name="nr" type="xs:unsignedByte" use="optional" />
             <xs:attribute name="nrDF" type="xs:unsignedShort" use="optional" />
