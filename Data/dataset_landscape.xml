@@ -134,13 +134,10 @@ Master Håkan bequeathes to Abo Cathedral eight spoons, a lot with buildings on 
 <p>Erlando, Margarete et Katherine secundum seculum heredibus meis do omnia bona mea pro suppellectilj domus necessaria, que in paruo promptuario Keris collocata sunt, ad inuicem distribuenda et nil aliud penitus nisi quod hiis litteris est insitum. Aliud facientibus occurrat Dei iudicium vlcionis.</p>
 </edition>
 
-<translation source="ChatGPT" xml:lang="en">Testamentum magistri Haquini.
-Altari beate patrone mee Katherine octo coclearia operis mensalis ad vnum calicem fabricandum.
-Jtem ffundum prope ampnem cum suis edificiis; jtem vnum pratellum jnsulare dictum Hartmansholm.
-Jtem duo promptuaria paria jn monticulo Keeris sytuata.
-Erlando, Margarete et Katherine secundum seculum heredibus meis do omnia bona mea pro suppellectilj domus necessaria, que in paruo promptuario Keris collocata sunt, ad inuicem distribuenda et nil aliud penitus nisi quod hiis litteris est insitum. Aliud facientibus occurrat Dei iudicium vlcionis.
+<translation source="ChatGPT" xml:lang="en">
+To create a chalice, I, Katherine, request eight silver spoons for monthly work. Also, I possess a nearby property with its buildings, a small island called Hartmansholm, and two storage houses situated on Keeris hill.
+I give all my belongings, necessary for household items, which are located in the small Keeris storage house, to my heirs according to the generation, namely Erland, Margarete, and Katherine. This is the only distribution method, and any deviation from these instructions will face God's punishment.
 </translation>
-
 </document>
 
 <document nr="10" nrDF="3851" type="" when="1480-omkring" where="Turku" link="http://df.narc.fi/document/3851">
@@ -190,7 +187,7 @@ Sale by Jöns Henriksson, burgher of Abo, with the autho­rization of the brothe
 </regesta>
 
 <edition editor="Hausen" xml:lang="sv-x-old">
-<title xml:lang="la">Super <landscape cat="built" type="farm" lemma="fundicus">fundico</landscape> beate Marie virginis, qui adiacet curie altariste clericorum.</title>
+<title xml:lang="la">Super <transaction type="lot">fundico</transaction> beate Marie virginis, qui adiacet <landscape cat="built" type="house" lemma="FIXME">curie</landscape> altariste clericorum.</title>
 Ffor allom them som thetta breff høre eller see bekennis jach Jøns Henricsson, byman j Abo, met tesso myno opne breffue mik haffua salt oc wpantwordat beskedeligin man Jop Dordenbusc the  <transaction type="lot">tompthen</transaction> wid <landscape cat="natural" type="ditch" lemma="gropen">gropena</landscape>, som Jop Jønisson, scolemestare j Viborgh, oc hans brødrom Hæmingh Jønisson oc Olaf Jønisson tilhører, fore xxvj marc redhe peninga tolkit mynt som nw j Abo goor, en Ræuelisc ortogh fore ix peninga; huilka peninga han hauer mik bittalat fulleliga tiil goda nøghia, æpther thet ath Hæminger Jønisson hauer mik giort mektogan ok myndoghan aa syna brødhra oc sielff sins wægna the forsagda tompt at sælia och hemolæ them hona køper, vtan alla naklaghan. Ffore thy afhender jak for:de tompten vndan for:de Jop Jønisson, Hæming Jønsson oc Olaf Jønsson och thera arffuom oc tileghnar for:de Jop Durdenbusc aff helga likama wæghna swa lenge han liffuer. Tho han bliffuer døder tho scal engen hans ærwingie the forsagda tompt at ærffwa æller the hws, som han ther vpa bigger, vtan scal lighia vnder helge likame til æuerdelige ægho, bode hws oc tompt. Her wore offuer beskelige men Andris Rømare, borgamester j Abo, oc Peder Kowasødin, byman ther sama stadz. Tiil tesses breff mere visso henger jak myt jncigle fore thetta breff oc beder jac for:de Andris Rømare oc Peder Kowasodin at the hengia thera jncigle met myno fore thetta sama breff. Scriptum Abo anno Domini mcd nono, die Johannis ante portam latinam.
 </edition>
 </document>
