@@ -24,6 +24,10 @@ edition {margin: 2em;
 translation {background-color: #f8f4ff;
              margin: 2em;
              display: block;}
+translation::after{content: attr(source);
+                   display:block;
+                   text-align: right;
+                   font-size: 80%;}
 
 issuer {font-weight: bold;}
 issuer[gender="m"] {color: #44f;}
