@@ -29,9 +29,18 @@ translation::after{content: '- ' attr(source);
                    text-align: right;
                    font-size: 80%;}
 
-issuer {font-weight: bold;}
+issuer {font-weight: bold;
+        display: inline-block;
+        position: relative;}
 issuer[gender="m"] {color: #44f;}
 issuer[gender="f"] {color: #f66;}
+issuer::before {content: attr(status);
+                position: absolute;
+                bottom: 1.9em;
+                font-weight: normal;
+                font-size: medium;
+                line-height: 0.8;
+}
 
 landscape {display: inline-block; 
         font-weight: bold;
