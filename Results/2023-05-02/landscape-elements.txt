@@ -1,0 +1,62 @@
+document 02 {'cat': 'built', 'type': 'church', 'lemma': 'ecclesia kathedralis'} {'cat': 'built', 'type': 'church', 'lemma': 'ecclesia'} 
+document 07 {'cat': 'built', 'type': 'river', 'lemma': 'ampnis'} {'cat': 'built', 'type': 'bridge', 'lemma': 'pons'} {'cat': 'built', 'type': 'garden', 'lemma': 'ortus'} {'cat': 'built', 'type': 'granary', 'lemma': 'granarium'}    
+document 08 {'cat': 'natural', 'type': 'river', 'lemma': 'ampnis'}
+document 09 {'cat': 'natural', 'type': 'river', 'lemma': 'ampnis'}
+document 10 {'cat': 'built', 'type': 'lot', 'lemma': 'fundicus'} {'cat': 'natural', 'type': 'river', 'lemma': 'ampnis'}
+document 11 {'cat': 'built', 'type': 'house', 'lemma': 'curia'} {'cat': 'natural', 'type': 'ditch', 'lemma': 'gropen'}
+document 12 {'cat': 'natural', 'type': 'river', 'lemma': 'an'}
+document 14 {'cat': 'built', 'type': 'market square', 'lemma': 'forum'} {'cat': 'built', 'type': 'market square', 'lemma': 'torgith'} {'cat': 'built', 'type': 'market square', 'lemma': 'torgith'}
+document 16 {'cat': 'built', 'type': 'convent', 'lemma': 'brøderclostret'}
+document 17 {'cat': 'built', 'type': 'convent', 'lemma': 'clostret'}
+document 18 {'cat': 'natural', 'type': 'river', 'lemma': 'ampnis'} {'cat': 'built', 'type': 'house', 'lemma': 'curia'} {'cat': 'natural', 'type': 'river', 'lemma': 'an'} {'cat': 'built', 'type': 'region', 'lemma': 'nya stadhen'}   
+document 19 {'cat': 'built', 'type': 'region', 'lemma': 'plaga'} {'cat': 'natural', 'type': 'river', 'lemma': 'ampnis'} {'cat': 'built', 'type': 'bridgehead', 'lemma': 'pons'} {'cat': 'built', 'type': 'sauna', 'lemma': 'balneatorium'} {'cat': 'natural', 'type': 'river', 'lemma': 'an'} {'cat': 'natural', 'type': 'bridgehead', 'lemma': 'brooendhen'} {'cat': 'built', 'type': 'sauna', 'lemma': 'badhstoffuu'} {'cat': 'built', 'type': 'bridge', 'lemma': 'bron'}   
+document 23 {'cat': 'built', 'type': 'street', 'lemma': 'vicus Tauastie'} {'cat': 'built', 'type': 'street', 'lemma': 'vicus Tauastie'} {'cat': 'built', 'type': 'street', 'lemma': 'Tauastgathen'}
+document 24 {'cat': 'natural', 'type': 'river', 'lemma': 'ampnis'} {'cat': 'natural', 'type': 'river', 'lemma': 'an'} {'cat': 'built', 'type': 'street', 'lemma': 'gathan'}
+document 25 {'cat': 'built', 'type': 'market square', 'lemma': 'forum'} {'cat': 'built', 'type': 'market square', 'lemma': 'torgith'}
+document 27 {'cat': 'natural', 'type': 'ditch', 'lemma': 'gropen'} {'cat': 'built', 'type': 'church', 'lemma': 'kirkian'}
+document 28 {'cat': 'built', 'type': 'market square', 'lemma': 'forum'} {'cat': 'built', 'type': 'market square', 'lemma': 'torgith'} {'cat': 'built', 'type': 'market square', 'lemma': 'torgith'} {'cat': 'built', 'type': 'street', 
+'lemma': 'gathan'}
+document 30 {'cat': 'natural', 'type': 'ditch', 'lemma': 'gropen'} {'cat': 'built', 'type': 'market square', 'lemma': 'torgith'} {'cat': 'built', 'type': 'market square', 'lemma': 'torgith'}
+document 31 {'cat': 'natural', 'type': 'ditch', 'lemma': 'gropen'}
+document 32 {'cat': 'built', 'type': 'ditch', 'lemma': 'gropen'} {'cat': 'built', 'type': 'bridge', 'lemma': 'bron'} {'cat': 'built', 'type': 'street', 'lemma': 'Kirkiegathen'}
+document 34 {'cat': 'natural', 'type': 'river', 'lemma': 'an'} {'cat': 'natural', 'type': 'ditch', 'lemma': 'dikit'}
+document 36 {'cat': 'natural', 'type': 'river', 'lemma': 'an'} {'cat': 'built', 'type': 'convent', 'lemma': 'clostret'} {'cat': 'built', 'type': 'street', 'lemma': 'Övergatan'} {'cat': 'built', 'type': 'market square', 'lemma': 'torgith'} {'cat': 'built', 'type': 'bridge', 'lemma': 'bron'}
+document 39 {'cat': 'built', 'type': 'market square', 'lemma': 'torgith'} {'cat': 'built', 'type': 'shop', 'lemma': 'bod'}
+document 44 {'cat': 'natural', 'type': 'river', 'lemma': 'ampnis'} {'cat': 'built', 'type': 'lot', 'lemma': 'mansio'} {'cat': 'natural', 'type': 'river', 'lemma': 'an'} {'cat': 'built', 'type': 'lot', 'lemma': 'tompt'}
+document 46 {'cat': 'natural', 'type': 'river', 'lemma': 'an'}
+document 47 {'cat': 'natural', 'type': 'river', 'lemma': 'an'}
+document 48 {'cat': 'built', 'type': 'market square', 'lemma': 'forum'}
+document 49 {'cat': 'natural', 'type': 'river', 'lemma': 'ampnis'} {'cat': 'natural', 'type': 'river', 'lemma': 'an'}
+document 50 {'cat': 'built', 'type': 'street', 'lemma': 'vicus Tauastie'} {'cat': 'built', 'type': 'street', 'lemma': 'Tauastgathen'}
+document 54 {'cat': 'built', 'type': 'street', 'lemma': 'Kirkiegathen'} {'cat': 'natural', 'type': 'river', 'lemma': 'an'} {'cat': 'built', 'type': 'convent', 'lemma': 'sancti Olaffs clostret'}
+document 55 {'cat': 'built', 'type': 'house', 'lemma': 'mansio'} {'cat': 'natural', 'type': 'river', 'lemma': 'ampnis'} {'cat': 'natural', 'type': 'river', 'lemma': 'an'} {'cat': 'built', 'type': 'house', 'lemma': 'gardh'}
+document 58 {'cat': 'natural', 'type': 'lake', 'lemma': 'Mæthajærffuj'}
+document 59 {'cat': 'natural', 'type': 'ditch', 'lemma': 'gropen'} {'cat': 'built', 'lemma': 'Sancti Bartolomei Gaardh'}
+document 60 {'cat': 'natural', 'type': 'river', 'lemma': 'ampnis'} {'cat': 'built', 'type': 'church', 'lemma': 'Woreffrv kirkio'} {'cat': 'natural', 'type': 'ditch', 'lemma': 'dikit'} {'cat': 'built', 'type': 'shop', 'lemma': 'bodh'}
+document 61 {'cat': 'natural', 'type': 'river', 'lemma': 'ampnis'} {'cat': 'natural', 'type': 'coast', 'lemma': 'stranden'} {'cat': 'built', 'type': 'house', 'lemma': 'FIXME:Domprouestens gord'} {'cat': 'built', 'type': 'stone sauna', 'lemma': 'FIXME:stenbastuffwen'} {'cat': 'natural', 'type': 'river', 'lemma': 'strand'}
+document 62 {'cat': 'natural', 'type': 'river', 'lemma': 'ampnis'} {'cat': 'natural', 'type': 'coast', 'lemma': 'stranden'} {'cat': 'built', 'type': "Provost's house", 'lemma': 'FIXME:Domprouestens gord'} {'cat': 'built', 'type': 'stone sauna', 'lemma': 'FIXME:stenbastuffwen'}
+document 63 {'cat': 'natural', 'type': 'river', 'lemma': 'ampnis'} {'cat': 'natural', 'type': 'coast', 'lemma': 'stranden'} {'cat': 'built', 'type': "Provost's house", 'lemma': 'FIXME:Domprouestens gord'} {'cat': 'built', 'type': 'stone sauna', 'lemma': 'FIXME:stenbastuffwen'}
+document 64 {'cat': 'natural', 'type': 'river', 'lemma': 'ampnis'} {'cat': 'natural', 'type': 'river', 'lemma': 'an'} {'cat': 'built', 'type': 'city region', 'lemma': 'Aensborgh'}
+document 65 {'cat': 'natural', 'type': 'river', 'lemma': 'an'} {'cat': 'natural', 'type': 'river', 'lemma': 'an'} {'cat': 'built', 'type': 'street', 'lemma': 'gathan'}
+document 66 {'cat': 'natural', 'type': 'river', 'lemma': 'ampnis'} {'cat': 'natural', 'type': 'river', 'lemma': 'an'} 
+document 67 {'cat': 'natural', 'type': 'river', 'lemma': 'ampnis'}
+document 68 {'cat': 'natural', 'type': 'river', 'lemma': 'ampnis'} {'cat': 'natural', 'type': 'river', 'lemma': 'an'}
+document 69 {'cat': 'built', 'type': 'market square', 'lemma': 'torgith'} {'cat': 'built', 'type': 'street', 'lemma': 'Kirkiegathen'}
+document 70 {'cat': 'built', 'type': 'street', 'lemma': 'vicus Tauastie'} {'cat': 'built', 'type': 'street', 'lemma': 'Tauastgathen'}
+document 71 {'cat': 'natural', 'type': 'river', 'lemma': 'ampnis'}
+document 72 {'cat': 'built', 'type': 'street', 'lemma': 'vicus ecclesie'} {'cat': 'built', 'type': 'lot', 'lemma': 'tompt'} {'cat': 'built', 'type': 'stone house', 'lemma': 'FIXME:alle Gudz helgone stenhws'}
+document 73 {'cat': 'built', 'type': 'street', 'lemma': 'Kirkiegathen'} {'cat': 'natural', 'type': 'ditch', 'lemma': 'gropen'}
+document 74 {'cat': 'built', 'type': 'convent', 'lemma': 'clostret'}
+document 75 {'cat': 'built', 'type': 'street', 'lemma': 'Fægathan'} {'cat': 'built', 'type': 'street', 'lemma': 'Fægathan'} {'cat': 'built', 'type': 'street', 'lemma': 'Offuergathen'} {'cat': 'built', 'type': 'street', 'lemma': 'Offuergathen'} {'cat': 'natural', 'type': 'hill', 'lemma': 'Wordbærgit'} {'cat': 'built', 'type': 'stone house', 'lemma': 'FIXME'} {'cat': 'built', 'type': 'street', 'lemma': 'Kirkiegathen'} {'cat': 'built', 'type': 'street', 'lemma': 'Kirkiegathen'} {'cat': 'built', 'type': 'stone house', 'lemma': 'FIXME'} {'cat': 'built', 'type': 'street', 'lemma': 'Tauastgathen'}
+document 80 {'cat': 'built', 'type': 'house of the presbyter community', 'lemma': 'communis'} {'cat': 'built', 'type': 'street', 'lemma': 'Aagathan'} {'cat': 'built', 'type': 'street', 'lemma': 'Fægathan'} {'cat': 'built', 'type': 
+'street', 'lemma': 'Tauastgathen'}
+document 81 {'cat': 'built', 'type': 'street', 'lemma': 'Fægathan'}
+document 82 {'cat': 'built', 'type': 'street', 'lemma': 'Fægathan'}
+document 83 {'cat': 'built', 'type': 'street', 'lemma': 'Fægathan'} {'cat': 'built', 'type': 'ditch', 'lemma': 'gropen'} {'cat': 'built', 'type': "house's lot", 'lemma': 'gords tompt'} {'cat': 'built', 'type': 'street', 'lemma': 'Fægathan'} {'cat': 'built', 'type': 'ditch', 'lemma': 'gropen'}
+document 84 {'cat': 'built', 'type': 'market square', 'lemma': 'forum'}
+document 86 {'cat': 'built', 'type': 'market square', 'lemma': 'publicum forum'}
+
+cats:  {'natural', 'built'}
+keys:  {'lemma', 'type', 'cat'}
+25 types:  {'market square', 'shop', 'coast', 'hill', 'granary', 'region', 'house', 'sauna', 'church', 'stone house', 'city region', 'street', 'garden', 'house of the presbyter community', None, 'ditch', "house's lot", "Provost's house", 'bridge', 'convent', 'lot', 'bridgehead', 'stone sauna', 'lake', 'river'}
+51 lemmas:  ['Aagathan', 'Aensborgh', 'FIXME', 'FIXME:Domprouestens gord', 'FIXME:alle Gudz helgone stenhws', 'FIXME:stenbastuffwen', 'Fægathan', 'Kirkiegathen', 'Mæthajærffuj', 'Offuergathen', 'Sancti Bartolomei Gaardh', 'Tauastgathen', 'Wordbærgit', 'Woreffrv kirkio', 'ampnis', 'an', 'badhstoffuu', 'balneatorium', 'bod', 'bodh', 'bron', 'brooendhen', 'brøderclostret', 'clostret', 'communis', 'curia', 'dikit', 'ecclesia', 'ecclesia kathedralis', 'forum', 'fundicus', 'gardh', 'gathan', 'gords tompt', 'granarium', 'gropen', 'kirkian', 'mansio', 'nya stadhen', 'ortus', 'plaga', 'pons', 'publicum forum', 'sancti Olaffs clostret', 'strand', 'stranden', 'tompt', 'torgith', 'vicus Tauastie', 'vicus ecclesie', 'Övergatan']

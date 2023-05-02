@@ -1,0 +1,174 @@
+Lopussa lista landscape-elementtien määrästä per issuer status.
+
+(Alkusotkun muoto:
+landscape-elementtien määrä
+document - nro - issuer statukset joita löytyy documentista
+taitaa olla viimeisin documentista löytyvä status, debuggaustarkoituksiin
+... uudestaan & uudestaan)
+
+2
+document 02 burgh
+burgh
+4
+document 07 eccle
+eccle
+1
+document 08 eccle
+eccle
+1
+document 09 eccle
+eccle
+2
+document 10 eccle
+eccle
+2
+document 11 burgh
+burgh
+1
+document 12 peasa
+peasa
+3
+document 14 burgh
+burgh
+1
+document 16 burgh
+burgh
+1
+document 17 eccle
+eccle
+4
+document 18 noble
+noble
+8
+document 19 noble
+noble
+3
+document 23 burgh
+burgh
+3
+document 24 burgh
+burgh
+2
+document 25 burgh
+burgh
+2
+document 27 eccle
+eccle
+4
+document 28 eccle
+eccle
+3
+document 30 noble
+noble
+1
+document 31 peasa
+peasa
+3
+document 32 eccle burgh
+burgh
+2
+document 34 burgh
+burgh
+5
+document 36 noble
+noble
+2
+document 39 burgh
+burgh
+4
+document 44 burgh
+burgh
+1
+document 46 noble
+noble
+1
+document 47 noble
+noble
+1
+document 48 burgh
+burgh
+2
+document 49 noble
+noble
+2
+document 50 eccle
+eccle
+3
+document 54 burgh
+burgh
+4
+document 55 eccle
+eccle
+1
+document 58 noble
+noble
+2
+document 59 burgh
+burgh
+4
+document 60 burgh
+burgh
+5
+document 61 noble
+noble
+4
+document 62 noble
+noble
+4
+document 63 noble
+noble
+3
+document 64 burgh
+burgh
+3
+document 65 eccle
+eccle
+2
+document 66 burgh
+burgh
+1
+document 67 burgh
+burgh
+2
+document 68 burgh
+burgh
+2
+document 69 noble
+noble
+2
+document 70 eccle
+eccle
+1
+document 71 noble
+noble
+3
+document 72 eccle
+eccle
+2
+document 73 burgh
+burgh
+1
+document 74 burgh
+burgh
+10
+document 75 burgh
+burgh
+4
+document 80 burgh
+burgh
+1
+document 81 burgh
+burgh
+1
+document 82 burgh
+burgh
+5
+document 83 eccle burgh
+burgh
+1
+document 84 eccle
+eccle
+1
+document 86 eccle
+eccle
+{'eccle': 31, 'noble': 41, 'burgh': 61, 'peasa': 2, 'sever': 8}

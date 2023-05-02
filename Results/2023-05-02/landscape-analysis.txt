@@ -1,0 +1,72 @@
+{'nr': '02', 'lang': 'la', 'when': '1370-05-31', 'words': 123, 'iss_gen': 'both', 'landscapes': 2}
+{'nr': '07', 'lang': 'la', 'when': '1455 etc', 'words': 417, 'iss_gen': 'm', 'landscapes': 4}
+{'nr': '08', 'lang': 'la', 'when': '1470-omkring', 'words': 72, 'iss_gen': 'm', 'landscapes': 1}
+{'nr': '09', 'lang': 'la', 'when': '1483', 'words': 79, 'iss_gen': 'm', 'landscapes': 1}
+{'nr': '10', 'lang': 'la', 'when': '1480-omkring', 'words': 593, 'iss_gen': 'm', 'landscapes': 2}
+{'nr': '11', 'lang': 'sv-x-old', 'when': '1409-05-06', 'words': 244, 'iss_gen': 'm', 'landscapes': 2}
+{'nr': '12', 'lang': 'sv-x-old', 'when': '1414-03-07', 'words': 187, 'iss_gen': 'f', 'landscapes': 1}
+{'nr': '14', 'lang': 'sv-x-old', 'when': '1414-03-24', 'words': 121, 'iss_gen': 'm', 'landscapes': 3}
+{'nr': '16', 'lang': 'sv-x-old', 'when': '1416-03-08', 'words': 322, 'iss_gen': 'f', 'landscapes': 1}
+{'nr': '17', 'lang': 'sv-x-old', 'when': '1416-03-08', 'words': 280, 'iss_gen': 'm', 'landscapes': 1}
+{'nr': '18', 'lang': 'sv-x-old', 'when': '1419-02-06', 'words': 273, 'iss_gen': 'm', 'landscapes': 4}
+{'nr': '19', 'lang': 'sv-x-old', 'when': '1420-07-01', 'words': 261, 'iss_gen': 'm', 'landscapes': 8}
+{'nr': '23', 'lang': 'sv-x-old', 'when': '1426-05-01', 'words': 287, 'iss_gen': 'both', 'landscapes': 3}
+{'nr': '24', 'lang': 'sv-x-old', 'when': '1426-07-01', 'words': 148, 'iss_gen': 'both', 'landscapes': 3}
+{'nr': '25', 'lang': 'sv-x-old', 'when': '1426-07-06', 'words': 278, 'iss_gen': 'm', 'landscapes': 2}
+{'nr': '27', 'lang': 'sv-x-old', 'when': '1431-07-06', 'words': 260, 'iss_gen': 'm', 'landscapes': 2}
+{'nr': '28', 'lang': 'sv-x-old', 'when': '1432-10-05', 'words': 155, 'iss_gen': 'm', 'landscapes': 4}
+{'nr': '30', 'lang': 'sv-x-old', 'when': '1435-01-22', 'words': 382, 'iss_gen': 'm', 'landscapes': 3}
+{'nr': '31', 'lang': 'sv-x-old', 'when': '1437-03-07', 'words': 325, 'iss_gen': 'm', 'landscapes': 1}
+{'nr': '32', 'lang': 'sv-x-old', 'when': '1443-03-10', 'words': 200, 'iss_gen': 'both', 'landscapes': 3}
+{'nr': '34', 'lang': 'sv-x-old', 'when': '1445-07-29', 'words': 348, 'iss_gen': 'f', 'landscapes': 2}
+{'nr': '36', 'lang': 'sv-x-old', 'when': '1448', 'words': 495, 'iss_gen': 'm', 'landscapes': 5}
+{'nr': '39', 'lang': 'sv-x-old', 'when': '1448-05-01', 'words': 537, 'iss_gen': 'f', 'landscapes': 2}
+{'nr': '44', 'lang': 'sv-x-old', 'when': '1449-07-08', 'words': 113, 'iss_gen': 'm', 'landscapes': 4}
+{'nr': '46', 'lang': 'sv-x-old', 'when': '1452-05-08', 'words': 1216, 'iss_gen': 'm', 'landscapes': 1}
+{'nr': '47', 'lang': 'sv-x-old', 'when': '1453-03-01', 'words': 1324, 'iss_gen': 'm', 'landscapes': 1}
+{'nr': '48', 'lang': 'sv-x-old', 'when': '1454-05-06', 'words': 137, 'iss_gen': 'm', 'landscapes': 1}
+{'nr': '49', 'lang': 'sv-x-old', 'when': '1454-06-16', 'words': 128, 'iss_gen': 'm', 'landscapes': 2}
+{'nr': '50', 'lang': 'sv-x-old', 'when': '1455-03-12', 'words': 294, 'iss_gen': 'm', 'landscapes': 2}
+{'nr': '54', 'lang': 'sv-x-old', 'when': '1456-03-12', 'words': 650, 'iss_gen': 'm', 'landscapes': 3}
+{'nr': '55', 'lang': 'sv-x-old', 'when': '1458-07-03', 'words': 103, 'iss_gen': 'm', 'landscapes': 4}
+{'nr': '58', 'lang': 'sv-x-old', 'when': '1465', 'words': 442, 'iss_gen': 'both', 'landscapes': 1}
+{'nr': '59', 'lang': 'sv-x-old', 'when': '1467-05-11', 'words': 469, 'iss_gen': 'both', 'landscapes': 2}
+{'nr': '60', 'lang': 'sv-x-old', 'when': '1470-omkring', 'words': 223, 'iss_gen': 'both', 'landscapes': 4}
+{'nr': '61', 'lang': 'sv-x-old', 'when': '1472-07-30', 'words': 123, 'iss_gen': 'm', 'landscapes': 5}
+{'nr': '62', 'lang': 'sv-x-old', 'when': '1472-08-01', 'words': 163, 'iss_gen': 'f', 'landscapes': 4}
+{'nr': '63', 'lang': 'sv-x-old', 'when': '1472-08-01', 'words': 172, 'iss_gen': 'f', 'landscapes': 4}
+{'nr': '64', 'lang': 'sv-x-old', 'when': '1472-09-14', 'words': 143, 'iss_gen': 'm', 'landscapes': 3}
+{'nr': '65', 'lang': 'sv-x-old', 'when': '1474-03-02', 'words': 164, 'iss_gen': 'm', 'landscapes': 3}
+{'nr': '66', 'lang': 'sv-x-old', 'when': '1475-08-12', 'words': 128, 'iss_gen': 'f', 'landscapes': 2}
+{'nr': '67', 'lang': 'sv-x-old', 'when': '1477-08-25?', 'words': 333, 'iss_gen': 'm', 'landscapes': 1}
+{'nr': '68', 'lang': 'sv-x-old', 'when': '1477-08-25', 'words': 392, 'iss_gen': 'm', 'landscapes': 2}
+{'nr': '69', 'lang': 'sv-x-old', 'when': '1479-05-09', 'words': 293, 'iss_gen': 'm', 'landscapes': 2}
+{'nr': '70', 'lang': 'sv-x-old', 'when': '1486-03-01', 'words': 132, 'iss_gen': 'm', 'landscapes': 2}
+{'nr': '71', 'lang': 'sv-x-old', 'when': '1486-03-12', 'words': 120, 'iss_gen': 'm', 'landscapes': 1}
+{'nr': '72', 'lang': 'sv-x-old', 'when': '1488-04-01', 'words': 152, 'iss_gen': 'm', 'landscapes': 3}
+{'nr': '73', 'lang': 'sv-x-old', 'when': '1488-07-12', 'words': 115, 'iss_gen': 'm', 'landscapes': 2}
+{'nr': '74', 'lang': 'sv-x-old', 'when': '1488-08-13', 'words': 140, 'iss_gen': 'm', 'landscapes': 1}
+{'nr': '75', 'lang': 'sv-x-old', 'when': '1491-08-28', 'words': 438, 'iss_gen': 'both', 'landscapes': 10}
+{'nr': '80', 'lang': 'sv-x-old', 'when': '1509-03-15', 'words': 391, 'iss_gen': 'm', 'landscapes': 4}
+{'nr': '81', 'lang': 'sv-x-old', 'when': '1509-03-17', 'words': 172, 'iss_gen': 'f', 'landscapes': 1}
+{'nr': '82', 'lang': 'sv-x-old', 'when': '1509-03-21', 'words': 184, 'iss_gen': 'm', 'landscapes': 1}
+{'nr': '83', 'lang': 'sv-x-old', 'when': '1509-03-21', 'words': 145, 'iss_gen': 'both', 'landscapes': 5}
+{'nr': '84', 'lang': 'la', 'when': '1515-09-08-omkr FIXME', 'words': 158, 'iss_gen': 'm', 'landscapes': 1}
+{'nr': '86', 'lang': 'la', 'when': '1481-07-24', 'words': 121, 'iss_gen': 'm', 'landscapes': 1}
+
+documents: 55
+
+Documents by gender:
+{'both': 9, 'm': 38, 'f': 8}
+
+Landscapes by gender:
+{'all': 143, 'both': 33, 'm': 93, 'f': 17}
+
+Landscape means:
+'f':  2.125
+'m':  2.4473684210526314
+'both':  3.6666666666666665
+'all': 2.6
+
+decades:
+{'1370': {'words': {'la': 123, 'sv': 0}, 'landscapes': 2}, '1380': {'words': {'la': 0, 'sv': 0}, 'landscapes': 0}, '1390': {'words': {'la': 0, 'sv': 0}, 'landscapes': 0}, '1400': {'words': {'la': 0, 'sv': 244}, 'landscapes': 2}, '1410': {'words': {'la': 0, 'sv': 1183}, 'landscapes': 10}, '1420': {'words': {'la': 0, 'sv': 974}, 'landscapes': 16}, '1430': {'words': {'la': 0, 'sv': 1122}, 'landscapes': 10}, '1440': {'words': {'la': 0, 'sv': 1693}, 'landscapes': 16}, '1450': {'words': {'la': 417, 'sv': 3852}, 'landscapes': 18}, '1460': {'words': {'la': 0, 'sv': 911}, 'landscapes': 3}, '1470': {'words': {'la': 72, 'sv': 2134}, 'landscapes': 31}, '1480': {'words': {'la': 793, 'sv': 659}, 'landscapes': 13}, '1490': {'words': {'la': 0, 'sv': 438}, 'landscapes': 10}, '1500': {'words': {'la': 0, 'sv': 892}, 'landscapes': 11}, '1510': {'words': {'la': 158, 'sv': 0}, 'landscapes': 1}}

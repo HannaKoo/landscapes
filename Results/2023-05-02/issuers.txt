@@ -1,0 +1,55 @@
+document 02 {'status': 'burgher', 'gender': 'm', 'onlyone': 'n'} {'status': 'burgher wife', 'gender': 'f', 'onlyone': 'n'} 
+document 07 {'status': 'ecclesiastic', 'gender': 'm', 'onlyone': 'y'}
+document 08 {'status': 'ecclesiastic', 'gender': 'm', 'onlyone': 'y?'}
+document 09 {'status': 'ecclesiastic', 'gender': 'm', 'onlyone': 'y'}
+document 10 {'status': 'ecclesiastic', 'gender': 'm', 'onlyone': 'y'}
+document 11 {'status': 'burgher', 'gender': 'm', 'onlyone': 'y'}
+document 12 {'status': 'peasant woman', 'gender': 'f', 'onlyone': 'y'}
+document 14 {'status': 'burgher', 'gender': 'm', 'onlyone': 'y'}
+document 16 {'status': 'burgher woman', 'gender': 'f', 'onlyone': 'y'}
+document 17 {'status': 'ecclesiastic', 'gender': 'm', 'onlyone': 'y'}
+document 18 {'status': 'nobleman', 'gender': 'm', 'onlyone': 'y'}
+document 19 {'status': 'nobleman', 'gender': 'm', 'onlyone': 'n'} {'status': 'nobleman', 'gender': 'm', 'onlyone': 'n'} {'status': 'nobleman', 'gender': 'm', 'onlyone': 'n'} {'status': 'nobleman', 'gender': 'm', 'onlyone': 'n'}    
+document 23 {'status': 'burgher woman', 'gender': 'f', 'onlyone': 'n'} {'status': 'burgher', 'gender': 'm', 'onlyone': 'n'}
+document 24 {'status': 'burgher', 'gender': 'm', 'onlyone': 'n'} {'status': 'burgher woman', 'gender': 'f', 'onlyone': 'n'}
+document 25 {'status': 'burgher', 'gender': 'm', 'onlyone': 'y'}
+document 27 {'status': 'ecclesiastic', 'gender': 'm', 'onlyone': 'y'}
+document 28 {'status': 'ecclesiastic', 'gender': 'm', 'onlyone': 'y'}
+document 30 {'status': 'nobleman', 'gender': 'm', 'onlyone': 'y'}
+document 31 {'status': 'peasant', 'gender': 'm', 'onlyone': ''}
+document 32 {'status': 'ecclesiastic', 'gender': 'm', 'onlyone': 'n'} {'status': 'burgher woman', 'gender': 'f', 'onlyone': 'n'}
+document 34 {'status': 'burgher woman', 'gender': 'f', 'onlyone': 'y'}
+document 36 {'status': 'nobleman', 'gender': 'm', 'onlyone': 'y'} {'status': 'nobleman', 'gender': 'm', 'onlyone': 'y'} {'status': 'nobleman', 'gender': 'm', 'onlyone': 'n'}
+document 39 {'status': 'burgher woman', 'gender': 'f', 'onlyone': 'y'}
+document 44 {'status': 'burgher', 'gender': 'm', 'onlyone': 'y'}
+document 46 {'status': 'nobleman', 'gender': 'm', 'onlyone': 'y'}
+document 47 {'status': 'nobleman', 'gender': 'm', 'onlyone': 'y'}
+document 48 {'status': 'burgher', 'gender': 'm', 'onlyone': 'y'}
+document 49 {'status': 'nobleman', 'gender': 'm', 'onlyone': 'y'}
+document 50 {'status': 'ecclesiastic', 'gender': 'm', 'onlyone': 'y'}
+document 54 {'status': 'burgher', 'gender': 'm', 'onlyone': 'y'}
+document 55 {'status': 'ecclesiastic', 'gender': 'm', 'onlyone': 'y'}
+document 58 {'status': 'nobleman', 'gender': 'm', 'onlyone': 'n'} {'status': 'noblewoman', 'gender': 'f', 'onlyone': 'n'}
+document 59 {'status': 'burgher', 'gender': 'm', 'onlyone': 'n'} {'status': 'burgher woman', 'gender': 'f', 'onlyone': 'n'} {'status': 'burgher woman', 'gender': 'f', 'onlyone': 'n'}
+document 60 {'status': 'burgher', 'gender': 'm', 'onlyone': 'n'} {'status': 'burgher woman', 'gender': 'f', 'onlyone': 'n'}
+document 61 {'status': 'nobleman', 'gender': 'm', 'onlyone': 'y'}
+document 62 {'status': 'noblewoman', 'gender': 'f', 'onlyone': 'y'}
+document 63 {'status': 'noblewoman', 'gender': 'f', 'onlyone': 'y'}
+document 64 {'status': 'burgher', 'gender': 'm', 'onlyone': 'y'}
+document 65 {'status': 'ecclesiastic', 'gender': 'm', 'onlyone': 'y'}
+document 66 {'status': 'burgher woman', 'gender': 'f', 'onlyone': 'y'}
+document 67 {'status': 'burgher', 'gender': 'm', 'onlyone': 'n'} {'status': 'burgher', 'gender': 'm', 'onlyone': 'n'}
+document 68 {'status': 'burgher', 'gender': 'm', 'onlyone': 'n'}
+document 69 {'status': 'nobleman', 'gender': 'm', 'onlyone': 'y'}
+document 70 {'status': 'ecclesiastic', 'gender': 'm', 'onlyone': 'n'} {'status': 'ecclesiastic', 'gender': 'm', 'onlyone': 'n'}
+document 71 {'status': 'nobleman', 'gender': 'm', 'onlyone': 'n'} {'status': 'nobleman', 'gender': 'm', 'onlyone': 'n'}
+document 72 {'status': 'ecclesiastic', 'gender': 'm', 'onlyone': 'n'} {'status': 'ecclesiastic', 'gender': 'm', 'onlyone': 'n'}
+document 73 {'status': 'burgher', 'gender': 'm', 'onlyone': 'y'}
+document 74 {'status': 'burgher', 'gender': 'm', 'onlyone': 'y'}
+document 75 {'status': 'burgher', 'gender': 'm', 'onlyone': 'n'} {'status': 'burgher woman', 'gender': 'f', 'onlyone': 'n'}
+document 80 {'status': 'burgher', 'gender': 'm', 'onlyone': 'n'} {'status': 'burgher', 'gender': 'm', 'onlyone': 'n'}
+document 81 {'status': 'burgher woman', 'gender': 'f', 'onlyone': 'y'}
+document 82 {'status': 'burgher', 'gender': 'm', 'onlyone': 'y'}
+document 83 {'status': 'ecclesiastic', 'gender': 'm', 'onlyone': 'n'} {'status': 'burgher', 'gender': 'm', 'onlyone': 'n'} {'status': 'burgher woman', 'gender': 'f', 'onlyone': 'n'}
+document 84 {'status': 'ecclesiastic', 'gender': 'm', 'onlyone': 'n'}
+document 86 {'status': 'ecclesiastic', 'gender': 'm', 'onlyone': 'y'}

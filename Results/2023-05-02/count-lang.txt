@@ -1,0 +1,118 @@
+document 02 la
+123
+document 07 la
+417
+document 08 la
+72
+document 09 la
+79
+document 10 la
+593
+document 11 sv-x-old
+244
+document 12 sv-x-old
+187
+document 14 sv-x-old
+121
+document 16 sv-x-old
+322
+document 17 sv-x-old
+280
+document 18 sv-x-old
+273
+document 19 sv-x-old
+261
+document 23 sv-x-old
+287
+document 24 sv-x-old
+148
+document 25 sv-x-old
+278
+document 27 sv-x-old
+260
+document 28 sv-x-old
+155
+document 30 sv-x-old
+382
+document 31 sv-x-old
+325
+document 32 sv-x-old
+200
+document 34 sv-x-old
+348
+document 36 sv-x-old
+495
+document 39 sv-x-old
+537
+document 44 sv-x-old
+113
+document 46 sv-x-old
+1216
+document 47 sv-x-old
+1324
+document 48 sv-x-old
+137
+document 49 sv-x-old
+128
+document 50 sv-x-old
+294
+document 54 sv-x-old
+650
+document 55 sv-x-old
+103
+document 58 sv-x-old
+442
+document 59 sv-x-old
+469
+document 60 sv-x-old
+223
+document 61 sv-x-old
+123
+document 62 sv-x-old
+163
+document 63 sv-x-old
+172
+document 64 sv-x-old
+143
+document 65 sv-x-old
+164
+document 66 sv-x-old
+128
+document 67 sv-x-old
+333
+document 68 sv-x-old
+392
+document 69 sv-x-old
+293
+document 70 sv-x-old
+132
+document 71 sv-x-old
+120
+document 72 sv-x-old
+152
+document 73 sv-x-old
+112
+sv-x-old
+3
+document 74 sv-x-old
+140
+document 75 sv-x-old
+438
+document 80 sv-x-old
+391
+document 81 sv-x-old
+172
+document 82 sv-x-old
+184
+document 83 sv-x-old
+145
+document 84 la
+158
+document 86 la
+121
+{'la': 7, 'sv': 49}
+{'la': 1563, 'sv': 14102}
+Averages:
+All: 279.73214285714283
+la: 223.28571428571428
+sv: 287.7959183673469
