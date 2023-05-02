@@ -1,3 +1,5 @@
+# Count landscape elements by issuer status
+
 import xml.etree.ElementTree as ET
 
 tree = ET.parse('Data/dataset_landscape.xml')

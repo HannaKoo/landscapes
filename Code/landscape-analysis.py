@@ -1,3 +1,6 @@
+# Landscape elements by gender
+# ... and decade
+
 import xml.etree.ElementTree as ET
 
 tree = ET.parse('Data/dataset_landscape.xml')
@@ -110,6 +113,7 @@ for doc in data:
   else:
     print("Found", doc['lang'])
 
+print("\ndecades:")
 print(decades)
 # for decade in decades:
 #   print(decade, ':', decade['words'], decade['landscapes'])

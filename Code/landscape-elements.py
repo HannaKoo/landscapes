@@ -1,3 +1,6 @@
+# List of all landscape elements
+# List cats, keys, types and lemmas
+
 import xml.etree.ElementTree as ET
 
 tree = ET.parse('Data/dataset_landscape.xml')
