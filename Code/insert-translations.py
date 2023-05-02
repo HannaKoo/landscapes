@@ -1,4 +1,5 @@
 # Insert lemma translations from landscape_lemmas.txt
+# Read xml from Data directory, write to Results directory.
 # Read landscape lemmas into dictionary {lemma: translation, ...}
 
 import xml.etree.ElementTree as ET

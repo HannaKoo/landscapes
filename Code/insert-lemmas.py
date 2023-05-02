@@ -1,3 +1,6 @@
+# Add lemmas from a landscape_lemmas.txt file and overwrite the xml document.
+# Be sure to read all the warnings in the code!
+
 # File format is comma separated:
 # landscape element,landscape element lemma,anything else
 # Note: Any white space is not removed. (TODO?)
