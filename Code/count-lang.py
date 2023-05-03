@@ -11,7 +11,8 @@ words = {'la':0, 'sv':0}
 # .get() does not work with xml:lang, relevant search terms: 
 #  namespace, nsmap
 
-# Counting words with .itertext does not include child elements, eg. landscape elements
+# Counting words with .itertext includes child elements, eg. landscape 
+# elements, but not tags or other markup.
 
 for doc in root:
   print(doc.tag, doc.get('nr'), end=" ")
