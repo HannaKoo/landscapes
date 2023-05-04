@@ -40,3 +40,4 @@ for doc in root:
 #
 #     print(ET.tostring(title, encoding='unicode', method='text'))
 # Bugaa: tulostaa usein ylimääräistä titlen jälkeen, miksi?
+# Onko se title.tail ? Eli ensimmäiseen tagiin asti editiota?
