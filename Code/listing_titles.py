@@ -20,10 +20,11 @@ root = tree.getroot()
 # root muuttujan kautta voidaan käsitellä xml tiedostoa
 
 # Ongelma: tulostaa notet ja translationit mukaan.
-# Idea: remove all notes and translations first from root.
+# IDEA: remove all notes and translations first from root.
+
 # for document in root.iter('document'):
 #     root.remove(document)  # problem: removes during traversal
-for note in root.findall('note'): # problem: not iterating
+for note in root.findall('note'): # problem: not recursive
     print("findall", note)
     root.remove(note)
 # for translation in root.iter('translation'):
@@ -36,6 +37,6 @@ for doc in root:
 
 # for title in root.iter('title'):
 #     print("".join(title.itertext()))
-
+#
 #     print(ET.tostring(title, encoding='unicode', method='text'))
 # Bugaa: tulostaa usein ylimääräistä titlen jälkeen, miksi?
