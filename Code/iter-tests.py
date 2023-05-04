@@ -21,3 +21,10 @@ for doc in root:  # all elements directly under root, in our case they are docum
     # how it works:
     print(list(title.itertext()))
   print()
+
+print(' ------ ')
+
+counter = 1
+for what in root.findall("./document/edition/title"):
+  print(counter, what.tag, what.get('nr'))
+  counter += 1

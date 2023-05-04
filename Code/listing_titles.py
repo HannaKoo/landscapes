@@ -24,9 +24,21 @@ root = tree.getroot()
 
 # for document in root.iter('document'):
 #     root.remove(document)  # problem: removes during traversal
-for note in root.findall('note'): # problem: not recursive
-    print("findall", note)
-    root.remove(note)
+
+# https://docs.python.org/3/library/xml.etree.elementtree.html#xpath-support
+# https://docs.python.org/3/library/xml.etree.elementtree.html#modifying-an-xml-file
+# for note in root.findall('.//note'): 
+#   # problem: not recursive, with XPath // it should be
+#     print(note.tag, note.text)
+#     print("findall", note)
+#     root.remove(note)
+
+for title in root.findall('.//title'):
+    for note in title.findall('note'):
+        title.remove(note)
+# Seems to work!
+# TODO: remove translations, what else?
+
 # for translation in root.iter('translation'):
 #     root.remove(translation)  # problem: removes during traversal
 
