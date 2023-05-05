@@ -1,0 +1,141 @@
+# <title>s without <note>s, what else should be removed? At least <translation>s.
+
+document 02 1370-05-31
+Super fundico in quo residet altarista sancte Katherine.
+document 07 1455 etc
+document 08 1470-omkring
+Testamentum domini Ragualdi Rengonpoyca de Reso.
+document 09 1483
+Testamentum magistri Haquini.
+document 10 1480-omkring
+Littera fundacionis summj altaris capelle omnium sanctorum et summe misse.
+document 11 1409-05-06
+Super fundico beate Marie virginis, qui adiacet curie altariste clericorum.
+document 12 1414-03-07
+Öfverskrift (senare tillagd): Super prato Tammistanala in Leedzala, parrochia Reso.
+document 14 1414-03-24
+Littera Hinzikinj Knap super duobus fundicis apellarum circa forum.
+document 16 1416-03-08
+Littera donacionis Lokanæs ad altare sancti Andree.
+document 17 1416-03-08
+Confirmacio donacionis super prediis Lokanæs.
+document 18 1419-02-06
+Super 3:a parte in Frisikyla seu Rouwas et fundico granarij vltra ampnem; jtem super Anyngos et Ventila. fundico granarij vltra ampnem; jtem super Anyngos et vno fundico ex opposito curie beate virginis et super Ventila.
+
+document 19 1420-07-01
+Super quodam ffundico ad plagam borealem ampnis Aboensis circa pedem pontis et balneatorium.
+document 23 1426-05-01
+Littera Elizabeth super quodam fundo jn vico Tauastie etc;
+document 24 1426-07-01
+Super curiam Laurencii Watmal prope ampnem.
+document 25 1426-07-06
+apellis circa forum etc.
+document 27 1431-07-06
+document 28 1432-10-05
+Super duobus (ͻ: duabus) apellis dictis boda circa forum ciuitatis Aboensis.
+document 30 1435-01-22
+Super prebenda altaris clericorum; primo littera Nicolaj Lydechinj super tribus missis.
+document 31 1437-03-07
+Super Grothela jn Kumo ad altare clericorum.
+document 32 1443-03-10
+Super vendicione fundj per fratrem Henricum Jordanj Swenonj aurifabro facta.
+document 34 1445-07-29
+document 36 1448
+Anno Domini mcdxlvijº, Prima colonia.
+Seminat in agro:
+
+Pro semine vernalj:
+
+Habet pro jnuentario vnum taurum, ij vaccas, ij oues.
+
+Dabit iij marcas pro agrario in anno.
+
+2:a colonia. Anno eodem.
+
+"For the spring sowing:
+He has one bull, two cows, and two sheep for the January plowing. He will give three marks per year for the agricultural land.
+
+Second colony. Same year."
+
+
+Pro jnuentario habet i par boum, v vaccas, j taurum de 3:bus annis
+et x oues.
+Super fundico:
+3:a colonia, Attula.
+Anno Domini mcdxlix.
+Pro jnuentario habet j par boum, iij vaccas, j juuencam, j equam vnius
+anni, x oues. Jsta sunt commvnia, primo domino Tuure
+Seminat in agro:
+        Pro semine vernalj:
+        Habet pro jnuentario j par boum, iij vaccas.
+        Dabit pro agrario iij marcas.
+
+        Anno etc:a [mcd]xlviij. 5:a colonia Hadila.
+Seminat in agro:
+
+        Pro semine vernalj:
+
+        Pro jnuentario habet vnum par boum, iiij vaccas, x oues.
+Super vno fundico.
+Super 2:bus opellis.
+Super prato vno in Lundh.
+document 39 1448-05-01
+
+document 44 1449-07-08
+Super orto vltra ampnem ad latus mansi beati Sigfridi.
+document 46 1452-05-08
+document 47 1453-03-01
+document 48 1454-05-06
+Super fundo comparato a Hannus Basse circa forum ciuitatis Aboensis cum suis pertinenciis.
+document 49 1454-06-16
+Littera Benedicti Lidikson super curia sua vltra ampnem in fundico beati Petri edificata.
+document 50 1455-03-12
+Super curia beati Erici in vico Tauastie.
+document 54 1456-03-12
+document 55 1458-07-03
+Super orto juxta mansum beati Sigfridi vltra ampnem.
+document 58 1465
+Super permutacione Kuliw in Haliis, Soenpoya, Maxila et Mæthajærffuj.
+document 59 1467-05-11
+Super curia Swenonis aurifabrj vna cum fundo vendita sancto Henrico.
+document 60 1470-omkring
+Super orto et granario cum fundico vltra ampnem.
+document 61 1472-07-30
+Super fundico circa ampnem.
+document 62 1472-08-01
+Super fundico beate Katerine apud ampnem.
+document 63 1472-08-01
+Super fundico beate Katerine apud ampnem.
+document 64 1472-09-14
+Super orto omnium sanctorum vltra ampnem.
+document 65 1474-03-02
+Pa alla helgona kolgordh och fellebodha rwm ouer ana.
+document 66 1475-08-12
+Super orto omnium sanctorum vltra ampnem.
+document 67 1477-08-25?
+Super orto caulum apud Aensborg ultra ampnem.
+document 68 1477-08-25
+Super orto omnium sanctorum vltra ampnem.
+document 69 1479-05-09
+document 70 1486-03-01
+Super curia beati Erici in vico Tauastie.
+document 71 1486-03-12
+Super curia beate Katerine apud ampnem.
+document 72 1488-04-01
+Super curia sancti Erici jn vico ecclesie.
+document 73 1488-07-12
+Hans Olssons aff Westeraars køpssuens.
+document 74 1488-08-13
+Laurens suerdslipper j Abo, Benct Laurensson j Abo.
+document 75 1491-08-28
+
+document 80 1509-03-15
+Super permutacione curie et fundici Menarth etc:a cum ecclesia facta.
+document 81 1509-03-17
+Copia litterarum Katherine filie aurifabrj quam ex hereditate contingebat vna pars in fundico Tole.
+document 82 1509-03-21
+Copia litterarum Swen Myre super vna parte fundici predicti seu curie Tole.
+document 83 1509-03-21
+document 84 1515-09-08-omkr FIXME
+
+document 86 1481-07-24

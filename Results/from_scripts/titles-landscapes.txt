@@ -1,0 +1,277 @@
+# Titles printed for reference, they include notes and everything.
+
+document 02
+Super fundico in quo residet altarista sancte Katherine.
+transaction:  fundico
+
+document 07
+
+document 08
+Testamentum domini Ragualdi Rengonpoyca de Reso.
+
+document 09
+Testamentum magistri Haquini.
+
+document 10
+Littera fundacionis summj altaris capelle omnium sanctorum et summe misse. Det nedan kursiverade är i handskriften utstruket.
+
+document 11
+Super fundico beate Marie virginis, qui adiacet curie altariste clericorum.
+landscape:  curie
+transaction:  fundico
+
+document 12
+Öfverskrift (senare tillagd): Super prato Tammistanala in Leedzala, parrochia Reso.
+
+document 14
+Littera Hinzikinj Knap super duobus fundicis apellarum circa forum.
+landscape:  forum
+transaction:  fundicis
+
+document 16
+Littera donacionis Lokanæs ad altare sancti Andree.
+
+document 17
+Confirmacio donacionis super prediis Lokanæs.
+
+document 18
+Super 3:a parte in Frisikyla seu Rouwas et fundico granarij vltra ampnem; jtem super Anyngos et Ventila. — Öfverstreckadt läses brefvet ock å fol. 290.
+Varianter i Svartboken fol. 250; Öfverskrift: Super 3:a parte in Friskylæ siue Rawas et fundico granarij vltra ampnem; jtem super Anyngos et vno fundico ex opposito curie beate virginis et super Ventila.
+
+landscape:  ampnem
+landscape:  curie
+transaction:  fundico granarij
+transaction:  fundico
+
+document 19
+Super quodam ffundico ad plagam borealem ampnis Aboensis circa pedem pontis et balneatorium.
+landscape:  plagam
+landscape:  ampnis
+landscape:  pedem pontis
+landscape:  balneatorium
+transaction:  ffundico
+
+document 23
+Littera Elizabeth super quodam fundo jn vico Tauastie etc; samt derefter med annan hand: Super curia Jngi Mariauoris jn vico Tauastie.
+landscape:  vico Tauastie
+landscape:  vico Tauastie
+transaction:  fundo
+transaction:  curia
+
+document 24
+Super curiam Laurencii Watmal prope ampnem.
+landscape:  ampnem
+transaction:  curiam
+
+document 25
+Öfverskrift: Super septem apellis circa forum etc. — Brefvet läses ock å fol. 211 v, der det förekommer med öfverskrift: Jtem super eisdem Också närmast föregående bref i Svartboken berör tvenne af samma bodar.
+landscape:  forum
+transaction:  apellis
+
+document 27
+
+document 28
+Super duobus (ͻ: duabus) apellis dictis boda circa forum ciuitatis Aboensis.
+landscape:  forum
+transaction:  apellis
+transaction:  boda
+
+document 30
+Super prebenda altaris clericorum; primo littera Nicolaj Lydechinj super tribus missis.
+
+document 31
+Super Grothela jn Kumo ad altare clericorum.
+
+document 32
+Super vendicione fundj per fratrem Henricum Jordanj Swenonj aurifabro facta.
+
+document 34
+
+document 36
+Anno Domini mcdxlvijº, Prima colonia.
+Seminat in agro:
+
+Pro semine vernalj:
+
+Habet pro jnuentario vnum taurum, ij vaccas, ij oues.
+
+Dabit iij marcas pro agrario in anno.
+
+2:a colonia. Anno eodem.
+
+"For the spring sowing:
+He has one bull, two cows, and two sheep for the January plowing. He will give three marks per year for the agricultural land.
+
+Second colony. Same year."
+
+
+Pro jnuentario habet i par boum, v vaccas, j taurum de 3:bus annis
+et x oues.
+Super fundico:
+transaction:  fundico
+3:a colonia, Attula.
+Anno Domini mcdxlix.
+Pro jnuentario habet j par boum, iij vaccas, j juuencam, j equam vnius
+anni, x oues. Jsta sunt commvnia, primo domino TuureNamnet i handskriften utstruket. Vinth.
+
+Seminat in agro:
+
+Pro semine vernalj: iiiɉ modios ordei, iij modios auene, ɉ modium tritici,
+jtem ɉ modii fabarum, ɉ modii pisorum.
+
+        4:a colonia, Sorsila.
+Seminat in agro:
+        Pro semine vernalj:
+        Habet pro jnuentario j par boum, iij vaccas.
+        Dabit pro agrario iij marcas.
+
+        Anno etc:a [mcd]xlviij. 5:a colonia Hadila.
+Seminat in agro:
+
+        Pro semine vernalj:
+
+        Pro jnuentario habet vnum par boum, iiij vaccas, x oues.
+Super vno fundico.
+Super 2:bus opellis.
+transaction:  opellis
+Super prato vno in Lundh.
+
+document 39
+
+
+document 44
+Super orto vltra ampnem ad latus mansi beati Sigfridi.
+landscape:  ampnem
+landscape:  mansi
+transaction:  orto
+
+document 46
+
+document 47
+
+document 48
+Super fundo comparato a Hannus Basse circa forum ciuitatis Aboensis cum suis pertinenciis.
+landscape:  forum
+transaction:  fundo
+
+document 49
+Littera Benedicti Lidikson super curia sua vltra ampnem in fundico beati Petri edificata.
+landscape:  ampnem
+transaction:  curia
+
+document 50
+Super curia beati Erici in vico Tauastie. — Jfr originalet tryckt i Arwidssons Handlingar IV, sid. 42.
+landscape:  vico Tauastie
+transaction:  curia
+
+document 54
+
+document 55
+Super orto juxta mansum beati Sigfridi vltra ampnem.
+landscape:  mansum
+landscape:  ampnem
+transaction:  orto
+
+document 58
+Super permutacione Kuliw in Haliis, Soenpoya, Maxila et Mæthajærffuj.
+transaction:  Mæthajærffuj
+
+document 59
+Super curia Swenonis aurifabrj vna cum fundo vendita sancto Henrico.
+transaction:  curia
+transaction:  fundo
+
+document 60
+Super orto et granario cum fundico vltra ampnem.
+landscape:  ampnem
+transaction:  orto
+transaction:  granario
+transaction:  fundico
+
+document 61
+Super fundico circa ampnem.
+landscape:  ampnem
+transaction:  fundico
+
+document 62
+Super fundico beate Katerine apud ampnem.
+landscape:  ampnem
+transaction:  fundico
+
+document 63
+Super fundico beate Katerine apud ampnem.
+landscape:  ampnem
+transaction:  fundico
+
+document 64
+Super orto omnium sanctorum vltra ampnem.
+landscape:  ampnem
+transaction:  orto
+
+document 65
+Pa alla helgona kolgordh och fellebodha rwm ouer ana.
+landscape:  ana
+transaction:  kolgordh
+transaction:  fellebodha rwm
+
+document 66
+Super orto omnium sanctorum vltra ampnem.
+landscape:  ampnem
+transaction:  orto
+
+document 67
+Super orto caulum apud Aensborg ultra ampnem.
+landscape:  ampnem
+transaction:  orto caulum
+
+document 68
+Super orto omnium sanctorum vltra ampnem.
+landscape:  ampnem
+transaction:  orto
+
+document 69
+
+document 70
+Super curia beati Erici in vico Tauastie.
+landscape:  vico Tauastie
+transaction:  curia
+
+document 71
+Super curia beate Katerine apud ampnem.
+landscape:  ampnem
+transaction:  curia
+
+document 72
+Super curia sancti Erici jn vico ecclesie.
+landscape:  vico ecclesie
+transaction:  curia
+
+document 73
+Hans Olssons aff Westeraars køpssuens.
+
+document 74
+Laurens suerdslipper j Abo, Benct Laurensson j Abo.
+
+document 75
+
+
+document 80
+Super permutacione curie et fundici Menarth etc:a cum ecclesia facta.
+transaction:  curie
+transaction:  fundici
+
+document 81
+Copia litterarum Katherine filie aurifabrj quam ex hereditate contingebat vna pars in fundico Tole.
+transaction:  fundico
+
+document 82
+Copia litterarum Swen Myre super vna parte fundici predicti seu curie Tole.
+transaction:  fundici
+transaction:  curie
+
+document 83
+
+document 84
+
+
+document 86
