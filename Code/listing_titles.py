@@ -38,7 +38,8 @@ for title in root.findall('.//title'):
         title.remove(note)
 # Seems to work!
 # EXCEPT: For some reason doc 12 is missing the whole title after marking a <note> in the beginning. 
-# Are there other problems like this?
+# Are there other problems like this? 
+# Yes, doc 25 printing starts only from the first tag after the note(transaction)!
 # TODO: remove translations, what else?
 
 # for translation in root.iter('translation'):
