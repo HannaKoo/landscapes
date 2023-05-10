@@ -65,3 +65,5 @@ m: [['river', 'bridge', 'garden', 'granary'], ['river'], ['river'], ['lot', 'riv
 
 both: [['church', 'church'], ['street'], ['river', 'street'], ['ditch', 'bridge', 'street'], ['lake'], ['ditch', 'FIXME'], ['church', 'ditch', 'shop'], ['street', 'street', 'street', 'street', 'hill', 'stone house', 'street', 'street', 'stone house', 'street'], ['street', 'ditch', "house's lot", 'street', 'ditch']]
 29
+
+f :{'river': 3, 'convent': 1, 'ditch': 1, 'market square': 1, 'shop': 1, 'coast': 2, "Provost's house": 2, 'stone sauna': 2, 'street': 1}

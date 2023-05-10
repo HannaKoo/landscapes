@@ -7,6 +7,13 @@ import xml.etree.ElementTree as ET
 tree = ET.parse('Data/dataset_landscape.xml')
 root = tree.getroot()
 
+def flatten(list):
+  flattened = []
+  for sublist in list:
+    for item in sublist:
+        flattened.append(item)
+  return flattened
+
 data = []
 
 for doc in root:
@@ -22,7 +29,7 @@ for doc in root:
   
   # Is there a way to do these in one go? 
   # 'edition//landscape' not working (gives also titles).
-  # 'edition/*/landscape' does something weird
+  # 'edition/*/landscape' does something weird.
   # union of the .iterfinds? Needs .findall?
   for landscape in doc.iterfind('edition/p/landscape'):
     (data[-1]['types']).append(landscape.get('type'))
@@ -56,6 +63,24 @@ with open('Results/from_scripts/gender-type.txt', 'w', encoding='utf8') as f:
     f.write(str(sum(map(len, (types['m'])))) + '\n'*2)
 
     f.write('both: ' + str(types['both']) + '\n')
-    f.write(str(sum(map(len, (types['both'])))) + '\n')
+    f.write(str(sum(map(len, (types['both'])))) + '\n'*2)
 
-## Flatten lists and count types
+    ## Flatten lists and count types
+
+    f_flat = flatten(types['f'])
+    m_flat = flatten(types['m'])
+    both_flat = flatten(types['both'])
+
+    # Counts for types:
+    # type   f  m both
+    # river 11 22 14
+
+# def count_items(list):
+    f_types = {}
+
+    for type in f_flat:
+      if type in f_types:
+          f_types[type] += 1
+      else:
+          f_types[type] = 1
+    f.write('f :' + str(f_types) + '\n')
