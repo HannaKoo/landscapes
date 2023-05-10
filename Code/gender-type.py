@@ -1,4 +1,6 @@
 # List landscape @types by issuer gender, only in edition, skip titles
+# Landscapes found at least in edition/landscape and edition/p/landscape,
+# others?
 
 import xml.etree.ElementTree as ET
 
@@ -6,13 +8,10 @@ tree = ET.parse('Data/dataset_landscape.xml')
 root = tree.getroot()
 
 data = []
-# types = {'f': [], 'm': [], 'both': []}
-
 
 for doc in root:
   
   data.append({'nr': doc.get('nr'), 'iss_gen': None, 'types': []})
-  # 'types_f': [], 'types_m': [], 'types_both': []})
 
   for issuer in doc.iter('issuer'):
     old = data[-1]['iss_gen']
@@ -21,15 +20,21 @@ for doc in root:
     elif old != issuer.get('gender'):
       data[-1]['iss_gen'] = 'both'
   
-  for landscape in doc.iter('landscape'):
+  # Is there a way to do these in one go? 
+  # 'edition//landscape' not working (gives also titles).
+  # 'edition/*/landscape' does something weird
+  # union of the .iterfinds? Needs .findall?
+  for landscape in doc.iterfind('edition/p/landscape'):
     (data[-1]['types']).append(landscape.get('type'))
-  
+  for landscape in doc.iterfind('edition/landscape'):
+    (data[-1]['types']).append(landscape.get('type'))
+#   for landscape in doc.iterfind('edition/*/landscape'):
+#     (data[-1]['types']).append(landscape.get('type'))
 
-### Write file; analyse data:
+
+###  Write file; analyse data:  ###
 
 with open('Results/from_scripts/gender-type.txt', 'w', encoding='utf8') as f:
-    f.write("in development: includes titles\n\n")
-
     for i in data:
         f.write(str(i) + '\n')
 

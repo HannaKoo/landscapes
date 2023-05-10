@@ -1,55 +1,53 @@
-in development: includes titles
-
 {'nr': '02', 'iss_gen': 'both', 'types': ['church', 'church']}
 {'nr': '07', 'iss_gen': 'm', 'types': ['river', 'bridge', 'garden', 'granary']}
 {'nr': '08', 'iss_gen': 'm', 'types': ['river']}
 {'nr': '09', 'iss_gen': 'm', 'types': ['river']}
 {'nr': '10', 'iss_gen': 'm', 'types': ['lot', 'river']}
-{'nr': '11', 'iss_gen': 'm', 'types': ['house', 'ditch']}
+{'nr': '11', 'iss_gen': 'm', 'types': ['ditch']}
 {'nr': '12', 'iss_gen': 'f', 'types': ['river']}
-{'nr': '14', 'iss_gen': 'm', 'types': ['market square', 'market square', 'market square']}
+{'nr': '14', 'iss_gen': 'm', 'types': ['market square', 'market square']}
 {'nr': '16', 'iss_gen': 'f', 'types': ['convent']}
 {'nr': '17', 'iss_gen': 'm', 'types': ['convent']}
-{'nr': '18', 'iss_gen': 'm', 'types': ['river', 'house', 'river', 'region']}
-{'nr': '19', 'iss_gen': 'm', 'types': ['region', 'river', 'bridgehead', 'sauna', 'river', 'bridgehead', 'sauna', 'bridge']}
-{'nr': '23', 'iss_gen': 'both', 'types': ['street', 'street', 'street']}
-{'nr': '24', 'iss_gen': 'both', 'types': ['river', 'river', 'street']}
-{'nr': '25', 'iss_gen': 'm', 'types': ['market square', 'market square']}
+{'nr': '18', 'iss_gen': 'm', 'types': ['river', 'region']}
+{'nr': '19', 'iss_gen': 'm', 'types': ['river', 'bridgehead', 'sauna', 'bridge']}
+{'nr': '23', 'iss_gen': 'both', 'types': ['street']}
+{'nr': '24', 'iss_gen': 'both', 'types': ['river', 'street']}
+{'nr': '25', 'iss_gen': 'm', 'types': ['market square']}
 {'nr': '27', 'iss_gen': 'm', 'types': ['ditch', 'church']}
-{'nr': '28', 'iss_gen': 'm', 'types': ['market square', 'market square', 'market square', 'street']}
+{'nr': '28', 'iss_gen': 'm', 'types': ['market square', 'market square', 'street']}
 {'nr': '30', 'iss_gen': 'm', 'types': ['ditch', 'market square', 'market square']}
 {'nr': '31', 'iss_gen': 'm', 'types': ['ditch']}
 {'nr': '32', 'iss_gen': 'both', 'types': ['ditch', 'bridge', 'street']}
 {'nr': '34', 'iss_gen': 'f', 'types': ['river', 'ditch']}
 {'nr': '36', 'iss_gen': 'm', 'types': ['river', 'convent', 'street', 'market square', 'bridge']}
 {'nr': '39', 'iss_gen': 'f', 'types': ['market square', 'shop']}
-{'nr': '44', 'iss_gen': 'm', 'types': ['river', 'lot', 'river', 'lot']}
+{'nr': '44', 'iss_gen': 'm', 'types': ['river', 'lot']}
 {'nr': '46', 'iss_gen': 'm', 'types': ['river']}
 {'nr': '47', 'iss_gen': 'm', 'types': ['river']}
-{'nr': '48', 'iss_gen': 'm', 'types': ['market square']}
-{'nr': '49', 'iss_gen': 'm', 'types': ['river', 'river']}
-{'nr': '50', 'iss_gen': 'm', 'types': ['street', 'street']}
+{'nr': '48', 'iss_gen': 'm', 'types': []}
+{'nr': '49', 'iss_gen': 'm', 'types': ['river']}
+{'nr': '50', 'iss_gen': 'm', 'types': ['street']}
 {'nr': '54', 'iss_gen': 'm', 'types': ['street', 'river', 'convent']}
-{'nr': '55', 'iss_gen': 'm', 'types': ['house', 'river', 'river', 'house']}
+{'nr': '55', 'iss_gen': 'm', 'types': ['river', 'house']}
 {'nr': '58', 'iss_gen': 'both', 'types': ['lake']}
 {'nr': '59', 'iss_gen': 'both', 'types': ['ditch', 'FIXME']}
-{'nr': '60', 'iss_gen': 'both', 'types': ['river', 'church', 'ditch', 'shop']}
-{'nr': '61', 'iss_gen': 'm', 'types': ['river', 'coast', 'house', 'stone sauna', 'river']}
-{'nr': '62', 'iss_gen': 'f', 'types': ['river', 'coast', "Provost's house", 'stone sauna']}
-{'nr': '63', 'iss_gen': 'f', 'types': ['river', 'coast', "Provost's house", 'stone sauna']}
-{'nr': '64', 'iss_gen': 'm', 'types': ['river', 'river', 'city region']}
-{'nr': '65', 'iss_gen': 'm', 'types': ['river', 'river', 'street']}
-{'nr': '66', 'iss_gen': 'f', 'types': ['river', 'river']}
-{'nr': '67', 'iss_gen': 'm', 'types': ['river']}
-{'nr': '68', 'iss_gen': 'm', 'types': ['river', 'river']}
+{'nr': '60', 'iss_gen': 'both', 'types': ['church', 'ditch', 'shop']}
+{'nr': '61', 'iss_gen': 'm', 'types': ['coast', 'house', 'stone sauna', 'river']}
+{'nr': '62', 'iss_gen': 'f', 'types': ['coast', "Provost's house", 'stone sauna']}
+{'nr': '63', 'iss_gen': 'f', 'types': ['coast', "Provost's house", 'stone sauna']}
+{'nr': '64', 'iss_gen': 'm', 'types': ['river', 'city region']}
+{'nr': '65', 'iss_gen': 'm', 'types': ['river', 'street']}
+{'nr': '66', 'iss_gen': 'f', 'types': ['river']}
+{'nr': '67', 'iss_gen': 'm', 'types': []}
+{'nr': '68', 'iss_gen': 'm', 'types': ['river']}
 {'nr': '69', 'iss_gen': 'm', 'types': ['market square', 'street']}
-{'nr': '70', 'iss_gen': 'm', 'types': ['street', 'street']}
-{'nr': '71', 'iss_gen': 'm', 'types': ['river']}
-{'nr': '72', 'iss_gen': 'm', 'types': ['street', 'lot', 'stone house']}
+{'nr': '70', 'iss_gen': 'm', 'types': ['street']}
+{'nr': '71', 'iss_gen': 'm', 'types': []}
+{'nr': '72', 'iss_gen': 'm', 'types': ['lot', 'stone house']}
 {'nr': '73', 'iss_gen': 'm', 'types': ['street', 'ditch']}
 {'nr': '74', 'iss_gen': 'm', 'types': ['convent']}
 {'nr': '75', 'iss_gen': 'both', 'types': ['street', 'street', 'street', 'street', 'hill', 'stone house', 'street', 'street', 'stone house', 'street']}
-{'nr': '80', 'iss_gen': 'm', 'types': ['house of the presbyter community', 'street', 'street', 'street']}
+{'nr': '80', 'iss_gen': 'm', 'types': ['house of the presbyter community', 'street', 'street']}
 {'nr': '81', 'iss_gen': 'f', 'types': ['street']}
 {'nr': '82', 'iss_gen': 'm', 'types': ['street']}
 {'nr': '83', 'iss_gen': 'both', 'types': ['street', 'ditch', "house's lot", 'street', 'ditch']}
@@ -59,11 +57,11 @@ in development: includes titles
 documents:55
 
 types by gender:
-f: [['river'], ['convent'], ['river', 'ditch'], ['market square', 'shop'], ['river', 'coast', "Provost's house", 'stone sauna'], ['river', 'coast', "Provost's house", 'stone sauna'], ['river', 'river'], ['street']]
-17
+f: [['river'], ['convent'], ['river', 'ditch'], ['market square', 'shop'], ['coast', "Provost's house", 'stone sauna'], ['coast', "Provost's house", 'stone sauna'], ['river'], ['street']]
+14
 
-m: [['river', 'bridge', 'garden', 'granary'], ['river'], ['river'], ['lot', 'river'], ['house', 'ditch'], ['market square', 'market square', 'market square'], ['convent'], ['river', 'house', 'river', 'region'], ['region', 'river', 'bridgehead', 'sauna', 'river', 'bridgehead', 'sauna', 'bridge'], ['market square', 'market square'], ['ditch', 'church'], ['market square', 'market square', 'market square', 'street'], ['ditch', 'market square', 'market square'], ['ditch'], ['river', 'convent', 'street', 'market square', 'bridge'], ['river', 'lot', 'river', 'lot'], ['river'], ['river'], ['market square'], ['river', 'river'], ['street', 'street'], ['street', 'river', 'convent'], ['house', 'river', 'river', 'house'], ['river', 'coast', 'house', 'stone sauna', 'river'], ['river', 'river', 'city region'], ['river', 'river', 'street'], ['river'], ['river', 'river'], ['market square', 'street'], ['street', 'street'], ['river'], ['street', 'lot', 'stone house'], ['street', 'ditch'], ['convent'], ['house of the presbyter community', 'street', 'street', 'street'], ['street'], ['market square'], ['market square']]
-93
+m: [['river', 'bridge', 'garden', 'granary'], ['river'], ['river'], ['lot', 'river'], ['ditch'], ['market square', 'market square'], ['convent'], ['river', 'region'], ['river', 'bridgehead', 'sauna', 'bridge'], ['market square'], ['ditch', 'church'], ['market square', 'market square', 'street'], ['ditch', 'market square', 'market square'], ['ditch'], ['river', 'convent', 'street', 'market square', 'bridge'], ['river', 'lot'], ['river'], ['river'], [], ['river'], ['street'], ['street', 'river', 'convent'], ['river', 'house'], ['coast', 'house', 'stone sauna', 'river'], ['river', 'city region'], ['river', 'street'], [], ['river'], ['market square', 'street'], ['street'], [], ['lot', 'stone house'], ['street', 'ditch'], ['convent'], ['house of the presbyter community', 'street', 'street'], ['street'], ['market square'], ['market square']]
+67
 
-both: [['church', 'church'], ['street', 'street', 'street'], ['river', 'river', 'street'], ['ditch', 'bridge', 'street'], ['lake'], ['ditch', 'FIXME'], ['river', 'church', 'ditch', 'shop'], ['street', 'street', 'street', 'street', 'hill', 'stone house', 'street', 'street', 'stone house', 'street'], ['street', 'ditch', "house's lot", 'street', 'ditch']]
-33
+both: [['church', 'church'], ['street'], ['river', 'street'], ['ditch', 'bridge', 'street'], ['lake'], ['ditch', 'FIXME'], ['church', 'ditch', 'shop'], ['street', 'street', 'street', 'street', 'hill', 'stone house', 'street', 'street', 'stone house', 'street'], ['street', 'ditch', "house's lot", 'street', 'ditch']]
+29
