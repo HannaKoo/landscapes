@@ -57,3 +57,5 @@ with open('Results/from_scripts/gender-type.txt', 'w', encoding='utf8') as f:
 
     f.write('both: ' + str(types['both']) + '\n')
     f.write(str(sum(map(len, (types['both'])))) + '\n')
+
+## Flatten lists and count types
