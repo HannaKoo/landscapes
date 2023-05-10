@@ -1,0 +1,51 @@
+ecclesia kathedralis	1
+ecclesia	1
+ampnis	19
+pons	2
+ortus	1
+granarium	1
+fundicus	1
+curia	2
+gropen	9
+an	17
+forum	5
+torgith	10
+brøderclostret	1
+clostret	3
+nya stadhen	1
+plaga	1
+balneatorium	1
+brooendhen	1
+badhstoffuu	1
+bron	3
+vicus Tauastie	4
+Tauastgathen	5
+gathan	3
+kirkian	1
+Kirkiegathen	6
+dikit	2
+Övergatan	1
+bod	1
+mansio	2
+tompt	2
+sancti Olaffs clostret	1
+gardh	1
+Mæthajærffuj	1
+Sancti Bartolomei Gaardh	1
+Woreffrv kirkio	1
+bodh	1
+stranden	3
+FIXME:Domprouestens gord	3
+FIXME:stenbastuffwen	3
+strand	1
+Aensborgh	1
+vicus ecclesie	1
+FIXME:alle Gudz helgone stenhws	1
+Fægathan	7
+Offuergathen	2
+Wordbærgit	1
+FIXME	2
+communis	1
+Aagathan	1
+gords tompt	1
+publicum forum	1
