@@ -66,4 +66,9 @@ m: [['river', 'bridge', 'garden', 'granary'], ['river'], ['river'], ['lot', 'riv
 both: [['church', 'church'], ['street'], ['river', 'street'], ['ditch', 'bridge', 'street'], ['lake'], ['ditch', 'FIXME'], ['church', 'ditch', 'shop'], ['street', 'street', 'street', 'street', 'hill', 'stone house', 'street', 'street', 'stone house', 'street'], ['street', 'ditch', "house's lot", 'street', 'ditch']]
 29
 
-f :{'river': 3, 'convent': 1, 'ditch': 1, 'market square': 1, 'shop': 1, 'coast': 2, "Provost's house": 2, 'stone sauna': 2, 'street': 1}
+f:
+{'region': 0, 'convent': 1, 'street': 1, 'hill': 0, 'bridgehead': 0, 'market square': 1, 'river': 3, 'lake': 0, 'house of the presbyter community': 0, "house's lot": 0, 'ditch': 1, 'sauna': 0, 'shop': 1, 'bridge': 0, 'lot': 0, 'FIXME': 0, 'stone sauna': 2, "Provost's house": 2, 'granary': 0, 'garden': 0, 'stone house': 0, 'house': 0, 'church': 0, 'city region': 0, 'coast': 2}
+m:
+{'region': 1, 'convent': 4, 'street': 11, 'hill': 0, 'bridgehead': 1, 'market square': 11, 'river': 17, 'lake': 0, 'house of the presbyter community': 1, "house's lot": 0, 'ditch': 5, 'sauna': 1, 'shop': 0, 'bridge': 3, 'lot': 3, 'FIXME': 0, 'stone sauna': 1, "Provost's house": 0, 'granary': 1, 'garden': 1, 'stone house': 1, 'house': 2, 'church': 1, 'city region': 1, 'coast': 1}
+both:
+{'region': 0, 'convent': 0, 'street': 12, 'hill': 1, 'bridgehead': 0, 'market square': 0, 'river': 1, 'lake': 1, 'house of the presbyter community': 0, "house's lot": 1, 'ditch': 5, 'sauna': 0, 'shop': 1, 'bridge': 1, 'lot': 0, 'FIXME': 1, 'stone sauna': 0, "Provost's house": 0, 'granary': 0, 'garden': 0, 'stone house': 2, 'house': 0, 'church': 3, 'city region': 0, 'coast': 0}

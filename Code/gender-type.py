@@ -39,9 +39,7 @@ typeset = set()
 for i in data:
     for type in i.get('types'):
         typeset.add(type)
-print('typeset', typeset)
 alltypes = dict.fromkeys(typeset, 0)
-print('alltypes', alltypes)
 
 f_types = alltypes.copy()
 m_types = alltypes.copy()
@@ -81,20 +79,6 @@ with open('Results/from_scripts/gender-type.txt', 'w', encoding='utf8') as f:
     f.write('both: ' + str(types['both']) + '\n')
     f.write(str(sum(map(len, (types['both'])))) + '\n'*2)
 
-    ## Flatten lists and count types
-    f_flat = flatten(types['f'])
-    m_flat = flatten(types['m'])
-    both_flat = flatten(types['both'])
-
-    f_types = {}
-
-    for type in f_flat:
-        if type in f_types:
-            f_types[type] += 1
-        else:
-            f_types[type] = 1
-    f.write('f :' + str(f_types) + '\n')
-
-    print('f', f_types)
-    print('m', m_types)
-    print('both', both_types)
+    f.write('f:\n' + str(f_types) + '\n')
+    f.write('m:\n' + str(m_types) + '\n')
+    f.write('both:\n' + str(both_types) + '\n')
