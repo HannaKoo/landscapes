@@ -2,15 +2,14 @@
 # Landscapes found at least in edition/landscape and edition/p/landscape,
 # others? 
 # TODO: How to list where landscapes are found? landscape.parent(.tag)...?
+        # Counts for types:
+        # type   f  m both
+        # river 11 22 14
 
 import xml.etree.ElementTree as ET
 
 tree = ET.parse('Data/dataset_landscape.xml')
 root = tree.getroot()
-
-        # Counts for types:
-        # type   f  m both
-        # river 11 22 14
 
 data = []  # tobe a list of dicts
 for doc in root:
@@ -46,7 +45,6 @@ for i in data:
     if i.get('iss_gen') == 'both':
         for type in i.get('types'):
             both_types[type] += 1
-    
 
 ###  Write file; analyse data:  ###
 
@@ -56,20 +54,7 @@ with open('Results/from_scripts/gender-type.txt', 'w', encoding='utf8') as f:
 
     f.write('\n')
     f.write("documents:" + str(len(data)))
-
     f.write('\n'*2)
-    f.write("types by gender:\n")
-
-    types = {'f': [], 'm': [], 'both': []}
-    for i in data:
-        types[i.get('iss_gen')].append(i.get('types'))
-
-    f.write('f: ' + str(types['f']) + '\n')
-    f.write(str(sum(map(len, (types['f'])))) + '\n'*2)
-    f.write('m: ' + str(types['m']) + '\n')
-    f.write(str(sum(map(len, (types['m'])))) + '\n'*2)
-    f.write('both: ' + str(types['both']) + '\n')
-    f.write(str(sum(map(len, (types['both'])))) + '\n'*2)
 
     f.write('f:\n' + str(f_types) + '\n')
     f.write('m:\n' + str(m_types) + '\n')
