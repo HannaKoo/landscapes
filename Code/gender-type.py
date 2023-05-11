@@ -10,36 +10,51 @@ root = tree.getroot()
 
 # Flatten a list of lists, goes only two levels deep.
 def flatten(list):
-  flattened = []
-  for sublist in list:
-    for item in sublist:
-        flattened.append(item)
-  return flattened
+    flattened = []
+    for sublist in list:
+        for item in sublist:
+            flattened.append(item)
+    return flattened
 
-data = []
+        # Counts for types:
+        # type   f  m both
+        # river 11 22 14
 
+data = []  # tobe a list of dicts
 for doc in root:
-  
-  data.append({'nr': doc.get('nr'), 'iss_gen': None, 'types': []})
+    data.append({'nr': doc.get('nr'), 'iss_gen': None, 'types': []})
+    for issuer in doc.iter('issuer'):
+        old = data[-1]['iss_gen']
+        if old == None:
+            data[-1]['iss_gen'] = issuer.get('gender')
+        elif old != issuer.get('gender'):
+            data[-1]['iss_gen'] = 'both'
+    
+    for landscape in doc.iterfind('edition/p/landscape'):
+        (data[-1]['types']).append(landscape.get('type'))
+    for landscape in doc.iterfind('edition/landscape'):
+        (data[-1]['types']).append(landscape.get('type'))
 
-  for issuer in doc.iter('issuer'):
-    old = data[-1]['iss_gen']
-    if old == None:
-      data[-1]['iss_gen'] = issuer.get('gender')
-    elif old != issuer.get('gender'):
-      data[-1]['iss_gen'] = 'both'
-  
-  # Is there a way to do these in one go? 
-  # 'edition//landscape' not working (gives also titles).
-  # 'edition/*/landscape' does something weird.
-  # union of the .iterfinds? Needs .findall?
-  for landscape in doc.iterfind('edition/p/landscape'):
-    (data[-1]['types']).append(landscape.get('type'))
-  for landscape in doc.iterfind('edition/landscape'):
-    (data[-1]['types']).append(landscape.get('type'))
-#   for landscape in doc.iterfind('edition/*/landscape'):
-#     (data[-1]['types']).append(landscape.get('type'))
+typeset = set()
+for i in data:
+    for type in i.get('types'):
+        typeset.add(type)
+alltypes = dict.fromkeys(typeset, 0)
 
+f_types = alltypes.copy()
+m_types = alltypes.copy()
+both_types = alltypes.copy()
+for i in data:
+    if i.get('iss_gen') == 'f':
+        for type in i.get('types'):
+            f_types[type] += 1
+    if i.get('iss_gen') == 'm':
+        for type in i.get('types'):
+            m_types[type] += 1
+    if i.get('iss_gen') == 'both':
+        for type in i.get('types'):
+            both_types[type] += 1
+    
 
 ###  Write file; analyse data:  ###
 
@@ -50,7 +65,6 @@ with open('Results/from_scripts/gender-type.txt', 'w', encoding='utf8') as f:
     f.write('\n')
     f.write("documents:" + str(len(data)))
 
-
     f.write('\n'*2)
     f.write("types by gender:\n")
 
@@ -60,32 +74,11 @@ with open('Results/from_scripts/gender-type.txt', 'w', encoding='utf8') as f:
 
     f.write('f: ' + str(types['f']) + '\n')
     f.write(str(sum(map(len, (types['f'])))) + '\n'*2)
-
     f.write('m: ' + str(types['m']) + '\n')
     f.write(str(sum(map(len, (types['m'])))) + '\n'*2)
-
     f.write('both: ' + str(types['both']) + '\n')
     f.write(str(sum(map(len, (types['both'])))) + '\n'*2)
 
-    ## Flatten lists and count types
-
-    f_flat = flatten(types['f'])
-    m_flat = flatten(types['m'])
-    both_flat = flatten(types['both'])
-
-# def count_items(list):
-# Or should I first make a list (dict) of all types to make the final table:
-    # Counts for types:
-    # type   f  m both
-    # river 11 22 14
-# Then the counting would be easier.
-
-
-    f_types = {}
-
-    for type in f_flat:
-      if type in f_types:
-          f_types[type] += 1
-      else:
-          f_types[type] = 1
-    f.write('f :' + str(f_types) + '\n')
+    f.write('f:\n' + str(f_types) + '\n')
+    f.write('m:\n' + str(m_types) + '\n')
+    f.write('both:\n' + str(both_types) + '\n')
