@@ -62,5 +62,7 @@ with open('Results/from_scripts/gender-type.txt', 'w', encoding='utf8') as f:
 
     f.write('type' +'\t'+ 'f' +'\t'+ 'm' +'\t'+ 'both' +'\n')
     for type in f_types:
-        f.write(type +'\t'+ str(f_types[type]) +'\t'+ str(m_types[type]) +'\t'+ str(both_types[type]) +'\n')
-        
+        f.write(type +'\t'+ 
+                str(f_types[type]) +'\t'+ 
+                str(m_types[type]) +'\t'+ 
+                str(both_types[type]) +'\n')
