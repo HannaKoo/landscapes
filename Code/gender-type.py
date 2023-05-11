@@ -8,14 +8,6 @@ import xml.etree.ElementTree as ET
 tree = ET.parse('Data/dataset_landscape.xml')
 root = tree.getroot()
 
-# Flatten a list of lists, goes only two levels deep.
-def flatten(list):
-    flattened = []
-    for sublist in list:
-        for item in sublist:
-            flattened.append(item)
-    return flattened
-
         # Counts for types:
         # type   f  m both
         # river 11 22 14
