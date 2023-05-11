@@ -1,12 +1,14 @@
 # List landscape @types by issuer gender, only in edition, skip titles
 # Landscapes found at least in edition/landscape and edition/p/landscape,
-# others?
+# others? 
+# TODO: How to list where landscapes are found? landscape.parent(.tag)...?
 
 import xml.etree.ElementTree as ET
 
 tree = ET.parse('Data/dataset_landscape.xml')
 root = tree.getroot()
 
+# Flatten a list of lists, goes only two levels deep.
 def flatten(list):
   flattened = []
   for sublist in list:
@@ -71,11 +73,14 @@ with open('Results/from_scripts/gender-type.txt', 'w', encoding='utf8') as f:
     m_flat = flatten(types['m'])
     both_flat = flatten(types['both'])
 
+# def count_items(list):
+# Or should I first make a list (dict) of all types to make the final table:
     # Counts for types:
     # type   f  m both
     # river 11 22 14
+# Then the counting would be easier.
 
-# def count_items(list):
+
     f_types = {}
 
     for type in f_flat:
