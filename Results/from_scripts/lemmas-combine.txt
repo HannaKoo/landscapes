@@ -35,16 +35,16 @@ Sancti Bartolomei Gaardh	1
 Woreffrv kirkio	1
 bodh	1
 stranden	3
-FIXME:Domprouestens gord	3
-FIXME:stenbastuffwen	3
+Domprouestens gord	3
+stenbastuffw	3
 strand	1
 Aensborgh	1
 vicus ecclesie	1
-FIXME:alle Gudz helgone stenhws	1
+alle Gudz helgone stenhws	1
 Fægathan	7
 Offuergathen	2
 Wordbærgit	1
-FIXME	2
+steenhus	2
 communis	1
 Aagathan	1
 gords tompt	1

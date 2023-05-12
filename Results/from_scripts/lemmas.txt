@@ -85,17 +85,17 @@ dikit
 bodh
 ampnis
 stranden
-FIXME:Domprouestens gord
-FIXME:stenbastuffwen
+Domprouestens gord
+stenbastuffw
 strand
 ampnis
 stranden
-FIXME:Domprouestens gord
-FIXME:stenbastuffwen
+Domprouestens gord
+stenbastuffw
 ampnis
 stranden
-FIXME:Domprouestens gord
-FIXME:stenbastuffwen
+Domprouestens gord
+stenbastuffw
 ampnis
 an
 Aensborgh
@@ -114,7 +114,7 @@ Tauastgathen
 ampnis
 vicus ecclesie
 tompt
-FIXME:alle Gudz helgone stenhws
+alle Gudz helgone stenhws
 Kirkiegathen
 gropen
 clostret
@@ -123,10 +123,10 @@ Fægathan
 Offuergathen
 Offuergathen
 Wordbærgit
-FIXME
+steenhus
 Kirkiegathen
 Kirkiegathen
-FIXME
+steenhus
 Tauastgathen
 communis
 Aagathan
