@@ -1,0 +1,27 @@
+river	37
+ditch	8
+coast	3
+lake	1
+hill	1
+
+street	30
+market square	16
+house	5
+convent	5
+church	4
+bridge	4
+lot	4
+ditch	3
+stone sauna	3
+stone house	3
+region	2
+bridgehead	2
+sauna	2
+shop	2
+Provost's house	2
+garden	1
+granary	1
+House of St. Bartholomew	1
+city region	1
+house of the presbyter community	1
+house's lot	1
