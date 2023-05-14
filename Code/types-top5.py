@@ -35,13 +35,13 @@ for landscape in root.iter('landscape'):
         print('Warning: cat', landscape.get('cat'), 'not expected.')
 
 natural_table = to_frequency_table(naturals)
+sorted_naturals = sorted(natural_table.items(), key=lambda x:x[1], reverse=True)
 built_table = to_frequency_table(builts)
+sorted_builts = sorted(built_table.items(), key=lambda x:x[1], reverse=True)
 
 with open('Results/from_scripts/types-top5.txt', 'w', encoding='utf8') as f:
-    sorted_naturals = sorted(natural_table.items(), key=lambda x:x[1], reverse=True)
     for i in sorted_naturals:
         print(i[0] +'\t'+ str(i[1]), file=f)
     print(file=f)
-    sorted_builts = sorted(built_table.items(), key=lambda x:x[1], reverse=True)
     for i in sorted_builts:
         print(i[0] +'\t'+ str(i[1]), file=f)
