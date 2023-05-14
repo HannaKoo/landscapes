@@ -34,3 +34,9 @@ print()
 table = to_frequency_table(types)
 for i in table:
     print(i, table[i])
+
+print()
+
+sorted_table = sorted(table.items(), key=lambda x:x[1], reverse=True)
+for i in sorted_table:
+    print(i)
