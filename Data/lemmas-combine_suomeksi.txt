@@ -1,0 +1,51 @@
+ecclesia kathedralis	tuomiokirkko	1
+ecclesia	kirkko	1
+ampnis	joki	19
+pons	silta	2
+ortus	puutarha	1
+granarium	vilja-aitta	1
+fundicus	tontti	1
+curia	talo	2
+gropen	krooppi	9
+an	joki	17
+forum	tori	5
+torgith	tori	10
+brøderclostret	munkkiluostari	1
+clostret	luostari	3
+nya stadhen	uusi kaupunki	1
+plaga	ranta	1
+balneatorium	sauna	1
+brooendhen	sillanpää	1
+badhstoffuu	sauna	1
+bron	silta	3
+vicus Tauastie	hämeenkatu	4
+Tauastgathen	hämeenkatu	5
+gathan	katu	3
+kirkian	kirkko	1
+Kirkiegathen	kirkkokatu	6
+dikit	oja	2
+Övergatan	ylinenkatu	1
+bod	aitta	1
+mansio	talo	2
+tompt	tontti	2
+sancti Olaffs clostret	pyhän olavin luostari	1
+gardh	talo	1
+Mæthajærffuj	mätäjärvi	1
+Sancti Bartolomei Gaardh	pyhän bartolomeuksen talo	1
+Woreffrv kirkio	meidän rouvamme kirkko	1
+bodh	aitta	1
+stranden	ranta	3
+Domprouestens gord	tuomiorovastin talo	3
+stenbastuffw	kivisauna	3
+strand	ranta	1
+Aensborgh	jokilinna	1
+vicus ecclesie	kirkkokatu	1
+alle Gudz helgone stenhws	kaikkien pyhien jumalien kivitalo	1
+Fægathan	karjakatu	7
+Offuergathen	ylinenkatu	2
+Wordbærgit	vartiovuori	1
+steenhus	kivitalo	2
+communis	yhteisö	1
+Aagathan	jokikatu	1
+gords tompt	talon tontti	1
+publicum forum	julkinen tori	1
