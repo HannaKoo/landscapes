@@ -1,5 +1,6 @@
 import xml.etree.ElementTree as ET
 from bs4 import BeautifulSoup
+from lxml import etree
 
 tree = ET.parse('Data/dataset_landscape.xml')
 root = tree.getroot()
@@ -21,6 +22,8 @@ print(root.find('document/regesta').get('xml:lang'))
 print(root.find('document/regesta').attrib)
 print(root.find('document/regesta/folio').get('xml:lang'))
 print(root.find('document/regesta/folio').attrib)
+print(" --- lxml --- ")
+
 print(" --- Inherit? --- ")
 print(root.find('document/regesta').get('{http://www.w3.org/XML/1998/namespace}lang'))
 print(root.find('document/regesta/folio').get('{http://www.w3.org/XML/1998/namespace}lang'))
