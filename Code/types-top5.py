@@ -31,25 +31,16 @@ for landscape in root.iter('landscape'):
     lang = landscape.xpath("ancestor-or-self::*[@xml:lang][1]/@xml:lang")[0]
     cat = landscape.get('cat')
     data[lang][cat].append(landscape.get('type'))
-    # data[lang][cat].append(landscape.text)  # useful for debugging
-
-print(data)
 
 sv_nat = to_frequency_table(data['sv-x-old']['natural'])
-print("sv_nat", sv_nat)
 sv_built = to_frequency_table(data['sv-x-old']['built'])
-print("sv_built", sv_built)
 la_nat = to_frequency_table(data['la']['natural'])
-print('la_nat', la_nat)
 la_built = to_frequency_table(data['la']['built'])
-print('la_built', la_built)
 
-sv_nat_sorted = sorted(sv_nat.items(), key=lambda x:x[1], reverse=True)
+sv_nat_sorted   =   sorted(sv_nat.items(), key=lambda x:x[1], reverse=True)
 sv_built_sorted = sorted(sv_built.items(), key=lambda x:x[1], reverse=True)
-la_nat_sorted = sorted(la_nat.items(), key=lambda x:x[1], reverse=True)
+la_nat_sorted   =   sorted(la_nat.items(), key=lambda x:x[1], reverse=True)
 la_built_sorted = sorted(la_built.items(), key=lambda x:x[1], reverse=True)
-# sorted_builts = sorted(built_table.items(), key=lambda x:x[1], reverse=True)
-print(sv_nat_sorted, sv_built_sorted, la_nat_sorted, la_built_sorted, sep='\n')
 
 with open('Results/from_scripts/types-top5.txt', 'w', encoding='utf8') as f:
     print(' --- sv, natural', file=f)
