@@ -1,0 +1,10 @@
+eccle
+['river', 'bridge', 'garden', 'granary', 'river', 'river', 'lot', 'river', 'convent', 'ditch', 'church', 'market square', 'market square', 'market square', 'street', 'street', 'street', 'house', 'river', 'river', 'house', 'river', 'river', 'street', 'street', 'street', 'street', 'lot', 'stone house', 'market square', 'market square']
+noble
+['river', 'house', 'river', 'region', 'region', 'river', 'bridgehead', 'sauna', 'river', 'bridgehead', 'sauna', 'bridge', 'ditch', 'market square', 'market square', 'river', 'convent', 'street', 'market square', 'bridge', 'river', 'river', 'river', 'river', 'lake', 'river', 'coast', 'house', 'stone sauna', 'river', 'river', 'coast', "Provost's house", 'stone sauna', 'river', 'coast', "Provost's house", 'stone sauna', 'market square', 'street', 'river']
+burgh
+['church', 'church', 'house', 'ditch', 'market square', 'market square', 'market square', 'convent', 'street', 'street', 'street', 'river', 'river', 'street', 'market square', 'market square', 'river', 'ditch', 'market square', 'shop', 'river', 'lot', 'river', 'lot', 'market square', 'street', 'river', 'convent', 'ditch', 'House of St. Bartholomew', 'river', 'church', 'ditch', 'shop', 'river', 'river', 'city region', 'river', 'river', 'river', 'river', 'river', 'street', 'ditch', 'convent', 'street', 'street', 'street', 'street', 'hill', 'stone house', 'street', 'street', 'stone house', 'street', 'house of the presbyter community', 'street', 'street', 'street', 'street', 'street']
+peasa
+['river', 'ditch']
+sever
+['ditch', 'bridge', 'street', 'street', 'ditch', "house's lot", 'street', 'ditch']

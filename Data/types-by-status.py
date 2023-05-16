@@ -22,9 +22,9 @@ for doc in root:
     for landscape in doc.iter('landscape'):
         types[status].append(landscape.get('type'))
 
-for status in ('eccle', 'noble', 'burgh', 'peasa', 'sever'):
-    print(status)
-    print(types[status])
+
 
 with open('Results/from_scripts/types-by-status.txt', 'w', encoding='utf8') as f:
-    pass
+    for status in ('eccle', 'noble', 'burgh', 'peasa', 'sever'):
+        print(status, file=f)
+        print(types[status], file=f)
