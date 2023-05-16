@@ -8,7 +8,7 @@
     # Built
     # lot       %          %
     # ...       %          %
-#
+# TODO: Calculate percentages (now done in Excel)
 
 import lxml.etree as ET
 # import xml.etree.ElementTree as ET
