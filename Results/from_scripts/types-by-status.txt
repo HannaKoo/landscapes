@@ -1,10 +1,10 @@
-eccle
-['river', 'bridge', 'garden', 'granary', 'river', 'river', 'lot', 'river', 'convent', 'ditch', 'church', 'market square', 'market square', 'street', 'street', 'river', 'house', 'river', 'street', 'street', 'lot', 'stone house', 'market square', 'market square']
-noble
-['river', 'region', 'river', 'bridgehead', 'sauna', 'bridge', 'ditch', 'market square', 'market square', 'river', 'convent', 'street', 'market square', 'bridge', 'river', 'river', 'river', 'lake', 'coast', 'house', 'stone sauna', 'river', 'coast', "Provost's house", 'stone sauna', 'coast', "Provost's house", 'stone sauna', 'market square', 'street']
-burgh
-['church', 'church', 'ditch', 'market square', 'market square', 'convent', 'street', 'river', 'street', 'market square', 'river', 'ditch', 'market square', 'shop', 'river', 'lot', 'street', 'river', 'convent', 'ditch', 'House of St. Bartholomew', 'church', 'ditch', 'shop', 'river', 'city region', 'river', 'river', 'street', 'ditch', 'convent', 'street', 'street', 'street', 'street', 'hill', 'stone house', 'street', 'street', 'stone house', 'street', 'house of the presbyter community', 'street', 'street', 'street', 'street']
-peasa
-['river', 'ditch']
-sever
-['ditch', 'bridge', 'street', 'street', 'ditch', "house's lot", 'street', 'ditch']
+eccle:
+Counter({'river': 6, 'market square': 4, 'street': 4, 'lot': 2, 'bridge': 1, 'garden': 1, 'granary': 1, 'convent': 1, 'ditch': 1, 'church': 1, 'house': 1, 'stone house': 1})
+noble:
+Counter({'river': 7, 'market square': 4, 'coast': 3, 'stone sauna': 3, 'bridge': 2, 'street': 2, "Provost's house": 2, 'region': 1, 'bridgehead': 1, 'sauna': 1, 'ditch': 1, 'convent': 1, 'lake': 1, 'house': 1})
+burgh:
+Counter({'street': 15, 'river': 7, 'ditch': 5, 'market square': 4, 'church': 3, 'convent': 3, 'shop': 2, 'stone house': 2, 'lot': 1, 'House of St. Bartholomew': 1, 'city region': 1, 'hill': 1, 'house of the presbyter community': 1})
+peasa:
+Counter({'river': 1, 'ditch': 1})
+sever:
+Counter({'ditch': 3, 'street': 3, 'bridge': 1, "house's lot": 1})
