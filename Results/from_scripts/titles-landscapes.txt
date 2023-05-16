@@ -1,3 +1,4 @@
+# Print transaction and landscape elements.
 # Titles printed for reference, they include notes and everything.
 
 document 02
