@@ -1,4 +1,5 @@
 # <title>s without <note>s, what else should be removed? At least <translation>s.
+# Warning: buggy output, at least doc 12 is missing, probably other problems.
 
 document 02 1370-05-31
 Super fundico in quo residet altarista sancte Katherine.
