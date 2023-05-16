@@ -19,7 +19,9 @@ for doc in root:
         print(statuses, status)
 
     # get landscape types to types[status]:
-    for landscape in doc.iter('landscape'):
+    for landscape in doc.iterfind('edition/p/landscape'):
+        types[status].append(landscape.get('type'))
+    for landscape in doc.iterfind('edition/landscape'):
         types[status].append(landscape.get('type'))
 
 
