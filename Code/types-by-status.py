@@ -3,7 +3,8 @@
     # type    noble eccles  burgher peasant several
     # river     x       y       z       w       v
 
-import lxml.etree as ET
+# import lxml.etree as ET
+import xml.etree.ElementTree as ET
 tree = ET.parse('Data/dataset_landscape.xml')
 root = tree.getroot()
 
