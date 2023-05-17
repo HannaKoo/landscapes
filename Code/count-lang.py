@@ -12,7 +12,9 @@ words = {'la':0, 'sv':0}
 #  namespace, nsmap
 
 # Counting words with .itertext includes child elements, eg. landscape 
-# elements, but not tags or other markup.
+# elements (and notes!), but not tags or other markup.
+# Language is counted per edition, so titles are counted in the language 
+# that the document is in.
 
 for doc in root:
   print(doc.tag, doc.get('nr'), end=" ")
