@@ -110,8 +110,8 @@ document 84 la
 158
 document 86 la
 121
-{'la': 7, 'sv': 49}
-{'la': 1563, 'sv': 14102}
+langs: {'la': 7, 'sv': 49} , sum: 56
+words: {'la': 1563, 'sv': 14102} , sum: 15665
 Averages:
 All: 279.73214285714283
 la: 223.28571428571428
