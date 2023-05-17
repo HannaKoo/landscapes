@@ -110,8 +110,11 @@ document 84 la
 158
 document 86 la
 121
-langs: {'la': 7, 'sv': 49} , sum: 56
-words: {'la': 1563, 'sv': 14102} , sum: 15665
+Languages are counted per document, so 'la' titles inside 'sv' documents are counted as 'sv'. Also <note>s and everything is counted.
+ 	latina	ruotsi	yhteensä
+dokumentteja	7	49	56
+sanat	1563	14102	15665
+uniikit sanat	915	4677	5592
 Averages:
 All: 279.73214285714283
 la: 223.28571428571428

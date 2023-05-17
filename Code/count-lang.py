@@ -7,7 +7,7 @@ root = tree.getroot()
 
 langs = {'la':0, 'sv':0}
 words = {'la':0, 'sv':0}
-unique_words = set()
+unique_words = {'la': set(), 'sv': set()}
 
 # .get() does not work with xml:lang, relevant search terms: 
 #  namespace, nsmap
@@ -21,22 +21,28 @@ with open('Results/from_scripts/count-lang.txt', 'w', encoding="utf8") as f:
     print(doc.tag, doc.get('nr'), end=" ", file=f)
     for edition in doc.iter('edition'):
       lang = edition.attrib['{http://www.w3.org/XML/1998/namespace}lang']
-      text = "".join(edition.itertext()).split()
+      textlist = "".join(edition.itertext()).split()
       print(lang, file=f)
-      wordcount = len(text)
+      wordcount = len(textlist)
       print(wordcount, file=f)
       if lang[:2] == 'la':
         langs['la'] += 1
         words['la'] += wordcount
+        unique_words['la'].update(textlist)
       elif lang[:2] == 'sv':
         langs['sv'] += 1
         words['sv'] += wordcount
+        unique_words['sv'].update(textlist)
       else:
         print("Found", lang, file=f)
         print("Found", edition.attrib, file=f)
 
-  print('langs:', langs, ', sum:', sum(langs.values()), file=f)
-  print('words:', words, ', sum:', sum(words.values()), file=f)
+  print("Languages are counted per document, so 'la' titles inside 'sv' documents are counted as 'sv'. Also <note>s and everything is counted.", file=f)
+  print(" ", 'latina', 'ruotsi', 'yhteensä', sep='\t', file=f)
+  print('dokumentteja', langs['la'], langs['sv'], sum(langs.values()), sep='\t', file=f)
+  print('sanat', words['la'], words['sv'], sum(words.values()), sep='\t', file=f)
+  print('uniikit sanat', len(unique_words['la']), len(unique_words['sv']), 
+        (len(unique_words['la']) + len(unique_words['sv'])), sep='\t', file=f)
 
   print("Averages:", file=f)
   print("All:", (words['la']+words['sv'])/(langs['la']+langs['sv']), file=f)
