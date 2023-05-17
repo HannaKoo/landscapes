@@ -1,4 +1,9 @@
 # Count edition texts and words by language
+# TODO: - exclude notes etc.
+#       - count titles in the language they are in, or leave them out?
+# include_tags = (p, landscape, transaction, issuer, ...)
+# exclude_tags = (note, scilicet, ...)
+# Warn about tags not found.
 
 import xml.etree.ElementTree as ET
 
