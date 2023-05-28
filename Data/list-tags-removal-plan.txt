@@ -1,0 +1,14 @@
+ 'document', (m)
+ 'edition', (m)
+ 'folio', (p)
+ 'issuer', m
+ 'landscape', m
+ 'landscapes', (m)
+ 'note', p
+ 'p', m
+ 'place', m
+ 'regesta', (p)
+ 'scilicet', (p)
+ 'title', m/p
+ 'transaction', m
+ 'translation', p (titlestä)
