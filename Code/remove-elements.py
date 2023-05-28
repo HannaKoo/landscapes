@@ -12,7 +12,7 @@ def remove_tag(tag, data):
     # The ? makes the regex lazy instead of greedy.
     return p.sub('', data)
 
-to_remove = ['note']
+to_remove = ['note', 'translation', 'title']
 
 with open("Data/dataset_landscape.xml", 'r', encoding='utf8') as f:
     data = f.read()
@@ -20,5 +20,5 @@ with open("Data/dataset_landscape.xml", 'r', encoding='utf8') as f:
 for tag in to_remove:
     data = remove_tag(tag, data)
 
-with open('Data/dataset_landscape_remove-note.xml', 'w', encoding='utf8') as f:
+with open('Data/dataset_landscape_remove-note,translation,title.xml', 'w', encoding='utf8') as f:
     f.write(data)
