@@ -14,7 +14,7 @@ def remove_tag(tag, data):
     data = p_normal.sub('', data)
     return data
 
-to_remove = ['note', 'translation', 'title']
+to_remove = ['note', 'translation']
 
 with open("Data/dataset_landscape.xml", 'r', encoding='utf8') as f:
     data = f.read()
@@ -22,5 +22,5 @@ with open("Data/dataset_landscape.xml", 'r', encoding='utf8') as f:
 for tag in to_remove:
     data = remove_tag(tag, data)
 
-with open('Data/dataset_landscape_remove-note,translation,title.xml', 'w', encoding='utf8') as f:
+with open('Data/dataset_landscape_remove-note,translation.xml', 'w', encoding='utf8') as f:
     f.write(data)
