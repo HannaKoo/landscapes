@@ -1,0 +1,1 @@
+['document', 'edition', 'folio', 'issuer', 'landscape', 'landscapes', 'note', 'p', 'place', 'regesta', 'scilicet', 'title', 'transaction', 'translation']
