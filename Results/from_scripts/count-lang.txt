@@ -7,11 +7,11 @@ document 08 la
 document 09 la
 79
 document 10 la
-593
+548
 document 11 sv-x-old
 244
 document 12 sv-x-old
-187
+184
 document 14 sv-x-old
 121
 document 16 sv-x-old
@@ -19,17 +19,17 @@ document 16 sv-x-old
 document 17 sv-x-old
 280
 document 18 sv-x-old
-273
+259
 document 19 sv-x-old
 261
 document 23 sv-x-old
-287
+276
 document 24 sv-x-old
 148
 document 25 sv-x-old
-278
+220
 document 27 sv-x-old
-260
+241
 document 28 sv-x-old
 155
 document 30 sv-x-old
@@ -39,15 +39,15 @@ document 31 sv-x-old
 document 32 sv-x-old
 200
 document 34 sv-x-old
-348
+340
 document 36 sv-x-old
-495
+460
 document 39 sv-x-old
 537
 document 44 sv-x-old
 113
 document 46 sv-x-old
-1216
+1212
 document 47 sv-x-old
 1324
 document 48 sv-x-old
@@ -55,7 +55,7 @@ document 48 sv-x-old
 document 49 sv-x-old
 128
 document 50 sv-x-old
-294
+284
 document 54 sv-x-old
 650
 document 55 sv-x-old
@@ -63,7 +63,7 @@ document 55 sv-x-old
 document 58 sv-x-old
 442
 document 59 sv-x-old
-469
+459
 document 60 sv-x-old
 223
 document 61 sv-x-old
@@ -71,7 +71,7 @@ document 61 sv-x-old
 document 62 sv-x-old
 163
 document 63 sv-x-old
-172
+169
 document 64 sv-x-old
 143
 document 65 sv-x-old
@@ -89,17 +89,17 @@ document 70 sv-x-old
 document 71 sv-x-old
 120
 document 72 sv-x-old
-152
+143
 document 73 sv-x-old
 112
 sv-x-old
-3
+0
 document 74 sv-x-old
 140
 document 75 sv-x-old
 438
 document 80 sv-x-old
-391
+386
 document 81 sv-x-old
 172
 document 82 sv-x-old
@@ -110,12 +110,12 @@ document 84 la
 158
 document 86 la
 121
-Languages are counted per document, so 'la' titles inside 'sv' documents are counted as 'sv'. Also <note>s and everything is counted.
+Languages are counted per document, so 'la' titles inside 'sv' documents are counted as 'sv'. <note>s and <translation>s are not counted.
  	latina	ruotsi	yhteensä
 dokumentteja	7	49	56
-sanat	1563	14102	15665
-uniikit sanat	915	4677	5592
+sanat	1518	13910	15428
+uniikit sanat	883	4563	5446
 Averages:
-All: 279.73214285714283
-la: 223.28571428571428
-sv: 287.7959183673469
+All: 275.5
+la: 216.85714285714286
+sv: 283.8775510204082

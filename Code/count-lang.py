@@ -1,5 +1,5 @@
 # Count edition texts and words by language
-# TODO: - exclude notes & translations etc.
+# TODO: [x] exclude notes & translations etc.
 #       - count titles in the language they are in, or leave them out?
 # include_tags = ((landscapes, document, edition), p, landscape, transaction, issuer, place, title,...)
 # exclude_tags = ((regesta, folio, scilicet), note, translation,  ...)
@@ -7,7 +7,7 @@
 
 import xml.etree.ElementTree as ET
 
-tree = ET.parse('Data/dataset_landscape.xml')
+tree = ET.parse('Data/dataset_landscape_remove-note,translation.xml')
 root = tree.getroot()
 
 langs = {'la':0, 'sv':0}
@@ -42,7 +42,7 @@ with open('Results/from_scripts/count-lang.txt', 'w', encoding="utf8") as f:
         print("Found", lang, file=f)
         print("Found", edition.attrib, file=f)
 
-  print("Languages are counted per document, so 'la' titles inside 'sv' documents are counted as 'sv'. Also <note>s and everything is counted.", file=f)
+  print("Languages are counted per document, so 'la' titles inside 'sv' documents are counted as 'sv'. <note>s and <translation>s are not counted.", file=f)
   print(" ", 'latina', 'ruotsi', 'yhteensä', sep='\t', file=f)
   print('dokumentteja', langs['la'], langs['sv'], sum(langs.values()), sep='\t', file=f)
   print('sanat', words['la'], words['sv'], sum(words.values()), sep='\t', file=f)
