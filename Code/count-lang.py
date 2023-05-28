@@ -5,7 +5,8 @@
 # exclude_tags = ((regesta, folio, scilicet), note, translation,  ...)
 # Warn about tags not found.
 
-import xml.etree.ElementTree as ET
+# import xml.etree.ElementTree as ET
+import lxml.etree as ET
 
 tree = ET.parse('Data/dataset_landscape_remove-note,translation.xml')
 root = tree.getroot()
@@ -30,11 +31,11 @@ with open('Results/from_scripts/count-lang.txt', 'w', encoding="utf8") as f:
       print(lang, file=f)
       wordcount = len(textlist)
       print(wordcount, file=f)
-      if lang[:2] == 'la':
+      if lang == 'la':
         langs['la'] += 1
         words['la'] += wordcount
         unique_words['la'].update(textlist)
-      elif lang[:2] == 'sv':
+      elif lang == 'sv-x-old':
         langs['sv'] += 1
         words['sv'] += wordcount
         unique_words['sv'].update(textlist)
