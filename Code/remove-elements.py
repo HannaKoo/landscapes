@@ -1,16 +1,18 @@
-# Remove <note> tags and others, using naive simple regexes: remove from <note> to first </note>.
+# Remove <note> elements and others, using naive simple regexes: remove from <note> to first </note>.
 # Does not work for:
 #  - <note> tags inside comments,
-#  - <note> tags inside other <note> tags. 
-#  - empty tags: <note type="FIXME"/>,
+#  - <note> elements inside other <note> elements. 
 #  - etc?
 
 import re
 
 def remove_tag(tag, data):
-    p = re.compile('<' + tag + '.*?</' + tag + '>', re.DOTALL)
+    p_empty = re.compile('<' + tag + '.*?/>')
+    data = p_empty.sub('', data)
+    p_normal = re.compile('<' + tag + '.*?</' + tag + '>', re.DOTALL)
     # The ? makes the regex lazy instead of greedy.
-    return p.sub('', data)
+    data = p_normal.sub('', data)
+    return data
 
 to_remove = ['note', 'translation', 'title']
 
