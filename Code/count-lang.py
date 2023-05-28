@@ -1,6 +1,6 @@
 # Count edition texts and words by language
 # TODO: [x] exclude notes & translations etc.
-#       - count titles in the language they are in, or leave them out?
+#       - count titles in the language they are in
 # include_tags = ((landscapes, document, edition), p, landscape, transaction, issuer, place, title,...)
 # exclude_tags = ((regesta, folio, scilicet), note, translation,  ...)
 # Warn about tags not found.
@@ -15,18 +15,18 @@ langs = {'la':0, 'sv':0}
 words = {'la':0, 'sv':0}
 unique_words = {'la': set(), 'sv': set()}
 
-# .get() does not work with xml:lang, relevant search terms: 
-#  namespace, nsmap
-
 # Counting words with .itertext includes child elements, eg. landscape 
 # elements (and notes!), but not tags or other markup.
 # Language is counted per edition, so titles are counted in the language 
 # that the document is in.
+
+# See about mixed-content documents: https://lxml.de/tutorial.html#elements-contain-text
+
 with open('Results/from_scripts/count-lang.txt', 'w', encoding="utf8") as f:
   for doc in root:
     print(doc.tag, doc.get('nr'), end=" ", file=f)
     for edition in doc.iter('edition'):
-      lang = edition.attrib['{http://www.w3.org/XML/1998/namespace}lang']
+      lang = edition.xpath("ancestor-or-self::*[@xml:lang][1]/@xml:lang")[0]
       textlist = "".join(edition.itertext()).split()
       print(lang, file=f)
       wordcount = len(textlist)
