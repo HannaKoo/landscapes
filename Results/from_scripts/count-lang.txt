@@ -1,121 +1,121 @@
 document 02 la
-123
+115
 document 07 la
 417
 document 08 la
-72
+66
 document 09 la
-79
+76
 document 10 la
-548
+538
 document 11 sv-x-old
-244
+234
 document 12 sv-x-old
-184
+177
 document 14 sv-x-old
-121
+112
 document 16 sv-x-old
-322
+315
 document 17 sv-x-old
-280
+275
 document 18 sv-x-old
-259
+216
 document 19 sv-x-old
-261
+248
 document 23 sv-x-old
-276
+266
 document 24 sv-x-old
-148
+142
 document 25 sv-x-old
-220
+211
 document 27 sv-x-old
 241
 document 28 sv-x-old
-155
+144
 document 30 sv-x-old
-382
+371
 document 31 sv-x-old
-325
+318
 document 32 sv-x-old
-200
+190
 document 34 sv-x-old
 340
 document 36 sv-x-old
-460
+305
 document 39 sv-x-old
 537
 document 44 sv-x-old
-113
+104
 document 46 sv-x-old
 1212
 document 47 sv-x-old
 1324
 document 48 sv-x-old
-137
+124
 document 49 sv-x-old
-128
+115
 document 50 sv-x-old
-284
+277
 document 54 sv-x-old
 650
 document 55 sv-x-old
-103
+95
 document 58 sv-x-old
-442
+433
 document 59 sv-x-old
-459
+449
 document 60 sv-x-old
-223
+215
 document 61 sv-x-old
-123
+119
 document 62 sv-x-old
-163
+157
 document 63 sv-x-old
-169
+163
 document 64 sv-x-old
-143
+137
 document 65 sv-x-old
-164
+155
 document 66 sv-x-old
-128
+122
 document 67 sv-x-old
-333
+326
 document 68 sv-x-old
-392
+386
 document 69 sv-x-old
 293
 document 70 sv-x-old
-132
+125
 document 71 sv-x-old
-120
+114
 document 72 sv-x-old
-143
+136
 document 73 sv-x-old
-112
+107
 sv-x-old
 0
 document 74 sv-x-old
-140
+132
 document 75 sv-x-old
 438
 document 80 sv-x-old
-386
+376
 document 81 sv-x-old
-172
+158
 document 82 sv-x-old
-184
+172
 document 83 sv-x-old
 145
 document 84 la
 158
 document 86 la
 121
-Languages are counted per document, so 'la' titles inside 'sv' documents are counted as 'sv'. <note>s and <translation>s are not counted.
+Languages are counted per document, so titles are not counted at all to avoid counting 'la' titles inside 'sv' documents as 'sv'. <note>s and <translation>s are not counted.
  	latina	ruotsi	yhteensä
 dokumentteja	7	49	56
-sanat	1518	13910	15428
-uniikit sanat	883	4563	5446
+sanat	1491	13401	14892
+uniikit sanat	869	4355	5224
 Averages:
-All: 275.5
-la: 216.85714285714286
-sv: 283.8775510204082
+All: 265.92857142857144
+la: 213.0
+sv: 273.48979591836735
