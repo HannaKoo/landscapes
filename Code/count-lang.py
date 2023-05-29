@@ -9,7 +9,18 @@
 
 # import xml.etree.ElementTree as ET
 import lxml.etree as ET
-# import counter
+from collections import Counter
+
+# subtract lists: a-b
+def subtract(a,b):
+  remaining = Counter(b)
+  result = []
+  for val in a:
+    if remaining[val]:
+      remaining[val] -= 1
+    else:
+      result.append(val)
+  return result
 
 tree = ET.parse('Data/dataset_landscape_remove-note,translation.xml')
 root = tree.getroot()
@@ -29,23 +40,22 @@ for edition in root.iter('edition'):
   
   # print(ET.tostring(edition, method="text", encoding="unicode"))
   edition_lang = edition.xpath("ancestor-or-self::*[@xml:lang][1]/@xml:lang")[0]
-  edition_textlist = ET.tostring(edition, method="text", encoding="unicode").split()
+  edition_textlist = ET.tostring(edition, method="text", encoding="unicode").split() 
+  # Whatabout .tail?
   print(edition_lang) #, file=f)
   edition_wordcount = len(edition_textlist)
   print(edition_wordcount) #, file=f)
 
-  title = edition.find('title')  # Takes only first title, but edition word counts include all of them! Only affects doc 36.
-  if title is not None:
+  title_wordcount = 0
+  title_lang = edition_lang
+  title_textlist = []
+  for title in edition.iter('title'):
     title_lang = title.xpath("ancestor-or-self::*[@xml:lang][1]/@xml:lang")[0]
-    title_textlist = ET.tostring(title, method="text", with_tail=False,
-                                 encoding="unicode").split()
+    title_textlist.extend(ET.tostring(title, method="text", with_tail=False,
+                          encoding="unicode").split())
     print(ET.tostring(title, method="text", with_tail=False, encoding="unicode"))
-    title_wordcount = len(title_textlist)
+    title_wordcount += len(title_textlist)
     print(title_textlist)
-  else:  # There's no title
-    title_lang = edition_lang
-    title_textlist = []
-    title_wordcount = 0
   print(title_wordcount) #, file=f)
   
   if edition_lang == title_lang == 'la':
@@ -60,6 +70,11 @@ for edition in root.iter('edition'):
     langs['sv'] += 1
     words['sv'] += edition_wordcount - title_wordcount
     words['la'] += title_wordcount
+    unique_words['la'].update(title_textlist)
+    unique_words['sv'].update(subtract(edition_textlist, title_textlist)) 
+    # https://stackoverflow.com/a/57827145/10216585
+    # slight problem if same word is found in swedish and latin!
+    # no problem if subtraction keeps counts.
   else:
     print("Found ed-lang:", edition_lang, 'title-lang:', title_lang) #, file=f)
     print("Found", edition.attrib) #, file=f)
@@ -71,7 +86,7 @@ print('sanat', words['la'], words['sv'], sum(words.values()), sep='\t') #, file=
 print('uniikit sanat', len(unique_words['la']), len(unique_words['sv']), 
       (len(unique_words['la']) + len(unique_words['sv'])), sep='\t') #, file=f)
 
-print("Averages:") #, file=f)
+print("Averages: (all latin in titles included, crap)") #, file=f)
 print("All:", (words['la']+words['sv'])/(langs['la']+langs['sv'])) #, file=f)
 for i in langs:
   print(i, end=": ") #, file=f)
