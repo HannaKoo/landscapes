@@ -1,121 +1,177 @@
 document 02 la
-115
+123
+title words: 8
 document 07 la
 417
+title words: 0
 document 08 la
-66
+72
+title words: 6
 document 09 la
-76
+79
+title words: 3
 document 10 la
-538
+548
+title words: 10
 document 11 sv-x-old
-234
+244
+title words: 10
 document 12 sv-x-old
-177
+184
+title words: 7
 document 14 sv-x-old
-112
+121
+title words: 9
 document 16 sv-x-old
-315
+322
+title words: 7
 document 17 sv-x-old
-275
+280
+title words: 5
 document 18 sv-x-old
-216
+259
+title words: 43
 document 19 sv-x-old
-248
+261
+title words: 13
 document 23 sv-x-old
-266
+276
+title words: 10
 document 24 sv-x-old
-142
+148
+title words: 6
 document 25 sv-x-old
-211
+220
+title words: 9
 document 27 sv-x-old
 241
+title words: 0
 document 28 sv-x-old
-144
+155
+title words: 11
 document 30 sv-x-old
-371
+382
+title words: 11
 document 31 sv-x-old
-318
+325
+title words: 7
 document 32 sv-x-old
-190
+200
+title words: 10
 document 34 sv-x-old
 340
+title words: 0
 document 36 sv-x-old
-305
+460
+title words: 1014
 document 39 sv-x-old
 537
+title words: 0
 document 44 sv-x-old
-104
+113
+title words: 9
 document 46 sv-x-old
 1212
+title words: 0
 document 47 sv-x-old
 1324
+title words: 0
 document 48 sv-x-old
-124
+137
+title words: 13
 document 49 sv-x-old
-115
+128
+title words: 13
 document 50 sv-x-old
-277
+284
+title words: 7
 document 54 sv-x-old
 650
+title words: 0
 document 55 sv-x-old
-95
+103
+title words: 8
 document 58 sv-x-old
-433
+442
+title words: 9
 document 59 sv-x-old
-449
+459
+title words: 10
 document 60 sv-x-old
-215
+223
+title words: 8
 document 61 sv-x-old
-119
+123
+title words: 4
 document 62 sv-x-old
-157
-document 63 sv-x-old
 163
+title words: 6
+document 63 sv-x-old
+169
+title words: 6
 document 64 sv-x-old
-137
+143
+title words: 6
 document 65 sv-x-old
-155
+164
+title words: 9
 document 66 sv-x-old
-122
+128
+title words: 6
 document 67 sv-x-old
-326
+333
+title words: 7
 document 68 sv-x-old
-386
+392
+title words: 6
 document 69 sv-x-old
 293
+title words: 0
 document 70 sv-x-old
-125
-document 71 sv-x-old
-114
-document 72 sv-x-old
-136
-document 73 sv-x-old
-107
-sv-x-old
-0
-document 74 sv-x-old
 132
+title words: 7
+document 71 sv-x-old
+120
+title words: 6
+document 72 sv-x-old
+143
+title words: 7
+document 73 sv-x-old
+112
+title words: 5
+document 73 sv-x-old
+0
+title words: 0
+document 74 sv-x-old
+140
+title words: 8
 document 75 sv-x-old
 438
+title words: 0
 document 80 sv-x-old
-376
+386
+title words: 10
 document 81 sv-x-old
-158
-document 82 sv-x-old
 172
+title words: 14
+document 82 sv-x-old
+184
+title words: 12
 document 83 sv-x-old
 145
+title words: 0
 document 84 la
 158
+title words: 0
 document 86 la
 121
-Languages are counted per document, so titles are not counted at all to avoid counting 'la' titles inside 'sv' documents as 'sv'. <note>s and <translation>s are not counted.
+title words: 0
+Hopefully: document language is counted from edition, <note>s and <translation>s are not counted.
  	latina	ruotsi	yhteensä
 dokumentteja	7	49	56
-sanat	1491	13401	14892
-uniikit sanat	869	4355	5224
-Averages:
-All: 265.92857142857144
-la: 213.0
-sv: 273.48979591836735
+sanat	2864	12564	15428
+uniikit sanat	1045	4364	5409
+Averages: (all latin in titles included, crap)
+All: 275.5
+la: 409.14285714285717
+sv: 256.40816326530614
