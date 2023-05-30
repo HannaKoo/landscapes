@@ -24,7 +24,7 @@ def subtract(a,b):
       result.append(val)
   return result
 
-tree = ET.parse('Data/dataset_landscape_remove-note,translation,title.xml')
+tree = ET.parse('Data/dataset_landscape_remove-note,translation.xml')
 root = tree.getroot()
 
 # See about mixed-content documents: https://lxml.de/tutorial.html#elements-contain-text
