@@ -70,6 +70,7 @@ with open('Results/from_scripts/count-lang.txt', 'w', encoding="utf8") as f:
       words['sv'] += edition_wordcount - title_wordcount
       words['la'] += title_wordcount
       unique_words['la'].update(title_textlist)
+      # print(subtract(edition_textlist, title_textlist))
       unique_words['sv'].update(subtract(edition_textlist, title_textlist))
     else:
       print("Found ed-lang:", edition_lang, 'title-lang:', title_lang, file=f)
