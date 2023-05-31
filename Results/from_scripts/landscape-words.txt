@@ -20,7 +20,6 @@ ampnem
 curie
 aana
 nyastadhen
-plagam
 ampnis
 pedem pontis
 balneatorium
@@ -70,16 +69,18 @@ aana
 vico Tauastie
 Tauaste gathunne
 kirkie gathunne
+torghit
 aan
 sancti Olaffs closther
 mansum
 ampnem
 aanne
-gaardh
+sancti Sigfridz gaardh
 Mæthaiærffuj
 Gropen
 sancti Bartholomej gaardh
 ampnem
+aen
 Woreffrv kirkio
 dykith
 bodh
@@ -99,6 +100,7 @@ stenbastuffwen
 ampnem
 aen
 Aensborgh
+boodhen
 ana
 ana
 gathen
@@ -120,6 +122,7 @@ gropen
 clostridh
 Fæægathen
 Fægathunne
+Fæægathen
 Offuergathen
 offuer gatthen
 Wordbærgit
