@@ -3,6 +3,7 @@
 #  - <note> tags inside comments,
 #  - <note> elements inside other <note> elements. 
 #  - etc?
+# TODO: Run all needed versions in one go. With and without title?
 
 import re
 
