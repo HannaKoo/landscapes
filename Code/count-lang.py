@@ -41,6 +41,9 @@ with open('Results/from_scripts/count-lang.txt', 'w', encoding="utf8") as f:
     
     # print(ET.tostring(edition, method="text", encoding="unicode"))
     edition_lang = edition.xpath("ancestor-or-self::*[@xml:lang][1]/@xml:lang")[0]
+    # TODO: What is this, could it help with the lang namespaces?
+    #   find = etree.ETXPath("//{ns}b")
+    #  https://lxml.de/xpathxslt.html#etxpath
     edition_textlist = ET.tostring(edition, method="text", encoding="unicode").split() 
     # Whatabout .tail?
     print(edition_lang, file=f)
