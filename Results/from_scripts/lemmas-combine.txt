@@ -7,13 +7,12 @@ granarium	1
 fundicus	1
 curia	2
 gropen	9
-an	17
+an	18
 forum	5
-torgith	10
+torgith	11
 brøderclostret	1
 clostret	3
 nya stadhen	1
-plaga	1
 balneatorium	1
 brooendhen	1
 badhstoffuu	1
@@ -25,15 +24,14 @@ kirkian	1
 Kirkiegathen	6
 dikit	2
 Övergatan	1
-bod	1
+bodh	3
 mansio	2
 tompt	2
 sancti Olaffs clostret	1
-gardh	1
+Sancti Sigfrids gardh	1
 Mæthajærffuj	1
 Sancti Bartolomei Gaardh	1
 Woreffrv kirkio	1
-bodh	1
 stranden	3
 Domprouestens gord	3
 stenbastuffw	3
@@ -41,7 +39,7 @@ strand	1
 Aensborgh	1
 vicus ecclesie	1
 alle Gudz helgone stenhws	1
-Fægathan	7
+Fægathan	8
 Offuergathen	2
 Wordbærgit	1
 steenhus	2
