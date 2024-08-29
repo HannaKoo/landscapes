@@ -4,6 +4,8 @@ ampnis	19
 pons	2
 ortus	1
 granarium	1
+fouea	1
+fundus beati Bartolomei	1
 fundicus	1
 curia	2
 gropen	9
@@ -13,6 +15,7 @@ torgith	11
 brøderclostret	1
 clostret	3
 nya stadhen	1
+plaga	1
 balneatorium	1
 brooendhen	1
 badhstoffuu	1
@@ -37,6 +40,7 @@ Domprouestens gord	3
 stenbastuffw	3
 strand	1
 Aensborgh	1
+kolgordh	1
 vicus ecclesie	1
 alle Gudz helgone stenhws	1
 Fægathan	8

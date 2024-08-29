@@ -6,6 +6,8 @@ ortus
 granarium
 ampnis
 ampnis
+fouea
+fundus beati Bartolomei
 fundicus
 ampnis
 curia
@@ -57,7 +59,7 @@ clostret
 torgith
 bron
 torgith
-bod
+bodh
 ampnis
 mansio
 an
@@ -70,16 +72,18 @@ an
 vicus Tauastie
 Tauastgathen
 Kirkiegathen
+torgith
 an
 sancti Olaffs clostret
 mansio
 ampnis
 an
-gardh
+Sancti Sigfrids gardh
 Mæthajærffuj
 gropen
 Sancti Bartolomei Gaardh
 ampnis
+an
 Woreffrv kirkio
 dikit
 bodh
@@ -99,8 +103,10 @@ stenbastuffw
 ampnis
 an
 Aensborgh
+bodh
 an
 an
+kolgordh
 gathan
 ampnis
 an
@@ -118,6 +124,7 @@ alle Gudz helgone stenhws
 Kirkiegathen
 gropen
 clostret
+Fægathan
 Fægathan
 Fægathan
 Offuergathen
