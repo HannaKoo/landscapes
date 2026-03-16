@@ -1,0 +1,201 @@
+from wordcloud import WordCloud
+import matplotlib.pyplot as plt
+
+def show_word_cloud(text, compound_words=[]):
+    # Replace spaces in compound words with underscores
+    for phrase in compound_words:
+        text = text.replace(phrase, phrase.replace(" ", "_"))
+
+    
+    # Generate the word cloud
+    cloud = WordCloud(width=1000, height=1000, background_color='white',stopwords=set(), min_font_size=10, max_words=200)
+    cloud = cloud.generate(text)
+    
+    # Convert the cloud to an array to manipulate it
+    cloud_array = cloud.to_array()
+    
+    # Display the word cloud
+    plt.figure(figsize=(10, 10))
+    plt.imshow(cloud_array, interpolation="bilinear")
+    plt.axis('off')
+    
+    # Save and then display the image, replacing underscores with spaces
+    # Save the word cloud image with high resolution
+    plt.savefig("kielimaisemat_sanapilvi.png", dpi=600, bbox_inches='tight')
+    # plt.savefig(filename=plt.savefig(), dpi=1200, bbox_inches='tight')
+    plt.show()
+
+# Replace this with your own text
+text ="""
+ecclesia kathedralis
+ecclesia
+ampnis
+pons
+ortus
+granarium
+ampnis
+ampnis
+fouea
+fundus beati Bartolomei
+fundicus
+ampnis
+curia
+gropen
+an
+forum
+torgith
+torgith
+brøderclostret
+clostret
+ampnis
+curia
+an
+nya stadhen
+plaga
+ampnis
+pons
+balneatorium
+an
+brooendhen
+badhstoffuu
+bron
+vicus Tauastie
+vicus Tauastie
+Tauastgathen
+ampnis
+an
+gathan
+forum
+torgith
+gropen
+kirkian
+forum
+torgith
+torgith
+gathan
+gropen
+torgith
+torgith
+gropen
+gropen
+bron
+Kirkiegathen
+an
+dikit
+an
+clostret
+Övergatan
+torgith
+bron
+torgith
+bodh
+ampnis
+mansio
+an
+tompt
+an
+an
+forum
+ampnis
+an
+vicus Tauastie
+Tauastgathen
+Kirkiegathen
+torgith
+an
+sancti Olaffs clostret
+mansio
+ampnis
+an
+Sancti Sigfrids gardh
+Mæthajærffuj
+gropen
+Sancti Bartolomei Gaardh
+ampnis
+an
+Woreffrv kirkio
+dikit
+bodh
+ampnis
+stranden
+Domprouestens gord
+stenbastuffw
+strand
+ampnis
+stranden
+Domprouestens gord
+stenbastuffw
+ampnis
+stranden
+Domprouestens gord
+stenbastuffw
+ampnis
+an
+Aensborgh
+bodh
+an
+an
+kolgordh
+gathan
+ampnis
+an
+ampnis
+ampnis
+an
+torgith
+Kirkiegathen
+vicus Tauastie
+Tauastgathen
+ampnis
+vicus ecclesie
+tompt
+alle Gudz helgone stenhws
+Kirkiegathen
+gropen
+clostret
+Fægathan
+Fægathan
+Fægathan
+Offuergathen
+Offuergathen
+Wordbærgit
+steenhus
+Kirkiegathen
+Kirkiegathen
+steenhus
+Tauastgathen
+communis
+Aagathan
+Fægathan
+Tauastgathen
+Fægathan
+Fægathan
+Fægathan
+gropen
+gords tompt
+Fægathan
+gropen
+forum
+publicum forum
+
+"""
+
+# List any compound words or phrases that you want to stay together
+compound_words = [
+    "ecclesia kathedralis", 
+    "fundus beati Bartolomei", 
+    "nya stadhen", 
+    "vicus Tauastie", 
+    "sancti Olaffs clostret",
+    "Sancti Sigfrids gardh",
+    "Sancti Bartolomei Gaardh",
+    "Woreffrv kirkio",
+    "Domprouestens gord",
+    "vicus ecclesie",
+    "alle Gudz helgone stenhws",
+    "gords tompt",
+    "publicum forum"
+]
+
+# Generate the word cloud with your text
+show_word_cloud(text, compound_words)
